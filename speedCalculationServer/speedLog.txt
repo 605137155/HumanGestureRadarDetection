@@ -1,0 +1,5104 @@
+Received 75 bytes in last 10 seconds.
+Speed: 0.00732422 KB/s
+Received 205 bytes in last 10 seconds.
+Speed: 0.0200195 KB/s
+Received 21 bytes in last 10 seconds.
+Speed: 0.00205078 KB/s
+Received 21 bytes in last 10 seconds.
+Speed: 0.00205078 KB/s
+Received 6 bytes in last 10 seconds.
+Speed: 0.000585937 KB/s
+Received 40962 bytes in last 10 seconds.
+Speed: 4.0002 KB/s
+Received 4854 bytes in last 10 seconds.
+Speed: 0.474023 KB/s
+Received 56682 bytes in last 10 seconds.
+Speed: 5.53535 KB/s
+Received 133680 bytes in last 10 seconds.
+Speed: 13.0547 KB/s
+Received 125904 bytes in last 10 seconds.
+Speed: 12.2953 KB/s
+Received 96870 bytes in last 10 seconds.
+Speed: 9.45996 KB/s
+Received 125058 bytes in last 10 seconds.
+Speed: 12.2127 KB/s
+Received 140124 bytes in last 10 seconds.
+Speed: 13.684 KB/s
+Received 237090 bytes in last 10 seconds.
+Speed: 23.1533 KB/s
+Received 128262 bytes in last 10 seconds.
+Speed: 12.5256 KB/s
+Received 86736 bytes in last 10 seconds.
+Speed: 8.47031 KB/s
+Received 5634 bytes in last 10 seconds.
+Speed: 0.550195 KB/s
+Received 2910 bytes in last 10 seconds.
+Speed: 0.28418 KB/s
+Received 80274 bytes in last 10 seconds.
+Speed: 7.83926 KB/s
+Received 138612 bytes in last 10 seconds.
+Speed: 13.5363 KB/s
+Received 153108 bytes in last 10 seconds.
+Speed: 14.952 KB/s
+Received 107400 bytes in last 10 seconds.
+Speed: 10.4883 KB/s
+Received 124482 bytes in last 10 seconds.
+Speed: 12.1564 KB/s
+Received 108816 bytes in last 10 seconds.
+Speed: 10.6266 KB/s
+Received 2406 bytes in last 10 seconds.
+Speed: 0.234961 KB/s
+Received 23886 bytes in last 10 seconds.
+Speed: 2.33262 KB/s
+Received 157548 bytes in last 10 seconds.
+Speed: 15.3855 KB/s
+Received 165234 bytes in last 10 seconds.
+Speed: 16.1361 KB/s
+Received 149016 bytes in last 10 seconds.
+Speed: 14.5523 KB/s
+Received 140700 bytes in last 10 seconds.
+Speed: 13.7402 KB/s
+Received 159582 bytes in last 10 seconds.
+Speed: 15.5842 KB/s
+Received 77262 bytes in last 10 seconds.
+Speed: 7.54512 KB/s
+Received 2958 bytes in last 10 seconds.
+Speed: 0.288867 KB/s
+Received 153102 bytes in last 10 seconds.
+Speed: 14.9514 KB/s
+Received 194556 bytes in last 10 seconds.
+Speed: 18.9996 KB/s
+Received 143634 bytes in last 10 seconds.
+Speed: 14.0268 KB/s
+Received 147108 bytes in last 10 seconds.
+Speed: 14.366 KB/s
+Received 159354 bytes in last 10 seconds.
+Speed: 15.5619 KB/s
+Received 63078 bytes in last 10 seconds.
+Speed: 6.15996 KB/s
+Received 10704 bytes in last 10 seconds.
+Speed: 1.04531 KB/s
+Received 518 bytes in last 10 seconds.
+Speed: 0.0505859 KB/s
+Received 4962 bytes in last 10 seconds.
+Speed: 0.48457 KB/s
+Received 3026 bytes in last 10 seconds.
+Speed: 0.295508 KB/s
+Received 120720 bytes in last 10 seconds.
+Speed: 11.7891 KB/s
+Received 147420 bytes in last 10 seconds.
+Speed: 14.3965 KB/s
+Received 113820 bytes in last 10 seconds.
+Speed: 11.1152 KB/s
+Received 132978 bytes in last 10 seconds.
+Speed: 12.9861 KB/s
+Received 124290 bytes in last 10 seconds.
+Speed: 12.1377 KB/s
+Received 134574 bytes in last 10 seconds.
+Speed: 13.142 KB/s
+Received 142740 bytes in last 10 seconds.
+Speed: 13.9395 KB/s
+Received 72930 bytes in last 10 seconds.
+Speed: 7.12207 KB/s
+Received 9438 bytes in last 10 seconds.
+Speed: 0.92168 KB/s
+Received 116814 bytes in last 10 seconds.
+Speed: 11.4076 KB/s
+Received 144084 bytes in last 10 seconds.
+Speed: 14.0707 KB/s
+Received 135444 bytes in last 10 seconds.
+Speed: 13.227 KB/s
+Received 125616 bytes in last 10 seconds.
+Speed: 12.2672 KB/s
+Received 140160 bytes in last 10 seconds.
+Speed: 13.6875 KB/s
+Received 10428 bytes in last 10 seconds.
+Speed: 1.01836 KB/s
+Received 1422 bytes in last 10 seconds.
+Speed: 0.138867 KB/s
+Received 4506 bytes in last 10 seconds.
+Speed: 0.440039 KB/s
+Received 124518 bytes in last 10 seconds.
+Speed: 12.16 KB/s
+Received 167610 bytes in last 10 seconds.
+Speed: 16.3682 KB/s
+Received 187752 bytes in last 10 seconds.
+Speed: 18.3352 KB/s
+Received 176574 bytes in last 10 seconds.
+Speed: 17.2436 KB/s
+Received 212394 bytes in last 10 seconds.
+Speed: 20.7416 KB/s
+Received 110964 bytes in last 10 seconds.
+Speed: 10.8363 KB/s
+Received 1824 bytes in last 10 seconds.
+Speed: 0.178125 KB/s
+Received 1176 bytes in last 10 seconds.
+Speed: 0.114844 KB/s
+Received 3644 bytes in last 10 seconds.
+Speed: 0.355859 KB/s
+Received 4818 bytes in last 10 seconds.
+Speed: 0.470508 KB/s
+Received 65460 bytes in last 10 seconds.
+Speed: 6.39258 KB/s
+Received 138558 bytes in last 10 seconds.
+Speed: 13.5311 KB/s
+Received 162174 bytes in last 10 seconds.
+Speed: 15.8373 KB/s
+Received 40716 bytes in last 10 seconds.
+Speed: 3.97617 KB/s
+Received 4818 bytes in last 10 seconds.
+Speed: 0.470508 KB/s
+Received 4836 bytes in last 10 seconds.
+Speed: 0.472266 KB/s
+Received 4818 bytes in last 10 seconds.
+Speed: 0.470508 KB/s
+Received 56226 bytes in last 10 seconds.
+Speed: 5.49082 KB/s
+Received 180138 bytes in last 10 seconds.
+Speed: 17.5916 KB/s
+Received 211044 bytes in last 10 seconds.
+Speed: 20.6098 KB/s
+Received 209766 bytes in last 10 seconds.
+Speed: 20.485 KB/s
+Received 64506 bytes in last 10 seconds.
+Speed: 6.29941 KB/s
+Received 5160 bytes in last 10 seconds.
+Speed: 0.503906 KB/s
+Received 5070 bytes in last 10 seconds.
+Speed: 0.495117 KB/s
+Received 5016 bytes in last 10 seconds.
+Speed: 0.489844 KB/s
+Received 5178 bytes in last 10 seconds.
+Speed: 0.505664 KB/s
+Received 5052 bytes in last 10 seconds.
+Speed: 0.493359 KB/s
+Received 4998 bytes in last 10 seconds.
+Speed: 0.488086 KB/s
+Received 5166 bytes in last 10 seconds.
+Speed: 0.504492 KB/s
+Received 5034 bytes in last 10 seconds.
+Speed: 0.491602 KB/s
+Received 5160 bytes in last 10 seconds.
+Speed: 0.503906 KB/s
+Received 5610 bytes in last 10 seconds.
+Speed: 0.547852 KB/s
+Received 5106 bytes in last 10 seconds.
+Speed: 0.498633 KB/s
+Received 5160 bytes in last 10 seconds.
+Speed: 0.503906 KB/s
+Received 5052 bytes in last 10 seconds.
+Speed: 0.493359 KB/s
+Received 5124 bytes in last 10 seconds.
+Speed: 0.500391 KB/s
+Received 5088 bytes in last 10 seconds.
+Speed: 0.496875 KB/s
+Received 3594 bytes in last 10 seconds.
+Speed: 0.350977 KB/s
+Received 5496 bytes in last 10 seconds.
+Speed: 0.536719 KB/s
+Received 119532 bytes in last 10 seconds.
+Speed: 11.673 KB/s
+Received 31368 bytes in last 10 seconds.
+Speed: 3.06328 KB/s
+Received 14130 bytes in last 10 seconds.
+Speed: 1.37988 KB/s
+Received 4872 bytes in last 10 seconds.
+Speed: 0.475781 KB/s
+Received 4818 bytes in last 10 seconds.
+Speed: 0.470508 KB/s
+Received 4800 bytes in last 10 seconds.
+Speed: 0.46875 KB/s
+Received 4800 bytes in last 10 seconds.
+Speed: 0.46875 KB/s
+Received 5808 bytes in last 10 seconds.
+Speed: 0.567187 KB/s
+Received 4980 bytes in last 10 seconds.
+Speed: 0.486328 KB/s
+Received 5052 bytes in last 10 seconds.
+Speed: 0.493359 KB/s
+Received 5148 bytes in last 10 seconds.
+Speed: 0.502734 KB/s
+Received 5124 bytes in last 10 seconds.
+Speed: 0.500391 KB/s
+Received 5016 bytes in last 10 seconds.
+Speed: 0.489844 KB/s
+Received 5124 bytes in last 10 seconds.
+Speed: 0.500391 KB/s
+Received 2718 bytes in last 10 seconds.
+Speed: 0.26543 KB/s
+Received 2028 bytes in last 10 seconds.
+Speed: 0.198047 KB/s
+Received 149280 bytes in last 10 seconds.
+Speed: 14.5781 KB/s
+Received 155304 bytes in last 10 seconds.
+Speed: 15.1664 KB/s
+Received 166152 bytes in last 10 seconds.
+Speed: 16.2258 KB/s
+Received 120216 bytes in last 10 seconds.
+Speed: 11.7398 KB/s
+Received 129042 bytes in last 10 seconds.
+Speed: 12.6018 KB/s
+Received 184584 bytes in last 10 seconds.
+Speed: 18.0258 KB/s
+Received 41670 bytes in last 10 seconds.
+Speed: 4.06934 KB/s
+Received 240 bytes in last 2 seconds.
+Speed: 0.117188 KB/s
+Received 1032 bytes in last 2 seconds.
+Speed: 0.503906 KB/s
+Received 1050 bytes in last 2 seconds.
+Speed: 0.512695 KB/s
+Received 17088 bytes in last 2 seconds.
+Speed: 8.34375 KB/s
+Received 46068 bytes in last 2 seconds.
+Speed: 22.4941 KB/s
+Received 34386 bytes in last 2 seconds.
+Speed: 16.79 KB/s
+Received 43350 bytes in last 2 seconds.
+Speed: 21.167 KB/s
+Received 40290 bytes in last 2 seconds.
+Speed: 19.6729 KB/s
+Received 42000 bytes in last 2 seconds.
+Speed: 20.5078 KB/s
+Received 43446 bytes in last 2 seconds.
+Speed: 21.2139 KB/s
+Received 36942 bytes in last 2 seconds.
+Speed: 18.0381 KB/s
+Received 40578 bytes in last 2 seconds.
+Speed: 19.8135 KB/s
+Received 45996 bytes in last 2 seconds.
+Speed: 22.459 KB/s
+Received 44628 bytes in last 2 seconds.
+Speed: 21.791 KB/s
+Received 43230 bytes in last 2 seconds.
+Speed: 21.1084 KB/s
+Received 42864 bytes in last 2 seconds.
+Speed: 20.9297 KB/s
+Received 39966 bytes in last 2 seconds.
+Speed: 19.5146 KB/s
+Received 30264 bytes in last 2 seconds.
+Speed: 14.7773 KB/s
+Received 1194 bytes in last 2 seconds.
+Speed: 0.583008 KB/s
+Received 1140 bytes in last 2 seconds.
+Speed: 0.556641 KB/s
+Received 1116 bytes in last 2 seconds.
+Speed: 0.544922 KB/s
+Received 28259 bytes in last 2 seconds.
+Speed: 13.7983 KB/s
+Received 32241 bytes in last 2 seconds.
+Speed: 15.7427 KB/s
+Received 29362 bytes in last 2 seconds.
+Speed: 14.3369 KB/s
+Received 32005 bytes in last 2 seconds.
+Speed: 15.6274 KB/s
+Received 31272 bytes in last 2 seconds.
+Speed: 15.2695 KB/s
+Received 29744 bytes in last 2 seconds.
+Speed: 14.5234 KB/s
+Received 27228 bytes in last 2 seconds.
+Speed: 13.2949 KB/s
+Received 32309 bytes in last 2 seconds.
+Speed: 15.7759 KB/s
+Received 32272 bytes in last 2 seconds.
+Speed: 15.7578 KB/s
+Received 17699 bytes in last 2 seconds.
+Speed: 8.64209 KB/s
+Received 3517 bytes in last 2 seconds.
+Speed: 1.71729 KB/s
+Received 13669 bytes in last 2 seconds.
+Speed: 6.67432 KB/s
+Received 16629 bytes in last 2 seconds.
+Speed: 8.11963 KB/s
+Received 17009 bytes in last 2 seconds.
+Speed: 8.30518 KB/s
+Received 16024 bytes in last 2 seconds.
+Speed: 7.82422 KB/s
+Received 8725 bytes in last 2 seconds.
+Speed: 4.26025 KB/s
+Received 15200 bytes in last 2 seconds.
+Speed: 7.42188 KB/s
+Received 18313 bytes in last 2 seconds.
+Speed: 8.94189 KB/s
+Received 14363 bytes in last 2 seconds.
+Speed: 7.01318 KB/s
+Received 15262 bytes in last 2 seconds.
+Speed: 7.45215 KB/s
+Received 14508 bytes in last 2 seconds.
+Speed: 7.08398 KB/s
+Received 15993 bytes in last 2 seconds.
+Speed: 7.80908 KB/s
+Received 15604 bytes in last 2 seconds.
+Speed: 7.61914 KB/s
+Received 15125 bytes in last 2 seconds.
+Speed: 7.38525 KB/s
+Received 15887 bytes in last 2 seconds.
+Speed: 7.75732 KB/s
+Received 13541 bytes in last 2 seconds.
+Speed: 6.61182 KB/s
+Received 14967 bytes in last 2 seconds.
+Speed: 7.30811 KB/s
+Received 14857 bytes in last 2 seconds.
+Speed: 7.25439 KB/s
+Received 13502 bytes in last 2 seconds.
+Speed: 6.59277 KB/s
+Received 16019 bytes in last 2 seconds.
+Speed: 7.82178 KB/s
+Received 16226 bytes in last 2 seconds.
+Speed: 7.92285 KB/s
+Received 16500 bytes in last 2 seconds.
+Speed: 8.05664 KB/s
+Received 14995 bytes in last 2 seconds.
+Speed: 7.32178 KB/s
+Received 15251 bytes in last 2 seconds.
+Speed: 7.44678 KB/s
+Received 7553 bytes in last 2 seconds.
+Speed: 3.68799 KB/s
+Received 12475 bytes in last 2 seconds.
+Speed: 6.09131 KB/s
+Received 15422 bytes in last 2 seconds.
+Speed: 7.53027 KB/s
+Received 17525 bytes in last 2 seconds.
+Speed: 8.55713 KB/s
+Received 14210 bytes in last 2 seconds.
+Speed: 6.93848 KB/s
+Received 14642 bytes in last 2 seconds.
+Speed: 7.14941 KB/s
+Received 22 bytes in last 2 seconds.
+Speed: 0.0107422 KB/s
+Received 75 bytes in last 2 seconds.
+Speed: 0.0366211 KB/s
+Received 13466 bytes in last 2 seconds.
+Speed: 6.5752 KB/s
+Received 12485 bytes in last 2 seconds.
+Speed: 6.09619 KB/s
+Received 46861 bytes in last 2 seconds.
+Speed: 22.8813 KB/s
+Received 47405 bytes in last 2 seconds.
+Speed: 23.147 KB/s
+Received 48370 bytes in last 2 seconds.
+Speed: 23.6182 KB/s
+Received 49808 bytes in last 2 seconds.
+Speed: 24.3203 KB/s
+Received 47437 bytes in last 2 seconds.
+Speed: 23.1626 KB/s
+Received 50530 bytes in last 2 seconds.
+Speed: 24.6729 KB/s
+Received 46490 bytes in last 2 seconds.
+Speed: 22.7002 KB/s
+Received 48155 bytes in last 2 seconds.
+Speed: 23.5132 KB/s
+Received 49971 bytes in last 2 seconds.
+Speed: 24.3999 KB/s
+Received 2540 bytes in last 2 seconds.
+Speed: 1.24023 KB/s
+Received 4070 bytes in last 2 seconds.
+Speed: 1.9873 KB/s
+Received 1959 bytes in last 2 seconds.
+Speed: 0.956543 KB/s
+Received 576 bytes in last 2 seconds.
+Speed: 0.28125 KB/s
+Received 234 bytes in last 2 seconds.
+Speed: 0.114258 KB/s
+Received 216 bytes in last 2 seconds.
+Speed: 0.105469 KB/s
+Received 243 bytes in last 2 seconds.
+Speed: 0.118652 KB/s
+Received 234 bytes in last 2 seconds.
+Speed: 0.114258 KB/s
+Received 204 bytes in last 2 seconds.
+Speed: 0.0996094 KB/s
+Received 1089 bytes in last 2 seconds.
+Speed: 0.531738 KB/s
+Received 963 bytes in last 2 seconds.
+Speed: 0.470215 KB/s
+Received 9447 bytes in last 2 seconds.
+Speed: 4.61279 KB/s
+Received 27633 bytes in last 2 seconds.
+Speed: 13.4927 KB/s
+Received 18942 bytes in last 2 seconds.
+Speed: 9.24902 KB/s
+Received 32487 bytes in last 2 seconds.
+Speed: 15.8628 KB/s
+Received 12051 bytes in last 2 seconds.
+Speed: 5.88428 KB/s
+Received 28863 bytes in last 2 seconds.
+Speed: 14.0933 KB/s
+Received 27777 bytes in last 2 seconds.
+Speed: 13.563 KB/s
+Received 25815 bytes in last 2 seconds.
+Speed: 12.605 KB/s
+Received 750 bytes in last 2 seconds.
+Speed: 0.366211 KB/s
+Received 885 bytes in last 2 seconds.
+Speed: 0.432129 KB/s
+Received 1596 bytes in last 2 seconds.
+Speed: 0.779297 KB/s
+Received 26091 bytes in last 2 seconds.
+Speed: 12.7397 KB/s
+Received 24606 bytes in last 2 seconds.
+Speed: 12.0146 KB/s
+Received 24051 bytes in last 2 seconds.
+Speed: 11.7437 KB/s
+Received 22041 bytes in last 2 seconds.
+Speed: 10.7622 KB/s
+Received 20997 bytes in last 2 seconds.
+Speed: 10.2524 KB/s
+Received 31332 bytes in last 2 seconds.
+Speed: 15.2988 KB/s
+Received 26202 bytes in last 2 seconds.
+Speed: 12.7939 KB/s
+Received 30159 bytes in last 2 seconds.
+Speed: 14.7261 KB/s
+Received 32580 bytes in last 2 seconds.
+Speed: 15.9082 KB/s
+Received 33171 bytes in last 2 seconds.
+Speed: 16.1968 KB/s
+Received 29376 bytes in last 2 seconds.
+Speed: 14.3438 KB/s
+Received 20466 bytes in last 2 seconds.
+Speed: 9.99316 KB/s
+Received 30471 bytes in last 2 seconds.
+Speed: 14.8784 KB/s
+Received 33381 bytes in last 2 seconds.
+Speed: 16.2993 KB/s
+Received 35796 bytes in last 2 seconds.
+Speed: 17.4785 KB/s
+Received 33813 bytes in last 2 seconds.
+Speed: 16.5103 KB/s
+Received 12903 bytes in last 2 seconds.
+Speed: 6.30029 KB/s
+Received 3834 bytes in last 2 seconds.
+Speed: 1.87207 KB/s
+Received 83709 bytes in last 2 seconds.
+Speed: 40.8735 KB/s
+Received 72462 bytes in last 2 seconds.
+Speed: 35.3818 KB/s
+Received 101061 bytes in last 2 seconds.
+Speed: 49.3462 KB/s
+Received 86631 bytes in last 2 seconds.
+Speed: 42.3003 KB/s
+Received 106662 bytes in last 2 seconds.
+Speed: 52.0811 KB/s
+Received 36972 bytes in last 2 seconds.
+Speed: 18.0527 KB/s
+Received 54726 bytes in last 2 seconds.
+Speed: 26.7217 KB/s
+Received 76299 bytes in last 2 seconds.
+Speed: 37.2554 KB/s
+Received 90921 bytes in last 2 seconds.
+Speed: 44.395 KB/s
+Received 93249 bytes in last 2 seconds.
+Speed: 45.5317 KB/s
+Received 103320 bytes in last 2 seconds.
+Speed: 50.4492 KB/s
+Received 70176 bytes in last 2 seconds.
+Speed: 34.2656 KB/s
+Received 33336 bytes in last 2 seconds.
+Speed: 16.2773 KB/s
+Received 68922 bytes in last 2 seconds.
+Speed: 33.6533 KB/s
+Received 88770 bytes in last 2 seconds.
+Speed: 43.3447 KB/s
+Received 83937 bytes in last 2 seconds.
+Speed: 40.9849 KB/s
+Received 1743 bytes in last 2 seconds.
+Speed: 0.851074 KB/s
+Received 55740 bytes in last 2 seconds.
+Speed: 27.2168 KB/s
+Received 78342 bytes in last 2 seconds.
+Speed: 38.2529 KB/s
+Received 92445 bytes in last 2 seconds.
+Speed: 45.1392 KB/s
+Received 92259 bytes in last 2 seconds.
+Speed: 45.0483 KB/s
+Received 103857 bytes in last 2 seconds.
+Speed: 50.7114 KB/s
+Received 66120 bytes in last 2 seconds.
+Speed: 32.2852 KB/s
+Received 37143 bytes in last 2 seconds.
+Speed: 18.1362 KB/s
+Received 66813 bytes in last 2 seconds.
+Speed: 32.6235 KB/s
+Received 92667 bytes in last 2 seconds.
+Speed: 45.2476 KB/s
+Received 102063 bytes in last 2 seconds.
+Speed: 49.8354 KB/s
+Received 90648 bytes in last 2 seconds.
+Speed: 44.2617 KB/s
+Received 94395 bytes in last 2 seconds.
+Speed: 46.0913 KB/s
+Received 15957 bytes in last 2 seconds.
+Speed: 7.7915 KB/s
+Received 82761 bytes in last 2 seconds.
+Speed: 40.4106 KB/s
+Received 73797 bytes in last 2 seconds.
+Speed: 36.0337 KB/s
+Received 102237 bytes in last 2 seconds.
+Speed: 49.9204 KB/s
+Received 85035 bytes in last 2 seconds.
+Speed: 41.521 KB/s
+Received 107835 bytes in last 2 seconds.
+Speed: 52.6538 KB/s
+Received 29001 bytes in last 2 seconds.
+Speed: 14.1606 KB/s
+Received 56577 bytes in last 2 seconds.
+Speed: 27.6255 KB/s
+Received 84063 bytes in last 2 seconds.
+Speed: 41.0464 KB/s
+Received 91698 bytes in last 2 seconds.
+Speed: 44.7744 KB/s
+Received 89823 bytes in last 2 seconds.
+Speed: 43.8589 KB/s
+Received 105543 bytes in last 2 seconds.
+Speed: 51.5347 KB/s
+Received 60924 bytes in last 2 seconds.
+Speed: 29.748 KB/s
+Received 39795 bytes in last 2 seconds.
+Speed: 19.4312 KB/s
+Received 67101 bytes in last 2 seconds.
+Speed: 32.7642 KB/s
+Received 93294 bytes in last 2 seconds.
+Speed: 45.5537 KB/s
+Received 101586 bytes in last 2 seconds.
+Speed: 49.6025 KB/s
+Received 90501 bytes in last 2 seconds.
+Speed: 44.1899 KB/s
+Received 93906 bytes in last 2 seconds.
+Speed: 45.8525 KB/s
+Received 16305 bytes in last 2 seconds.
+Speed: 7.96143 KB/s
+Received 80472 bytes in last 2 seconds.
+Speed: 39.293 KB/s
+Received 76248 bytes in last 2 seconds.
+Speed: 37.2305 KB/s
+Received 102480 bytes in last 2 seconds.
+Speed: 50.0391 KB/s
+Received 84711 bytes in last 2 seconds.
+Speed: 41.3628 KB/s
+Received 107988 bytes in last 2 seconds.
+Speed: 52.7285 KB/s
+Received 25968 bytes in last 2 seconds.
+Speed: 12.6797 KB/s
+Received 57522 bytes in last 2 seconds.
+Speed: 28.0869 KB/s
+Received 86595 bytes in last 2 seconds.
+Speed: 42.2827 KB/s
+Received 92562 bytes in last 2 seconds.
+Speed: 45.1963 KB/s
+Received 88410 bytes in last 2 seconds.
+Speed: 43.1689 KB/s
+Received 106893 bytes in last 2 seconds.
+Speed: 52.1938 KB/s
+Received 56670 bytes in last 2 seconds.
+Speed: 27.6709 KB/s
+Received 43308 bytes in last 2 seconds.
+Speed: 21.1465 KB/s
+Received 69906 bytes in last 2 seconds.
+Speed: 34.1338 KB/s
+Received 93846 bytes in last 2 seconds.
+Speed: 45.8232 KB/s
+Received 98751 bytes in last 2 seconds.
+Speed: 48.2183 KB/s
+Received 92958 bytes in last 2 seconds.
+Speed: 45.3896 KB/s
+Received 89211 bytes in last 2 seconds.
+Speed: 43.5601 KB/s
+Received 21792 bytes in last 2 seconds.
+Speed: 10.6406 KB/s
+Received 76722 bytes in last 2 seconds.
+Speed: 37.4619 KB/s
+Received 80211 bytes in last 2 seconds.
+Speed: 39.1655 KB/s
+Received 100512 bytes in last 2 seconds.
+Speed: 49.0781 KB/s
+Received 87177 bytes in last 2 seconds.
+Speed: 42.5669 KB/s
+Received 106818 bytes in last 2 seconds.
+Speed: 52.1572 KB/s
+Received 19293 bytes in last 2 seconds.
+Speed: 9.42041 KB/s
+Received 66210 bytes in last 2 seconds.
+Speed: 32.3291 KB/s
+Received 82860 bytes in last 2 seconds.
+Speed: 40.459 KB/s
+Received 94767 bytes in last 2 seconds.
+Speed: 46.2729 KB/s
+Received 88761 bytes in last 2 seconds.
+Speed: 43.3403 KB/s
+Received 106809 bytes in last 2 seconds.
+Speed: 52.1528 KB/s
+Received 49140 bytes in last 2 seconds.
+Speed: 23.9941 KB/s
+Received 49257 bytes in last 2 seconds.
+Speed: 24.0513 KB/s
+Received 69777 bytes in last 2 seconds.
+Speed: 34.0708 KB/s
+Received 93171 bytes in last 2 seconds.
+Speed: 45.4937 KB/s
+Received 96780 bytes in last 2 seconds.
+Speed: 47.2559 KB/s
+Received 97785 bytes in last 2 seconds.
+Speed: 47.7466 KB/s
+Received 81807 bytes in last 2 seconds.
+Speed: 39.9448 KB/s
+Received 24927 bytes in last 2 seconds.
+Speed: 12.1714 KB/s
+Received 74622 bytes in last 2 seconds.
+Speed: 36.4365 KB/s
+Received 82458 bytes in last 2 seconds.
+Speed: 40.2627 KB/s
+Received 100065 bytes in last 2 seconds.
+Speed: 48.8599 KB/s
+Received 88542 bytes in last 2 seconds.
+Speed: 43.2334 KB/s
+Received 104907 bytes in last 2 seconds.
+Speed: 51.2241 KB/s
+Received 16341 bytes in last 2 seconds.
+Speed: 7.979 KB/s
+Received 72888 bytes in last 2 seconds.
+Speed: 35.5898 KB/s
+Received 79134 bytes in last 2 seconds.
+Speed: 38.6396 KB/s
+Received 95703 bytes in last 2 seconds.
+Speed: 46.73 KB/s
+Received 87894 bytes in last 2 seconds.
+Speed: 42.917 KB/s
+Received 107685 bytes in last 2 seconds.
+Speed: 52.5806 KB/s
+Received 45213 bytes in last 2 seconds.
+Speed: 22.0767 KB/s
+Received 51819 bytes in last 2 seconds.
+Speed: 25.3022 KB/s
+Received 55458 bytes in last 2 seconds.
+Speed: 27.0791 KB/s
+Received 258 bytes in last 2 seconds.
+Speed: 0.125977 KB/s
+Received 1047 bytes in last 2 seconds.
+Speed: 0.51123 KB/s
+Received 1077 bytes in last 2 seconds.
+Speed: 0.525879 KB/s
+Received 16908 bytes in last 2 seconds.
+Speed: 8.25586 KB/s
+Received 18735 bytes in last 2 seconds.
+Speed: 9.14795 KB/s
+Received 1221 bytes in last 2 seconds.
+Speed: 0.596191 KB/s
+Received 1053 bytes in last 2 seconds.
+Speed: 0.51416 KB/s
+Received 14643 bytes in last 2 seconds.
+Speed: 7.1499 KB/s
+Received 25605 bytes in last 2 seconds.
+Speed: 12.5024 KB/s
+Received 15819 bytes in last 2 seconds.
+Speed: 7.72412 KB/s
+Received 1281 bytes in last 2 seconds.
+Speed: 0.625488 KB/s
+Received 18009 bytes in last 2 seconds.
+Speed: 8.79346 KB/s
+Received 40191 bytes in last 2 seconds.
+Speed: 19.6245 KB/s
+Received 48033 bytes in last 2 seconds.
+Speed: 23.4536 KB/s
+Received 58527 bytes in last 2 seconds.
+Speed: 28.5776 KB/s
+Received 59721 bytes in last 2 seconds.
+Speed: 29.1606 KB/s
+Received 65346 bytes in last 2 seconds.
+Speed: 31.9072 KB/s
+Received 50733 bytes in last 2 seconds.
+Speed: 24.772 KB/s
+Received 66858 bytes in last 2 seconds.
+Speed: 32.6455 KB/s
+Received 64785 bytes in last 2 seconds.
+Speed: 31.6333 KB/s
+Received 17313 bytes in last 2 seconds.
+Speed: 8.45361 KB/s
+Received 13794 bytes in last 2 seconds.
+Speed: 6.73535 KB/s
+Received 43503 bytes in last 2 seconds.
+Speed: 21.2417 KB/s
+Received 45177 bytes in last 2 seconds.
+Speed: 22.0591 KB/s
+Received 57690 bytes in last 2 seconds.
+Speed: 28.1689 KB/s
+Received 58938 bytes in last 2 seconds.
+Speed: 28.7783 KB/s
+Received 64773 bytes in last 2 seconds.
+Speed: 31.6274 KB/s
+Received 50901 bytes in last 2 seconds.
+Speed: 24.854 KB/s
+Received 64668 bytes in last 2 seconds.
+Speed: 31.5762 KB/s
+Received 67404 bytes in last 2 seconds.
+Speed: 32.9121 KB/s
+Received 22605 bytes in last 2 seconds.
+Speed: 11.0376 KB/s
+Received 8637 bytes in last 2 seconds.
+Speed: 4.21729 KB/s
+Received 48036 bytes in last 2 seconds.
+Speed: 23.4551 KB/s
+Received 44415 bytes in last 2 seconds.
+Speed: 21.687 KB/s
+Received 55062 bytes in last 2 seconds.
+Speed: 26.8857 KB/s
+Received 59265 bytes in last 2 seconds.
+Speed: 28.938 KB/s
+Received 64104 bytes in last 2 seconds.
+Speed: 31.3008 KB/s
+Received 51660 bytes in last 2 seconds.
+Speed: 25.2246 KB/s
+Received 64137 bytes in last 2 seconds.
+Speed: 31.3169 KB/s
+Received 68139 bytes in last 2 seconds.
+Speed: 33.271 KB/s
+Received 26085 bytes in last 2 seconds.
+Speed: 12.7368 KB/s
+Received 5856 bytes in last 2 seconds.
+Speed: 2.85938 KB/s
+Received 49119 bytes in last 2 seconds.
+Speed: 23.9839 KB/s
+Received 45441 bytes in last 2 seconds.
+Speed: 22.188 KB/s
+Received 53184 bytes in last 2 seconds.
+Speed: 25.9688 KB/s
+Received 56511 bytes in last 2 seconds.
+Speed: 27.5933 KB/s
+Received 65346 bytes in last 2 seconds.
+Speed: 31.9072 KB/s
+Received 49905 bytes in last 2 seconds.
+Speed: 24.3677 KB/s
+Received 64524 bytes in last 2 seconds.
+Speed: 31.5059 KB/s
+Received 68373 bytes in last 2 seconds.
+Speed: 33.3853 KB/s
+Received 31209 bytes in last 2 seconds.
+Speed: 15.2388 KB/s
+Received 2250 bytes in last 2 seconds.
+Speed: 1.09863 KB/s
+Received 50634 bytes in last 2 seconds.
+Speed: 24.7236 KB/s
+Received 45825 bytes in last 2 seconds.
+Speed: 22.3755 KB/s
+Received 51456 bytes in last 2 seconds.
+Speed: 25.125 KB/s
+Received 55041 bytes in last 2 seconds.
+Speed: 26.8755 KB/s
+Received 66705 bytes in last 2 seconds.
+Speed: 32.5708 KB/s
+Received 49641 bytes in last 2 seconds.
+Speed: 24.2388 KB/s
+Received 62748 bytes in last 2 seconds.
+Speed: 30.6387 KB/s
+Received 69297 bytes in last 2 seconds.
+Speed: 33.8364 KB/s
+Received 35895 bytes in last 2 seconds.
+Speed: 17.5269 KB/s
+Received 1878 bytes in last 2 seconds.
+Speed: 0.916992 KB/s
+Received 47592 bytes in last 2 seconds.
+Speed: 23.2383 KB/s
+Received 10215 bytes in last 2 seconds.
+Speed: 4.98779 KB/s
+Received 618 bytes in last 2 seconds.
+Speed: 0.301758 KB/s
+Received 216 bytes in last 2 seconds.
+Speed: 0.105469 KB/s
+Received 243 bytes in last 2 seconds.
+Speed: 0.118652 KB/s
+Received 228 bytes in last 2 seconds.
+Speed: 0.111328 KB/s
+Received 270 bytes in last 2 seconds.
+Speed: 0.131836 KB/s
+Received 351 bytes in last 2 seconds.
+Speed: 0.171387 KB/s
+Received 279 bytes in last 2 seconds.
+Speed: 0.13623 KB/s
+Received 315 bytes in last 2 seconds.
+Speed: 0.153809 KB/s
+Received 2124 bytes in last 2 seconds.
+Speed: 1.03711 KB/s
+Received 7734 bytes in last 2 seconds.
+Speed: 3.77637 KB/s
+Received 8505 bytes in last 2 seconds.
+Speed: 4.15283 KB/s
+Received 7605 bytes in last 2 seconds.
+Speed: 3.71338 KB/s
+Received 7740 bytes in last 2 seconds.
+Speed: 3.7793 KB/s
+Received 5514 bytes in last 2 seconds.
+Speed: 2.69238 KB/s
+Received 8820 bytes in last 2 seconds.
+Speed: 4.30664 KB/s
+Received 4392 bytes in last 2 seconds.
+Speed: 2.14453 KB/s
+Received 3180 bytes in last 2 seconds.
+Speed: 1.55273 KB/s
+Received 4086 bytes in last 2 seconds.
+Speed: 1.99512 KB/s
+Received 13797 bytes in last 2 seconds.
+Speed: 6.73682 KB/s
+Received 11907 bytes in last 2 seconds.
+Speed: 5.81396 KB/s
+Received 6021 bytes in last 2 seconds.
+Speed: 2.93994 KB/s
+Received 3537 bytes in last 2 seconds.
+Speed: 1.72705 KB/s
+Received 3501 bytes in last 2 seconds.
+Speed: 1.70947 KB/s
+Received 2442 bytes in last 2 seconds.
+Speed: 1.19238 KB/s
+Received 6300 bytes in last 2 seconds.
+Speed: 3.07617 KB/s
+Received 10035 bytes in last 2 seconds.
+Speed: 4.8999 KB/s
+Received 9234 bytes in last 2 seconds.
+Speed: 4.50879 KB/s
+Received 9999 bytes in last 2 seconds.
+Speed: 4.88232 KB/s
+Received 8445 bytes in last 2 seconds.
+Speed: 4.12354 KB/s
+Received 7443 bytes in last 2 seconds.
+Speed: 3.63428 KB/s
+Received 6048 bytes in last 2 seconds.
+Speed: 2.95313 KB/s
+Received 7380 bytes in last 2 seconds.
+Speed: 3.60352 KB/s
+Received 8937 bytes in last 2 seconds.
+Speed: 4.36377 KB/s
+Received 7821 bytes in last 2 seconds.
+Speed: 3.81885 KB/s
+Received 7803 bytes in last 2 seconds.
+Speed: 3.81006 KB/s
+Received 9486 bytes in last 2 seconds.
+Speed: 4.63184 KB/s
+Received 9099 bytes in last 2 seconds.
+Speed: 4.44287 KB/s
+Received 8820 bytes in last 2 seconds.
+Speed: 4.30664 KB/s
+Received 8973 bytes in last 2 seconds.
+Speed: 4.38135 KB/s
+Received 10758 bytes in last 2 seconds.
+Speed: 5.25293 KB/s
+Received 10215 bytes in last 2 seconds.
+Speed: 4.98779 KB/s
+Received 10845 bytes in last 2 seconds.
+Speed: 5.29541 KB/s
+Received 9144 bytes in last 2 seconds.
+Speed: 4.46484 KB/s
+Received 6795 bytes in last 2 seconds.
+Speed: 3.31787 KB/s
+Received 8640 bytes in last 2 seconds.
+Speed: 4.21875 KB/s
+Received 228 bytes in last 2 seconds.
+Speed: 0.111328 KB/s
+Received 486 bytes in last 2 seconds.
+Speed: 0.237305 KB/s
+Received 216 bytes in last 2 seconds.
+Speed: 0.105469 KB/s
+Received 243 bytes in last 2 seconds.
+Speed: 0.118652 KB/s
+Received 216 bytes in last 2 seconds.
+Speed: 0.105469 KB/s
+Received 342 bytes in last 2 seconds.
+Speed: 0.166992 KB/s
+Received 297 bytes in last 2 seconds.
+Speed: 0.14502 KB/s
+Received 81 bytes in last 2 seconds.
+Speed: 0.0395508 KB/s
+Received 306 bytes in last 2 seconds.
+Speed: 0.149414 KB/s
+Received 444 bytes in last 2 seconds.
+Speed: 0.216797 KB/s
+Received 216 bytes in last 2 seconds.
+Speed: 0.105469 KB/s
+Received 243 bytes in last 2 seconds.
+Speed: 0.118652 KB/s
+Received 144 bytes in last 2 seconds.
+Speed: 0.0703125 KB/s
+Received 336 bytes in last 2 seconds.
+Speed: 0.164063 KB/s
+Received 306 bytes in last 2 seconds.
+Speed: 0.149414 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 120 bytes in last 2 seconds.
+Speed: 0.0585938 KB/s
+Received 135 bytes in last 2 seconds.
+Speed: 0.065918 KB/s
+Received 96 bytes in last 2 seconds.
+Speed: 0.046875 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 138 bytes in last 2 seconds.
+Speed: 0.0673828 KB/s
+Received 159 bytes in last 2 seconds.
+Speed: 0.0776367 KB/s
+Received 210 bytes in last 2 seconds.
+Speed: 0.102539 KB/s
+Received 126 bytes in last 2 seconds.
+Speed: 0.0615234 KB/s
+Received 135 bytes in last 2 seconds.
+Speed: 0.065918 KB/s
+Received 189 bytes in last 2 seconds.
+Speed: 0.0922852 KB/s
+Received 144 bytes in last 2 seconds.
+Speed: 0.0703125 KB/s
+Received 126 bytes in last 2 seconds.
+Speed: 0.0615234 KB/s
+Received 468 bytes in last 2 seconds.
+Speed: 0.228516 KB/s
+Received 2982 bytes in last 2 seconds.
+Speed: 1.45605 KB/s
+Received 3645 bytes in last 2 seconds.
+Speed: 1.77979 KB/s
+Received 3807 bytes in last 2 seconds.
+Speed: 1.85889 KB/s
+Received 3987 bytes in last 2 seconds.
+Speed: 1.94678 KB/s
+Received 4437 bytes in last 2 seconds.
+Speed: 2.1665 KB/s
+Received 3888 bytes in last 2 seconds.
+Speed: 1.89844 KB/s
+Received 3564 bytes in last 2 seconds.
+Speed: 1.74023 KB/s
+Received 3393 bytes in last 2 seconds.
+Speed: 1.65674 KB/s
+Received 4203 bytes in last 2 seconds.
+Speed: 2.05225 KB/s
+Received 3249 bytes in last 2 seconds.
+Speed: 1.58643 KB/s
+Received 2934 bytes in last 2 seconds.
+Speed: 1.43262 KB/s
+Received 5232 bytes in last 2 seconds.
+Speed: 2.55469 KB/s
+Received 3726 bytes in last 2 seconds.
+Speed: 1.81934 KB/s
+Received 2034 bytes in last 2 seconds.
+Speed: 0.993164 KB/s
+Received 1800 bytes in last 2 seconds.
+Speed: 0.878906 KB/s
+Received 804 bytes in last 2 seconds.
+Speed: 0.392578 KB/s
+Received 336 bytes in last 2 seconds.
+Speed: 0.164063 KB/s
+Received 390 bytes in last 2 seconds.
+Speed: 0.19043 KB/s
+Received 192 bytes in last 2 seconds.
+Speed: 0.09375 KB/s
+Received 219 bytes in last 2 seconds.
+Speed: 0.106934 KB/s
+Received 192 bytes in last 2 seconds.
+Speed: 0.09375 KB/s
+Received 246 bytes in last 2 seconds.
+Speed: 0.120117 KB/s
+Received 318 bytes in last 2 seconds.
+Speed: 0.155273 KB/s
+Received 228 bytes in last 2 seconds.
+Speed: 0.111328 KB/s
+Received 309 bytes in last 2 seconds.
+Speed: 0.150879 KB/s
+Received 471 bytes in last 2 seconds.
+Speed: 0.22998 KB/s
+Received 4953 bytes in last 2 seconds.
+Speed: 2.41846 KB/s
+Received 7113 bytes in last 2 seconds.
+Speed: 3.47314 KB/s
+Received 6903 bytes in last 2 seconds.
+Speed: 3.37061 KB/s
+Received 6618 bytes in last 2 seconds.
+Speed: 3.23145 KB/s
+Received 6744 bytes in last 2 seconds.
+Speed: 3.29297 KB/s
+Received 5889 bytes in last 2 seconds.
+Speed: 2.87549 KB/s
+Received 7212 bytes in last 2 seconds.
+Speed: 3.52148 KB/s
+Received 5313 bytes in last 2 seconds.
+Speed: 2.59424 KB/s
+Received 3189 bytes in last 2 seconds.
+Speed: 1.55713 KB/s
+Received 1911 bytes in last 2 seconds.
+Speed: 0.933105 KB/s
+Received 6669 bytes in last 2 seconds.
+Speed: 3.25635 KB/s
+Received 11145 bytes in last 2 seconds.
+Speed: 5.44189 KB/s
+Received 10983 bytes in last 2 seconds.
+Speed: 5.36279 KB/s
+Received 6105 bytes in last 2 seconds.
+Speed: 2.98096 KB/s
+Received 2856 bytes in last 2 seconds.
+Speed: 1.39453 KB/s
+Received 3333 bytes in last 2 seconds.
+Speed: 1.62744 KB/s
+Received 1848 bytes in last 2 seconds.
+Speed: 0.902344 KB/s
+Received 2817 bytes in last 2 seconds.
+Speed: 1.37549 KB/s
+Received 6645 bytes in last 2 seconds.
+Speed: 3.24463 KB/s
+Received 9192 bytes in last 2 seconds.
+Speed: 4.48828 KB/s
+Received 7749 bytes in last 2 seconds.
+Speed: 3.78369 KB/s
+Received 8850 bytes in last 2 seconds.
+Speed: 4.32129 KB/s
+Received 7734 bytes in last 2 seconds.
+Speed: 3.77637 KB/s
+Received 6780 bytes in last 2 seconds.
+Speed: 3.31055 KB/s
+Received 5142 bytes in last 2 seconds.
+Speed: 2.51074 KB/s
+Received 6303 bytes in last 2 seconds.
+Speed: 3.07764 KB/s
+Received 6681 bytes in last 2 seconds.
+Speed: 3.26221 KB/s
+Received 8121 bytes in last 2 seconds.
+Speed: 3.96533 KB/s
+Received 6987 bytes in last 2 seconds.
+Speed: 3.41162 KB/s
+Received 6501 bytes in last 2 seconds.
+Speed: 3.17432 KB/s
+Received 8082 bytes in last 2 seconds.
+Speed: 3.94629 KB/s
+Received 8391 bytes in last 2 seconds.
+Speed: 4.09717 KB/s
+Received 7680 bytes in last 2 seconds.
+Speed: 3.75 KB/s
+Received 7860 bytes in last 2 seconds.
+Speed: 3.83789 KB/s
+Received 8328 bytes in last 2 seconds.
+Speed: 4.06641 KB/s
+Received 9030 bytes in last 2 seconds.
+Speed: 4.40918 KB/s
+Received 8658 bytes in last 2 seconds.
+Speed: 4.22754 KB/s
+Received 9426 bytes in last 2 seconds.
+Speed: 4.60254 KB/s
+Received 8661 bytes in last 2 seconds.
+Speed: 4.229 KB/s
+Received 7158 bytes in last 2 seconds.
+Speed: 3.49512 KB/s
+Received 6060 bytes in last 2 seconds.
+Speed: 2.95898 KB/s
+Received 4527 bytes in last 2 seconds.
+Speed: 2.21045 KB/s
+Received 228 bytes in last 2 seconds.
+Speed: 0.111328 KB/s
+Received 378 bytes in last 2 seconds.
+Speed: 0.18457 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 135 bytes in last 2 seconds.
+Speed: 0.065918 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 120 bytes in last 2 seconds.
+Speed: 0.0585938 KB/s
+Received 108 bytes in last 2 seconds.
+Speed: 0.0527344 KB/s
+Received 126 bytes in last 2 seconds.
+Speed: 0.0615234 KB/s
+Received 180 bytes in last 2 seconds.
+Speed: 0.0878906 KB/s
+Received 618 bytes in last 2 seconds.
+Speed: 0.301758 KB/s
+Received 252 bytes in last 2 seconds.
+Speed: 0.123047 KB/s
+Received 279 bytes in last 2 seconds.
+Speed: 0.13623 KB/s
+Received 252 bytes in last 2 seconds.
+Speed: 0.123047 KB/s
+Received 423 bytes in last 2 seconds.
+Speed: 0.206543 KB/s
+Received 309 bytes in last 2 seconds.
+Speed: 0.150879 KB/s
+Received 387 bytes in last 2 seconds.
+Speed: 0.188965 KB/s
+Received 3474 bytes in last 2 seconds.
+Speed: 1.69629 KB/s
+Received 8973 bytes in last 2 seconds.
+Speed: 4.38135 KB/s
+Received 10218 bytes in last 2 seconds.
+Speed: 4.98926 KB/s
+Received 7947 bytes in last 2 seconds.
+Speed: 3.88037 KB/s
+Received 534 bytes in last 2 seconds.
+Speed: 0.260742 KB/s
+Received 642 bytes in last 2 seconds.
+Speed: 0.313477 KB/s
+Received 384 bytes in last 2 seconds.
+Speed: 0.1875 KB/s
+Received 399 bytes in last 2 seconds.
+Speed: 0.194824 KB/s
+Received 573 bytes in last 2 seconds.
+Speed: 0.279785 KB/s
+Received 522 bytes in last 2 seconds.
+Speed: 0.254883 KB/s
+Received 7998 bytes in last 2 seconds.
+Speed: 3.90527 KB/s
+Received 14232 bytes in last 2 seconds.
+Speed: 6.94922 KB/s
+Received 12840 bytes in last 2 seconds.
+Speed: 6.26953 KB/s
+Received 12972 bytes in last 2 seconds.
+Speed: 6.33398 KB/s
+Received 7113 bytes in last 2 seconds.
+Speed: 3.47314 KB/s
+Received 10329 bytes in last 2 seconds.
+Speed: 5.04346 KB/s
+Received 21804 bytes in last 2 seconds.
+Speed: 10.6465 KB/s
+Received 7674 bytes in last 2 seconds.
+Speed: 3.74707 KB/s
+Received 4746 bytes in last 2 seconds.
+Speed: 2.31738 KB/s
+Received 11496 bytes in last 2 seconds.
+Speed: 5.61328 KB/s
+Received 16791 bytes in last 2 seconds.
+Speed: 8.19873 KB/s
+Received 15699 bytes in last 2 seconds.
+Speed: 7.66553 KB/s
+Received 11364 bytes in last 2 seconds.
+Speed: 5.54883 KB/s
+Received 12996 bytes in last 2 seconds.
+Speed: 6.3457 KB/s
+Received 14955 bytes in last 2 seconds.
+Speed: 7.30225 KB/s
+Received 15216 bytes in last 2 seconds.
+Speed: 7.42969 KB/s
+Received 8880 bytes in last 2 seconds.
+Speed: 4.33594 KB/s
+Received 978 bytes in last 2 seconds.
+Speed: 0.477539 KB/s
+Received 972 bytes in last 2 seconds.
+Speed: 0.474609 KB/s
+Received 6792 bytes in last 2 seconds.
+Speed: 3.31641 KB/s
+Received 27486 bytes in last 2 seconds.
+Speed: 13.4209 KB/s
+Received 20607 bytes in last 2 seconds.
+Speed: 10.062 KB/s
+Received 31089 bytes in last 2 seconds.
+Speed: 15.1802 KB/s
+Received 13761 bytes in last 2 seconds.
+Speed: 6.71924 KB/s
+Received 26865 bytes in last 2 seconds.
+Speed: 13.1177 KB/s
+Received 27717 bytes in last 2 seconds.
+Speed: 13.5337 KB/s
+Received 27375 bytes in last 2 seconds.
+Speed: 13.3667 KB/s
+Received 30312 bytes in last 2 seconds.
+Speed: 14.8008 KB/s
+Received 34284 bytes in last 2 seconds.
+Speed: 16.7402 KB/s
+Received 30987 bytes in last 2 seconds.
+Speed: 15.1304 KB/s
+Received 27903 bytes in last 2 seconds.
+Speed: 13.6245 KB/s
+Received 22293 bytes in last 2 seconds.
+Speed: 10.8853 KB/s
+Received 2760 bytes in last 2 seconds.
+Speed: 1.34766 KB/s
+Received 906 bytes in last 2 seconds.
+Speed: 0.442383 KB/s
+Received 942 bytes in last 2 seconds.
+Speed: 0.459961 KB/s
+Received 4146 bytes in last 2 seconds.
+Speed: 2.02441 KB/s
+Received 26721 bytes in last 2 seconds.
+Speed: 13.0474 KB/s
+Received 3105 bytes in last 2 seconds.
+Speed: 1.51611 KB/s
+Received 942 bytes in last 2 seconds.
+Speed: 0.459961 KB/s
+Received 972 bytes in last 2 seconds.
+Speed: 0.474609 KB/s
+Received 5577 bytes in last 2 seconds.
+Speed: 2.72314 KB/s
+Received 26619 bytes in last 2 seconds.
+Speed: 12.9976 KB/s
+Received 22140 bytes in last 2 seconds.
+Speed: 10.8105 KB/s
+Received 28734 bytes in last 2 seconds.
+Speed: 14.0303 KB/s
+Received 16479 bytes in last 2 seconds.
+Speed: 8.04639 KB/s
+Received 24270 bytes in last 2 seconds.
+Speed: 11.8506 KB/s
+Received 29586 bytes in last 2 seconds.
+Speed: 14.4463 KB/s
+Received 2766 bytes in last 2 seconds.
+Speed: 1.35059 KB/s
+Received 690 bytes in last 2 seconds.
+Speed: 0.336914 KB/s
+Received 801 bytes in last 2 seconds.
+Speed: 0.391113 KB/s
+Received 1098 bytes in last 2 seconds.
+Speed: 0.536133 KB/s
+Received 23760 bytes in last 2 seconds.
+Speed: 11.6016 KB/s
+Received 25710 bytes in last 2 seconds.
+Speed: 12.5537 KB/s
+Received 18402 bytes in last 2 seconds.
+Speed: 8.98535 KB/s
+Received 27351 bytes in last 2 seconds.
+Speed: 13.355 KB/s
+Received 17187 bytes in last 2 seconds.
+Speed: 8.39209 KB/s
+Received 31914 bytes in last 2 seconds.
+Speed: 15.583 KB/s
+Received 25074 bytes in last 2 seconds.
+Speed: 12.2432 KB/s
+Received 29193 bytes in last 2 seconds.
+Speed: 14.2544 KB/s
+Received 31452 bytes in last 2 seconds.
+Speed: 15.3574 KB/s
+Received 31578 bytes in last 2 seconds.
+Speed: 15.4189 KB/s
+Received 749 bytes in last 2 seconds.
+Speed: 0.365723 KB/s
+Received 851 bytes in last 2 seconds.
+Speed: 0.415527 KB/s
+Received 1215 bytes in last 2 seconds.
+Speed: 0.593262 KB/s
+Received 24224 bytes in last 2 seconds.
+Speed: 11.8281 KB/s
+Received 25956 bytes in last 2 seconds.
+Speed: 12.6738 KB/s
+Received 19670 bytes in last 2 seconds.
+Speed: 9.60449 KB/s
+Received 25875 bytes in last 2 seconds.
+Speed: 12.6343 KB/s
+Received 17960 bytes in last 2 seconds.
+Speed: 8.76953 KB/s
+Received 11644 bytes in last 2 seconds.
+Speed: 5.68555 KB/s
+Received 619 bytes in last 2 seconds.
+Speed: 0.302246 KB/s
+Received 833 bytes in last 2 seconds.
+Speed: 0.406738 KB/s
+Received 1170 bytes in last 2 seconds.
+Speed: 0.571289 KB/s
+Received 20669 bytes in last 2 seconds.
+Speed: 10.0923 KB/s
+Received 25857 bytes in last 2 seconds.
+Speed: 12.6255 KB/s
+Received 16592 bytes in last 2 seconds.
+Speed: 8.10156 KB/s
+Received 30623 bytes in last 2 seconds.
+Speed: 14.9526 KB/s
+Received 9213 bytes in last 2 seconds.
+Speed: 4.49854 KB/s
+Received 671 bytes in last 2 seconds.
+Speed: 0.327637 KB/s
+Received 833 bytes in last 2 seconds.
+Speed: 0.406738 KB/s
+Received 1170 bytes in last 2 seconds.
+Speed: 0.571289 KB/s
+Received 22716 bytes in last 2 seconds.
+Speed: 11.0918 KB/s
+Received 7550 bytes in last 2 seconds.
+Speed: 3.68652 KB/s
+Received 684 bytes in last 2 seconds.
+Speed: 0.333984 KB/s
+Received 851 bytes in last 2 seconds.
+Speed: 0.415527 KB/s
+Received 1139 bytes in last 2 seconds.
+Speed: 0.556152 KB/s
+Received 21152 bytes in last 2 seconds.
+Speed: 10.3281 KB/s
+Received 801 bytes in last 2 seconds.
+Speed: 0.391113 KB/s
+Received 945 bytes in last 2 seconds.
+Speed: 0.461426 KB/s
+Received 1638 bytes in last 2 seconds.
+Speed: 0.799805 KB/s
+Received 26644 bytes in last 2 seconds.
+Speed: 13.0098 KB/s
+Received 24345 bytes in last 2 seconds.
+Speed: 11.8872 KB/s
+Received 23225 bytes in last 2 seconds.
+Speed: 11.3403 KB/s
+Received 22828 bytes in last 2 seconds.
+Speed: 11.1465 KB/s
+Received 18295 bytes in last 2 seconds.
+Speed: 8.93311 KB/s
+Received 548 bytes in last 2 seconds.
+Speed: 0.267578 KB/s
+Received 891 bytes in last 2 seconds.
+Speed: 0.435059 KB/s
+Received 1139 bytes in last 2 seconds.
+Speed: 0.556152 KB/s
+Received 19490 bytes in last 2 seconds.
+Speed: 9.5166 KB/s
+Received 26010 bytes in last 2 seconds.
+Speed: 12.7002 KB/s
+Received 16758 bytes in last 2 seconds.
+Speed: 8.18262 KB/s
+Received 1140 bytes in last 2 seconds.
+Speed: 0.556641 KB/s
+Received 1013 bytes in last 2 seconds.
+Speed: 0.494629 KB/s
+Received 9522 bytes in last 2 seconds.
+Speed: 4.64941 KB/s
+Received 26861 bytes in last 2 seconds.
+Speed: 13.1157 KB/s
+Received 19629 bytes in last 2 seconds.
+Speed: 9.58447 KB/s
+Received 32760 bytes in last 2 seconds.
+Speed: 15.9961 KB/s
+Received 11948 bytes in last 2 seconds.
+Speed: 5.83398 KB/s
+Received 28130 bytes in last 2 seconds.
+Speed: 13.7354 KB/s
+Received 21879 bytes in last 2 seconds.
+Speed: 10.6831 KB/s
+Received 1270 bytes in last 2 seconds.
+Speed: 0.620117 KB/s
+Received 4068 bytes in last 2 seconds.
+Speed: 1.98633 KB/s
+Received 43257 bytes in last 2 seconds.
+Speed: 21.1216 KB/s
+Received 41975 bytes in last 2 seconds.
+Speed: 20.4956 KB/s
+Received 27742 bytes in last 2 seconds.
+Speed: 13.5459 KB/s
+Received 45148 bytes in last 2 seconds.
+Speed: 22.0449 KB/s
+Received 47771 bytes in last 2 seconds.
+Speed: 23.3257 KB/s
+Received 53743 bytes in last 2 seconds.
+Speed: 26.2417 KB/s
+Received 45152 bytes in last 2 seconds.
+Speed: 22.0469 KB/s
+Received 42915 bytes in last 2 seconds.
+Speed: 20.9546 KB/s
+Received 53388 bytes in last 2 seconds.
+Speed: 26.0684 KB/s
+Received 53914 bytes in last 2 seconds.
+Speed: 26.3252 KB/s
+Received 30102 bytes in last 2 seconds.
+Speed: 14.6982 KB/s
+Received 1439 bytes in last 2 seconds.
+Speed: 0.702637 KB/s
+Received 167972 bytes in last 2 seconds.
+Speed: 82.0176 KB/s
+Received 248604 bytes in last 2 seconds.
+Speed: 121.389 KB/s
+Received 138614 bytes in last 2 seconds.
+Speed: 67.6826 KB/s
+Received 229213 bytes in last 2 seconds.
+Speed: 111.92 KB/s
+Received 197323 bytes in last 2 seconds.
+Speed: 96.3491 KB/s
+Received 165853 bytes in last 2 seconds.
+Speed: 80.9829 KB/s
+Received 240030 bytes in last 2 seconds.
+Speed: 117.202 KB/s
+Received 142106 bytes in last 2 seconds.
+Speed: 69.3877 KB/s
+Received 226072 bytes in last 2 seconds.
+Speed: 110.387 KB/s
+Received 207352 bytes in last 2 seconds.
+Speed: 101.246 KB/s
+Received 159539 bytes in last 2 seconds.
+Speed: 77.8999 KB/s
+Received 245360 bytes in last 2 seconds.
+Speed: 119.805 KB/s
+Received 143384 bytes in last 2 seconds.
+Speed: 70.0117 KB/s
+Received 228548 bytes in last 2 seconds.
+Speed: 111.596 KB/s
+Received 205039 bytes in last 2 seconds.
+Speed: 100.117 KB/s
+Received 12512 bytes in last 2 seconds.
+Speed: 6.10938 KB/s
+Received 19946 bytes in last 2 seconds.
+Speed: 9.73926 KB/s
+Received 456489 bytes in last 2 seconds.
+Speed: 222.895 KB/s
+Received 351338 bytes in last 2 seconds.
+Speed: 171.552 KB/s
+Received 368630 bytes in last 2 seconds.
+Speed: 179.995 KB/s
+Received 375581 bytes in last 2 seconds.
+Speed: 183.389 KB/s
+Received 394246 bytes in last 2 seconds.
+Speed: 192.503 KB/s
+Received 444883 bytes in last 2 seconds.
+Speed: 217.228 KB/s
+Received 356566 bytes in last 2 seconds.
+Speed: 174.104 KB/s
+Received 165410 bytes in last 2 seconds.
+Speed: 80.7666 KB/s
+Received 792221 bytes in last 2 seconds.
+Speed: 386.827 KB/s
+Received 2690223 bytes in last 2 seconds.
+Speed: 1313.59 KB/s
+Received 2898589 bytes in last 2 seconds.
+Speed: 1415.33 KB/s
+Received 2736044 bytes in last 2 seconds.
+Speed: 1335.96 KB/s
+Received 700703 bytes in last 2 seconds.
+Speed: 342.14 KB/s
+Received 1956409 bytes in last 2 seconds.
+Speed: 955.278 KB/s
+Received 2624733 bytes in last 2 seconds.
+Speed: 1281.61 KB/s
+Received 2823560 bytes in last 2 seconds.
+Speed: 1378.69 KB/s
+Received 2413078 bytes in last 2 seconds.
+Speed: 1178.26 KB/s
+Received 846155 bytes in last 2 seconds.
+Speed: 413.162 KB/s
+Received 2803794 bytes in last 2 seconds.
+Speed: 1369.04 KB/s
+Received 2802402 bytes in last 2 seconds.
+Speed: 1368.36 KB/s
+Received 2386325 bytes in last 2 seconds.
+Speed: 1165.2 KB/s
+Received 979104 bytes in last 2 seconds.
+Speed: 478.078 KB/s
+Received 153956 bytes in last 2 seconds.
+Speed: 75.1738 KB/s
+Received 2086976 bytes in last 2 seconds.
+Speed: 1019.03 KB/s
+Received 2224477 bytes in last 2 seconds.
+Speed: 1086.17 KB/s
+Received 2233340 bytes in last 2 seconds.
+Speed: 1090.5 KB/s
+Received 2189965 bytes in last 2 seconds.
+Speed: 1069.32 KB/s
+Received 929066 bytes in last 2 seconds.
+Speed: 453.646 KB/s
+Received 1702 bytes in last 2 seconds.
+Speed: 0.831055 KB/s
+Received 15403 bytes in last 2 seconds.
+Speed: 7.521 KB/s
+Received 38767 bytes in last 2 seconds.
+Speed: 18.9292 KB/s
+Received 40810 bytes in last 2 seconds.
+Speed: 19.9268 KB/s
+Received 34321 bytes in last 2 seconds.
+Speed: 16.7583 KB/s
+Received 43029 bytes in last 2 seconds.
+Speed: 21.0103 KB/s
+Received 48298 bytes in last 2 seconds.
+Speed: 23.583 KB/s
+Received 54197 bytes in last 2 seconds.
+Speed: 26.4634 KB/s
+Received 22625 bytes in last 2 seconds.
+Speed: 11.0474 KB/s
+Received 2166 bytes in last 2 seconds.
+Speed: 1.05762 KB/s
+Received 57526 bytes in last 2 seconds.
+Speed: 28.0889 KB/s
+Received 85014 bytes in last 2 seconds.
+Speed: 41.5107 KB/s
+Received 91853 bytes in last 2 seconds.
+Speed: 44.8501 KB/s
+Received 89801 bytes in last 2 seconds.
+Speed: 43.8481 KB/s
+Received 106743 bytes in last 2 seconds.
+Speed: 52.1206 KB/s
+Received 58900 bytes in last 2 seconds.
+Speed: 28.7598 KB/s
+Received 40877 bytes in last 2 seconds.
+Speed: 19.9595 KB/s
+Received 68682 bytes in last 2 seconds.
+Speed: 33.5361 KB/s
+Received 92983 bytes in last 2 seconds.
+Speed: 45.4019 KB/s
+Received 101613 bytes in last 2 seconds.
+Speed: 49.6157 KB/s
+Received 92100 bytes in last 2 seconds.
+Speed: 44.9707 KB/s
+Received 91503 bytes in last 2 seconds.
+Speed: 44.6792 KB/s
+Received 17540 bytes in last 2 seconds.
+Speed: 8.56445 KB/s
+Received 80566 bytes in last 2 seconds.
+Speed: 39.3389 KB/s
+Received 76954 bytes in last 2 seconds.
+Speed: 37.5752 KB/s
+Received 103030 bytes in last 2 seconds.
+Speed: 50.3076 KB/s
+Received 84254 bytes in last 2 seconds.
+Speed: 41.1396 KB/s
+Received 108561 bytes in last 2 seconds.
+Speed: 53.0083 KB/s
+Received 24267 bytes in last 2 seconds.
+Speed: 11.8491 KB/s
+Received 57672 bytes in last 2 seconds.
+Speed: 28.1602 KB/s
+Received 87258 bytes in last 2 seconds.
+Speed: 42.6064 KB/s
+Received 93531 bytes in last 2 seconds.
+Speed: 45.6694 KB/s
+Received 87993 bytes in last 2 seconds.
+Speed: 42.9653 KB/s
+Received 106478 bytes in last 2 seconds.
+Speed: 51.9912 KB/s
+Received 56883 bytes in last 2 seconds.
+Speed: 27.7749 KB/s
+Received 43496 bytes in last 2 seconds.
+Speed: 21.2383 KB/s
+Received 67644 bytes in last 2 seconds.
+Speed: 33.0293 KB/s
+Received 94736 bytes in last 2 seconds.
+Speed: 46.2578 KB/s
+Received 99333 bytes in last 2 seconds.
+Speed: 48.5024 KB/s
+Received 92856 bytes in last 2 seconds.
+Speed: 45.3398 KB/s
+Received 90364 bytes in last 2 seconds.
+Speed: 44.123 KB/s
+Received 18890 bytes in last 2 seconds.
+Speed: 9.22363 KB/s
+Received 79648 bytes in last 2 seconds.
+Speed: 38.8906 KB/s
+Received 78376 bytes in last 2 seconds.
+Speed: 38.2695 KB/s
+Received 101236 bytes in last 2 seconds.
+Speed: 49.4316 KB/s
+Received 85967 bytes in last 2 seconds.
+Speed: 41.9761 KB/s
+Received 107805 bytes in last 2 seconds.
+Speed: 52.6392 KB/s
+Received 22612 bytes in last 2 seconds.
+Speed: 11.041 KB/s
+Received 62459 bytes in last 2 seconds.
+Speed: 30.4976 KB/s
+Received 84005 bytes in last 2 seconds.
+Speed: 41.0181 KB/s
+Received 94076 bytes in last 2 seconds.
+Speed: 45.9355 KB/s
+Received 88487 bytes in last 2 seconds.
+Speed: 43.2065 KB/s
+Received 106397 bytes in last 2 seconds.
+Speed: 51.9517 KB/s
+Received 54345 bytes in last 2 seconds.
+Speed: 26.5356 KB/s
+Received 45526 bytes in last 2 seconds.
+Speed: 22.2295 KB/s
+Received 69182 bytes in last 2 seconds.
+Speed: 33.7803 KB/s
+Received 93405 bytes in last 2 seconds.
+Speed: 45.6079 KB/s
+Received 99174 bytes in last 2 seconds.
+Speed: 48.4248 KB/s
+Received 93946 bytes in last 2 seconds.
+Speed: 45.8721 KB/s
+Received 87844 bytes in last 2 seconds.
+Speed: 42.8926 KB/s
+Received 20501 bytes in last 2 seconds.
+Speed: 10.0103 KB/s
+Received 78060 bytes in last 2 seconds.
+Speed: 38.1152 KB/s
+Received 79834 bytes in last 2 seconds.
+Speed: 38.9814 KB/s
+Received 100304 bytes in last 2 seconds.
+Speed: 48.9766 KB/s
+Received 87389 bytes in last 2 seconds.
+Speed: 42.6704 KB/s
+Received 107495 bytes in last 2 seconds.
+Speed: 52.4878 KB/s
+Received 20339 bytes in last 2 seconds.
+Speed: 9.93115 KB/s
+Received 65114 bytes in last 2 seconds.
+Speed: 31.7939 KB/s
+Received 83420 bytes in last 2 seconds.
+Speed: 40.7324 KB/s
+Received 95048 bytes in last 2 seconds.
+Speed: 46.4102 KB/s
+Received 88936 bytes in last 2 seconds.
+Speed: 43.4258 KB/s
+Received 107072 bytes in last 2 seconds.
+Speed: 52.2813 KB/s
+Received 50182 bytes in last 2 seconds.
+Speed: 24.5029 KB/s
+Received 51351 bytes in last 2 seconds.
+Speed: 25.0737 KB/s
+Received 69309 bytes in last 2 seconds.
+Speed: 33.8423 KB/s
+Received 92604 bytes in last 2 seconds.
+Speed: 45.2168 KB/s
+Received 98025 bytes in last 2 seconds.
+Speed: 47.8638 KB/s
+Received 98954 bytes in last 2 seconds.
+Speed: 48.3174 KB/s
+Received 79757 bytes in last 2 seconds.
+Speed: 38.9438 KB/s
+Received 26567 bytes in last 2 seconds.
+Speed: 12.9722 KB/s
+Received 73611 bytes in last 2 seconds.
+Speed: 35.9429 KB/s
+Received 84373 bytes in last 2 seconds.
+Speed: 41.1978 KB/s
+Received 101433 bytes in last 2 seconds.
+Speed: 49.5278 KB/s
+Received 87696 bytes in last 2 seconds.
+Speed: 42.8203 KB/s
+Received 104259 bytes in last 2 seconds.
+Speed: 50.9077 KB/s
+Received 15187 bytes in last 2 seconds.
+Speed: 7.41553 KB/s
+Received 77448 bytes in last 2 seconds.
+Speed: 37.8164 KB/s
+Received 76032 bytes in last 2 seconds.
+Speed: 37.125 KB/s
+Received 96974 bytes in last 2 seconds.
+Speed: 47.3506 KB/s
+Received 87929 bytes in last 2 seconds.
+Speed: 42.9341 KB/s
+Received 108385 bytes in last 2 seconds.
+Speed: 52.9224 KB/s
+Received 42916 bytes in last 2 seconds.
+Speed: 20.9551 KB/s
+Received 52703 bytes in last 2 seconds.
+Speed: 25.7339 KB/s
+Received 73020 bytes in last 2 seconds.
+Speed: 35.6543 KB/s
+Received 90999 bytes in last 2 seconds.
+Speed: 44.4331 KB/s
+Received 97048 bytes in last 2 seconds.
+Speed: 47.3867 KB/s
+Received 101662 bytes in last 2 seconds.
+Speed: 49.6396 KB/s
+Received 74728 bytes in last 2 seconds.
+Speed: 36.4883 KB/s
+Received 31118 bytes in last 2 seconds.
+Speed: 15.1943 KB/s
+Received 70621 bytes in last 2 seconds.
+Speed: 34.4829 KB/s
+Received 87655 bytes in last 2 seconds.
+Speed: 42.8003 KB/s
+Received 102577 bytes in last 2 seconds.
+Speed: 50.0864 KB/s
+Received 89368 bytes in last 2 seconds.
+Speed: 43.6367 KB/s
+Received 98424 bytes in last 2 seconds.
+Speed: 48.0586 KB/s
+Received 14615 bytes in last 2 seconds.
+Speed: 7.13623 KB/s
+Received 84018 bytes in last 2 seconds.
+Speed: 41.0244 KB/s
+Received 74023 bytes in last 2 seconds.
+Speed: 36.144 KB/s
+Received 101662 bytes in last 2 seconds.
+Speed: 49.6396 KB/s
+Received 86004 bytes in last 2 seconds.
+Speed: 41.9941 KB/s
+Received 107868 bytes in last 2 seconds.
+Speed: 52.6699 KB/s
+Received 34998 bytes in last 2 seconds.
+Speed: 17.0889 KB/s
+Received 56025 bytes in last 2 seconds.
+Speed: 27.356 KB/s
+Received 5338 bytes in last 2 seconds.
+Speed: 2.60645 KB/s
+Received 84324 bytes in last 2 seconds.
+Speed: 41.1738 KB/s
+Received 72234 bytes in last 2 seconds.
+Speed: 35.2705 KB/s
+Received 100835 bytes in last 2 seconds.
+Speed: 49.2358 KB/s
+Received 87240 bytes in last 2 seconds.
+Speed: 42.5977 KB/s
+Received 19186 bytes in last 2 seconds.
+Speed: 9.36816 KB/s
+Received 100650 bytes in last 2 seconds.
+Speed: 49.1455 KB/s
+Received 222124 bytes in last 2 seconds.
+Speed: 108.459 KB/s
+Received 46383 bytes in last 2 seconds.
+Speed: 22.6479 KB/s
+Received 957 bytes in last 2 seconds.
+Speed: 0.467285 KB/s
+Received 154904 bytes in last 2 seconds.
+Speed: 75.6367 KB/s
+Received 214240 bytes in last 2 seconds.
+Speed: 104.609 KB/s
+Received 154697 bytes in last 2 seconds.
+Speed: 75.5356 KB/s
+Received 214512 bytes in last 2 seconds.
+Speed: 104.742 KB/s
+Received 155404 bytes in last 2 seconds.
+Speed: 75.8809 KB/s
+Received 213688 bytes in last 2 seconds.
+Speed: 104.34 KB/s
+Received 154490 bytes in last 2 seconds.
+Speed: 75.4346 KB/s
+Received 214745 bytes in last 2 seconds.
+Speed: 104.856 KB/s
+Received 154412 bytes in last 2 seconds.
+Speed: 75.3965 KB/s
+Received 214758 bytes in last 2 seconds.
+Speed: 104.862 KB/s
+Received 153743 bytes in last 2 seconds.
+Speed: 75.0698 KB/s
+Received 215388 bytes in last 2 seconds.
+Speed: 105.17 KB/s
+Received 154425 bytes in last 2 seconds.
+Speed: 75.4028 KB/s
+Received 214745 bytes in last 2 seconds.
+Speed: 104.856 KB/s
+Received 153401 bytes in last 2 seconds.
+Speed: 74.9028 KB/s
+Received 214747 bytes in last 2 seconds.
+Speed: 104.857 KB/s
+Received 76 bytes in last 2 seconds.
+Speed: 0.0371094 KB/s
+Received 262144 bytes in last 2 seconds.
+Speed: 128 KB/s
+Received 131072 bytes in last 2 seconds.
+Speed: 64 KB/s
+Received 4264 bytes in last 2 seconds.
+Speed: 2.08203 KB/s
+Received 205106 bytes in last 2 seconds.
+Speed: 100.149 KB/s
+Received 165525 bytes in last 2 seconds.
+Speed: 80.8228 KB/s
+Received 205493 bytes in last 2 seconds.
+Speed: 100.338 KB/s
+Received 162729 bytes in last 2 seconds.
+Speed: 79.4575 KB/s
+Received 204567 bytes in last 2 seconds.
+Speed: 99.8862 KB/s
+Received 165525 bytes in last 2 seconds.
+Speed: 80.8228 KB/s
+Received 204549 bytes in last 2 seconds.
+Speed: 99.8774 KB/s
+Received 163673 bytes in last 2 seconds.
+Speed: 79.9185 KB/s
+Received 203515 bytes in last 2 seconds.
+Speed: 99.3726 KB/s
+Received 165642 bytes in last 2 seconds.
+Speed: 80.8799 KB/s
+Received 203515 bytes in last 2 seconds.
+Speed: 99.3726 KB/s
+Received 166577 bytes in last 2 seconds.
+Speed: 81.3364 KB/s
+Received 205102 bytes in last 2 seconds.
+Speed: 100.147 KB/s
+Received 162801 bytes in last 2 seconds.
+Speed: 79.4927 KB/s
+Received 204360 bytes in last 2 seconds.
+Speed: 99.7852 KB/s
+Received 160313 bytes in last 2 seconds.
+Speed: 78.2778 KB/s
+Received 58416 bytes in last 2 seconds.
+Speed: 28.5234 KB/s
+Received 139121 bytes in last 2 seconds.
+Speed: 67.9302 KB/s
+Received 157729 bytes in last 2 seconds.
+Speed: 77.0161 KB/s
+Received 72329 bytes in last 2 seconds.
+Speed: 35.3169 KB/s
+Received 137530 bytes in last 2 seconds.
+Speed: 67.1533 KB/s
+Received 159298 bytes in last 2 seconds.
+Speed: 77.7822 KB/s
+Received 72267 bytes in last 2 seconds.
+Speed: 35.2866 KB/s
+Received 138172 bytes in last 2 seconds.
+Speed: 67.4668 KB/s
+Received 157720 bytes in last 2 seconds.
+Speed: 77.0117 KB/s
+Received 73376 bytes in last 2 seconds.
+Speed: 35.8281 KB/s
+Received 139657 bytes in last 2 seconds.
+Speed: 68.1919 KB/s
+Received 155706 bytes in last 2 seconds.
+Speed: 76.0283 KB/s
+Received 73472 bytes in last 2 seconds.
+Speed: 35.875 KB/s
+Received 138864 bytes in last 2 seconds.
+Speed: 67.8047 KB/s
+Received 156403 bytes in last 2 seconds.
+Speed: 76.3687 KB/s
+Received 74141 bytes in last 2 seconds.
+Speed: 36.2017 KB/s
+Received 140317 bytes in last 2 seconds.
+Speed: 68.5142 KB/s
+Received 155535 bytes in last 2 seconds.
+Speed: 75.9448 KB/s
+Received 73416 bytes in last 2 seconds.
+Speed: 35.8477 KB/s
+Received 138502 bytes in last 2 seconds.
+Speed: 67.6279 KB/s
+Received 156403 bytes in last 2 seconds.
+Speed: 76.3687 KB/s
+Received 74252 bytes in last 2 seconds.
+Speed: 36.2559 KB/s
+Received 138021 bytes in last 2 seconds.
+Speed: 67.3931 KB/s
+Received 156884 bytes in last 2 seconds.
+Speed: 76.6035 KB/s
+Received 15725 bytes in last 2 seconds.
+Speed: 7.67822 KB/s
+Received 1702 bytes in last 2 seconds.
+Speed: 0.831055 KB/s
+Received 174461 bytes in last 2 seconds.
+Speed: 85.186 KB/s
+Received 194832 bytes in last 2 seconds.
+Speed: 95.1328 KB/s
+Received 177310 bytes in last 2 seconds.
+Speed: 86.5771 KB/s
+Received 192053 bytes in last 2 seconds.
+Speed: 93.7759 KB/s
+Received 182206 bytes in last 2 seconds.
+Speed: 88.9678 KB/s
+Received 186977 bytes in last 2 seconds.
+Speed: 91.2974 KB/s
+Received 181191 bytes in last 2 seconds.
+Speed: 88.4722 KB/s
+Received 187979 bytes in last 2 seconds.
+Speed: 91.7866 KB/s
+Received 180787 bytes in last 2 seconds.
+Speed: 88.2749 KB/s
+Received 188501 bytes in last 2 seconds.
+Speed: 92.0415 KB/s
+Received 186328 bytes in last 2 seconds.
+Speed: 90.9805 KB/s
+Received 182903 bytes in last 2 seconds.
+Speed: 89.3081 KB/s
+Received 188155 bytes in last 2 seconds.
+Speed: 91.8726 KB/s
+Received 180941 bytes in last 2 seconds.
+Speed: 88.3501 KB/s
+Received 186315 bytes in last 2 seconds.
+Speed: 90.9741 KB/s
+Received 180615 bytes in last 2 seconds.
+Speed: 88.1909 KB/s
+Received 100211 bytes in last 2 seconds.
+Speed: 48.9312 KB/s
+Received 367486 bytes in last 2 seconds.
+Speed: 179.437 KB/s
+Received 369157 bytes in last 2 seconds.
+Speed: 180.252 KB/s
+Received 368089 bytes in last 2 seconds.
+Speed: 179.731 KB/s
+Received 367455 bytes in last 2 seconds.
+Speed: 179.421 KB/s
+Received 368371 bytes in last 2 seconds.
+Speed: 179.869 KB/s
+Received 368252 bytes in last 2 seconds.
+Speed: 179.811 KB/s
+Received 369099 bytes in last 2 seconds.
+Speed: 180.224 KB/s
+Received 275136 bytes in last 2 seconds.
+Speed: 134.344 KB/s
+Received 1474362 bytes in last 2 seconds.
+Speed: 719.903 KB/s
+Received 1478894 bytes in last 2 seconds.
+Speed: 722.116 KB/s
+Received 45569 bytes in last 2 seconds.
+Speed: 22.2505 KB/s
+Received 370371 bytes in last 2 seconds.
+Speed: 180.845 KB/s
+Received 363076 bytes in last 2 seconds.
+Speed: 177.283 KB/s
+Received 369822 bytes in last 2 seconds.
+Speed: 180.577 KB/s
+Received 368820 bytes in last 2 seconds.
+Speed: 180.088 KB/s
+Received 369494 bytes in last 2 seconds.
+Speed: 180.417 KB/s
+Received 367944 bytes in last 2 seconds.
+Speed: 179.66 KB/s
+Received 366829 bytes in last 2 seconds.
+Speed: 179.116 KB/s
+Received 331331 bytes in last 2 seconds.
+Speed: 161.783 KB/s
+Received 671 bytes in last 2 seconds.
+Speed: 0.327637 KB/s
+Received 403 bytes in last 2 seconds.
+Speed: 0.196777 KB/s
+Received 461 bytes in last 2 seconds.
+Speed: 0.225098 KB/s
+Received 574 bytes in last 2 seconds.
+Speed: 0.280273 KB/s
+Received 565 bytes in last 2 seconds.
+Speed: 0.275879 KB/s
+Received 8017 bytes in last 2 seconds.
+Speed: 3.91455 KB/s
+Received 14263 bytes in last 2 seconds.
+Speed: 6.96436 KB/s
+Received 12517 bytes in last 2 seconds.
+Speed: 6.11182 KB/s
+Received 13358 bytes in last 2 seconds.
+Speed: 6.52246 KB/s
+Received 7144 bytes in last 2 seconds.
+Speed: 3.48828 KB/s
+Received 10361 bytes in last 2 seconds.
+Speed: 5.05908 KB/s
+Received 21328 bytes in last 2 seconds.
+Speed: 10.4141 KB/s
+Received 7810 bytes in last 2 seconds.
+Speed: 3.81348 KB/s
+Received 4701 bytes in last 2 seconds.
+Speed: 2.29541 KB/s
+Received 10159 bytes in last 2 seconds.
+Speed: 4.96045 KB/s
+Received 16702 bytes in last 2 seconds.
+Speed: 8.15527 KB/s
+Received 16153 bytes in last 2 seconds.
+Speed: 7.88721 KB/s
+Received 11343 bytes in last 2 seconds.
+Speed: 5.53857 KB/s
+Received 12881 bytes in last 2 seconds.
+Speed: 6.28955 KB/s
+Received 15311 bytes in last 2 seconds.
+Speed: 7.47607 KB/s
+Received 14011 bytes in last 2 seconds.
+Speed: 6.84131 KB/s
+Received 16283 bytes in last 2 seconds.
+Speed: 7.95068 KB/s
+Received 16013 bytes in last 2 seconds.
+Speed: 7.81885 KB/s
+Received 17364 bytes in last 2 seconds.
+Speed: 8.47852 KB/s
+Received 17107 bytes in last 2 seconds.
+Speed: 8.35303 KB/s
+Received 13543 bytes in last 2 seconds.
+Speed: 6.61279 KB/s
+Received 15339 bytes in last 2 seconds.
+Speed: 7.48975 KB/s
+Received 13156 bytes in last 2 seconds.
+Speed: 6.42383 KB/s
+Received 9187 bytes in last 2 seconds.
+Speed: 4.48584 KB/s
+Received 12674 bytes in last 2 seconds.
+Speed: 6.18848 KB/s
+Received 15955 bytes in last 2 seconds.
+Speed: 7.79053 KB/s
+Received 14483 bytes in last 2 seconds.
+Speed: 7.07178 KB/s
+Received 9266 bytes in last 2 seconds.
+Speed: 4.52441 KB/s
+Received 723 bytes in last 2 seconds.
+Speed: 0.353027 KB/s
+Received 864 bytes in last 2 seconds.
+Speed: 0.421875 KB/s
+Received 1148 bytes in last 2 seconds.
+Speed: 0.560547 KB/s
+Received 23823 bytes in last 2 seconds.
+Speed: 11.6323 KB/s
+Received 25772 bytes in last 2 seconds.
+Speed: 12.584 KB/s
+Received 18464 bytes in last 2 seconds.
+Speed: 9.01563 KB/s
+Received 27414 bytes in last 2 seconds.
+Speed: 13.3857 KB/s
+Received 17757 bytes in last 2 seconds.
+Speed: 8.67041 KB/s
+Received 31469 bytes in last 2 seconds.
+Speed: 15.3657 KB/s
+Received 25137 bytes in last 2 seconds.
+Speed: 12.2739 KB/s
+Received 29255 bytes in last 2 seconds.
+Speed: 14.2847 KB/s
+Received 31932 bytes in last 2 seconds.
+Speed: 15.5918 KB/s
+Received 35739 bytes in last 2 seconds.
+Speed: 17.4507 KB/s
+Received 29021 bytes in last 2 seconds.
+Speed: 14.1704 KB/s
+Received 20804 bytes in last 2 seconds.
+Speed: 10.1582 KB/s
+Received 29822 bytes in last 2 seconds.
+Speed: 14.5615 KB/s
+Received 19959 bytes in last 2 seconds.
+Speed: 9.74561 KB/s
+Received 879 bytes in last 2 seconds.
+Speed: 0.429199 KB/s
+Received 36592 bytes in last 2 seconds.
+Speed: 17.8672 KB/s
+Received 67148 bytes in last 2 seconds.
+Speed: 32.7871 KB/s
+Received 90670 bytes in last 2 seconds.
+Speed: 44.2725 KB/s
+Received 103229 bytes in last 2 seconds.
+Speed: 50.4048 KB/s
+Received 70585 bytes in last 2 seconds.
+Speed: 34.4653 KB/s
+Received 23826 bytes in last 2 seconds.
+Speed: 11.6338 KB/s
+Received 206614 bytes in last 2 seconds.
+Speed: 100.886 KB/s
+Received 138663 bytes in last 2 seconds.
+Speed: 67.7065 KB/s
+Received 2478 bytes in last 2 seconds.
+Speed: 1.20996 KB/s
+Received 192402 bytes in last 2 seconds.
+Speed: 93.9463 KB/s
+Received 174223 bytes in last 2 seconds.
+Speed: 85.0698 KB/s
+Received 105576 bytes in last 2 seconds.
+Speed: 51.5508 KB/s
+Received 236141 bytes in last 2 seconds.
+Speed: 115.303 KB/s
+Received 27386 bytes in last 2 seconds.
+Speed: 13.3721 KB/s
+Received 210 bytes in last 2 seconds.
+Speed: 0.102539 KB/s
+Received 140639 bytes in last 2 seconds.
+Speed: 68.6714 KB/s
+Received 228254 bytes in last 2 seconds.
+Speed: 111.452 KB/s
+Received 131475 bytes in last 2 seconds.
+Speed: 64.1968 KB/s
+Received 231954 bytes in last 2 seconds.
+Speed: 113.259 KB/s
+Received 5674 bytes in last 2 seconds.
+Speed: 2.77051 KB/s
+Received 154410 bytes in last 2 seconds.
+Speed: 75.3955 KB/s
+Received 214693 bytes in last 2 seconds.
+Speed: 104.831 KB/s
+Received 245588 bytes in last 2 seconds.
+Speed: 119.916 KB/s
+Received 123515 bytes in last 2 seconds.
+Speed: 60.3101 KB/s
+Received 281884 bytes in last 2 seconds.
+Speed: 137.639 KB/s
+Received 87219 bytes in last 2 seconds.
+Speed: 42.5874 KB/s
+Received 28702 bytes in last 2 seconds.
+Speed: 14.0146 KB/s
+Received 340401 bytes in last 2 seconds.
+Speed: 166.211 KB/s
+Received 3815 bytes in last 2 seconds.
+Speed: 1.86279 KB/s
+Received 365288 bytes in last 2 seconds.
+Speed: 178.363 KB/s
+Received 65740 bytes in last 2 seconds.
+Speed: 32.0996 KB/s
+Received 364052 bytes in last 2 seconds.
+Speed: 177.76 KB/s
+Received 376856 bytes in last 2 seconds.
+Speed: 184.012 KB/s
+Received 367507 bytes in last 2 seconds.
+Speed: 179.447 KB/s
+Received 361811 bytes in last 2 seconds.
+Speed: 176.666 KB/s
+Received 369099 bytes in last 2 seconds.
+Speed: 180.224 KB/s
+Received 368315 bytes in last 2 seconds.
+Speed: 179.841 KB/s
+Received 369135 bytes in last 2 seconds.
+Speed: 180.242 KB/s
+Received 310741 bytes in last 2 seconds.
+Speed: 151.729 KB/s
+Received 116 bytes in last 2 seconds.
+Speed: 0.0566406 KB/s
+Received 776 bytes in last 2 seconds.
+Speed: 0.378906 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 560 bytes in last 2 seconds.
+Speed: 0.273438 KB/s
+Received 565 bytes in last 2 seconds.
+Speed: 0.275879 KB/s
+Received 2891 bytes in last 2 seconds.
+Speed: 1.41162 KB/s
+Received 13318 bytes in last 2 seconds.
+Speed: 6.50293 KB/s
+Received 13484 bytes in last 2 seconds.
+Speed: 6.58398 KB/s
+Received 12121 bytes in last 2 seconds.
+Speed: 5.91846 KB/s
+Received 10978 bytes in last 2 seconds.
+Speed: 5.36035 KB/s
+Received 4547 bytes in last 2 seconds.
+Speed: 2.22021 KB/s
+Received 22408 bytes in last 2 seconds.
+Speed: 10.9414 KB/s
+Received 12346 bytes in last 2 seconds.
+Speed: 6.02832 KB/s
+Received 6662 bytes in last 2 seconds.
+Speed: 3.25293 KB/s
+Received 6230 bytes in last 2 seconds.
+Speed: 3.04199 KB/s
+Received 16657 bytes in last 2 seconds.
+Speed: 8.1333 KB/s
+Received 16423 bytes in last 2 seconds.
+Speed: 8.01904 KB/s
+Received 13444 bytes in last 2 seconds.
+Speed: 6.56445 KB/s
+Received 11419 bytes in last 2 seconds.
+Speed: 5.57568 KB/s
+Received 14690 bytes in last 2 seconds.
+Speed: 7.17285 KB/s
+Received 13435 bytes in last 2 seconds.
+Speed: 6.56006 KB/s
+Received 16279 bytes in last 2 seconds.
+Speed: 7.94873 KB/s
+Received 15046 bytes in last 2 seconds.
+Speed: 7.34668 KB/s
+Received 17188 bytes in last 2 seconds.
+Speed: 8.39258 KB/s
+Received 18034 bytes in last 2 seconds.
+Speed: 8.80566 KB/s
+Received 15581 bytes in last 2 seconds.
+Speed: 7.60791 KB/s
+Received 14614 bytes in last 2 seconds.
+Speed: 7.13574 KB/s
+Received 14762 bytes in last 2 seconds.
+Speed: 7.20801 KB/s
+Received 9115 bytes in last 2 seconds.
+Speed: 4.45068 KB/s
+Received 11095 bytes in last 2 seconds.
+Speed: 5.41748 KB/s
+Received 15100 bytes in last 2 seconds.
+Speed: 7.37305 KB/s
+Received 15433 bytes in last 2 seconds.
+Speed: 7.53564 KB/s
+Received 13673 bytes in last 2 seconds.
+Speed: 6.67627 KB/s
+Received 655 bytes in last 2 seconds.
+Speed: 0.319824 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 587 bytes in last 2 seconds.
+Speed: 0.286621 KB/s
+Received 565 bytes in last 2 seconds.
+Speed: 0.275879 KB/s
+Received 4034 bytes in last 2 seconds.
+Speed: 1.96973 KB/s
+Received 13925 bytes in last 2 seconds.
+Speed: 6.79932 KB/s
+Received 12886 bytes in last 2 seconds.
+Speed: 6.29199 KB/s
+Received 12863 bytes in last 2 seconds.
+Speed: 6.28076 KB/s
+Received 9651 bytes in last 2 seconds.
+Speed: 4.7124 KB/s
+Received 4066 bytes in last 2 seconds.
+Speed: 1.98535 KB/s
+Received 24311 bytes in last 2 seconds.
+Speed: 11.8706 KB/s
+Received 10735 bytes in last 2 seconds.
+Speed: 5.2417 KB/s
+Received 6716 bytes in last 2 seconds.
+Speed: 3.2793 KB/s
+Received 6631 bytes in last 2 seconds.
+Speed: 3.23779 KB/s
+Received 16702 bytes in last 2 seconds.
+Speed: 8.15527 KB/s
+Received 16297 bytes in last 2 seconds.
+Speed: 7.95752 KB/s
+Received 13435 bytes in last 2 seconds.
+Speed: 6.56006 KB/s
+Received 11846 bytes in last 2 seconds.
+Speed: 5.78418 KB/s
+Received 14708 bytes in last 2 seconds.
+Speed: 7.18164 KB/s
+Received 13134 bytes in last 2 seconds.
+Speed: 6.41309 KB/s
+Received 15834 bytes in last 2 seconds.
+Speed: 7.73145 KB/s
+Received 15626 bytes in last 2 seconds.
+Speed: 7.62988 KB/s
+Received 17737 bytes in last 2 seconds.
+Speed: 8.66064 KB/s
+Received 17494 bytes in last 2 seconds.
+Speed: 8.54199 KB/s
+Received 15383 bytes in last 2 seconds.
+Speed: 7.51123 KB/s
+Received 15401 bytes in last 2 seconds.
+Speed: 7.52002 KB/s
+Received 13862 bytes in last 2 seconds.
+Speed: 6.76855 KB/s
+Received 9147 bytes in last 2 seconds.
+Speed: 4.46631 KB/s
+Received 11423 bytes in last 2 seconds.
+Speed: 5.57764 KB/s
+Received 15357 bytes in last 2 seconds.
+Speed: 7.49854 KB/s
+Received 15311 bytes in last 2 seconds.
+Speed: 7.47607 KB/s
+Received 12472 bytes in last 2 seconds.
+Speed: 6.08984 KB/s
+Received 601 bytes in last 2 seconds.
+Speed: 0.293457 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 561 bytes in last 2 seconds.
+Speed: 0.273926 KB/s
+Received 578 bytes in last 2 seconds.
+Speed: 0.282227 KB/s
+Received 4021 bytes in last 2 seconds.
+Speed: 1.96338 KB/s
+Received 13925 bytes in last 2 seconds.
+Speed: 6.79932 KB/s
+Received 12886 bytes in last 2 seconds.
+Speed: 6.29199 KB/s
+Received 12211 bytes in last 2 seconds.
+Speed: 5.9624 KB/s
+Received 10303 bytes in last 2 seconds.
+Speed: 5.03076 KB/s
+Received 4763 bytes in last 2 seconds.
+Speed: 2.32568 KB/s
+Received 24410 bytes in last 2 seconds.
+Speed: 11.9189 KB/s
+Received 10060 bytes in last 2 seconds.
+Speed: 4.91211 KB/s
+Received 6595 bytes in last 2 seconds.
+Speed: 3.22021 KB/s
+Received 6977 bytes in last 2 seconds.
+Speed: 3.40674 KB/s
+Received 16981 bytes in last 2 seconds.
+Speed: 8.2915 KB/s
+Received 16054 bytes in last 2 seconds.
+Speed: 7.83887 KB/s
+Received 13345 bytes in last 2 seconds.
+Speed: 6.51611 KB/s
+Received 11891 bytes in last 2 seconds.
+Speed: 5.80615 KB/s
+Received 14371 bytes in last 2 seconds.
+Speed: 7.01709 KB/s
+Received 13561 bytes in last 2 seconds.
+Speed: 6.62158 KB/s
+Received 16814 bytes in last 2 seconds.
+Speed: 8.20996 KB/s
+Received 15761 bytes in last 2 seconds.
+Speed: 7.6958 KB/s
+Received 18133 bytes in last 2 seconds.
+Speed: 8.854 KB/s
+Received 17516 bytes in last 2 seconds.
+Speed: 8.55273 KB/s
+Received 14429 bytes in last 2 seconds.
+Speed: 7.04541 KB/s
+Received 15514 bytes in last 2 seconds.
+Speed: 7.5752 KB/s
+Received 12999 bytes in last 2 seconds.
+Speed: 6.34717 KB/s
+Received 9911 bytes in last 2 seconds.
+Speed: 4.83936 KB/s
+Received 11239 bytes in last 2 seconds.
+Speed: 5.48779 KB/s
+Received 16562 bytes in last 2 seconds.
+Speed: 8.08691 KB/s
+Received 14987 bytes in last 2 seconds.
+Speed: 7.31787 KB/s
+Received 10960 bytes in last 2 seconds.
+Speed: 5.35156 KB/s
+Received 461 bytes in last 2 seconds.
+Speed: 0.225098 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 592 bytes in last 2 seconds.
+Speed: 0.289063 KB/s
+Received 556 bytes in last 2 seconds.
+Speed: 0.271484 KB/s
+Received 5839 bytes in last 2 seconds.
+Speed: 2.85107 KB/s
+Received 14852 bytes in last 2 seconds.
+Speed: 7.25195 KB/s
+Received 13169 bytes in last 2 seconds.
+Speed: 6.43018 KB/s
+Received 13124 bytes in last 2 seconds.
+Speed: 6.4082 KB/s
+Received 7729 bytes in last 2 seconds.
+Speed: 3.77393 KB/s
+Received 9371 bytes in last 2 seconds.
+Speed: 4.57568 KB/s
+Received 21971 bytes in last 2 seconds.
+Speed: 10.728 KB/s
+Received 8476 bytes in last 2 seconds.
+Speed: 4.13867 KB/s
+Received 5042 bytes in last 2 seconds.
+Speed: 2.46191 KB/s
+Received 10159 bytes in last 2 seconds.
+Speed: 4.96045 KB/s
+Received 16702 bytes in last 2 seconds.
+Speed: 8.15527 KB/s
+Received 16535 bytes in last 2 seconds.
+Speed: 8.07373 KB/s
+Received 11572 bytes in last 2 seconds.
+Speed: 5.65039 KB/s
+Received 12760 bytes in last 2 seconds.
+Speed: 6.23047 KB/s
+Received 15122 bytes in last 2 seconds.
+Speed: 7.38379 KB/s
+Received 14299 bytes in last 2 seconds.
+Speed: 6.98193 KB/s
+Received 15694 bytes in last 2 seconds.
+Speed: 7.66309 KB/s
+Received 15424 bytes in last 2 seconds.
+Speed: 7.53125 KB/s
+Received 18533 bytes in last 2 seconds.
+Speed: 9.04932 KB/s
+Received 17179 bytes in last 2 seconds.
+Speed: 8.38818 KB/s
+Received 13363 bytes in last 2 seconds.
+Speed: 6.5249 KB/s
+Received 16000 bytes in last 2 seconds.
+Speed: 7.8125 KB/s
+Received 12472 bytes in last 2 seconds.
+Speed: 6.08984 KB/s
+Received 9205 bytes in last 2 seconds.
+Speed: 4.49463 KB/s
+Received 13151 bytes in last 2 seconds.
+Speed: 6.42139 KB/s
+Received 16850 bytes in last 2 seconds.
+Speed: 8.22754 KB/s
+Received 13633 bytes in last 2 seconds.
+Speed: 6.65674 KB/s
+Received 9002 bytes in last 2 seconds.
+Speed: 4.39551 KB/s
+Received 403 bytes in last 2 seconds.
+Speed: 0.196777 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 605 bytes in last 2 seconds.
+Speed: 0.29541 KB/s
+Received 578 bytes in last 2 seconds.
+Speed: 0.282227 KB/s
+Received 8431 bytes in last 2 seconds.
+Speed: 4.1167 KB/s
+Received 14272 bytes in last 2 seconds.
+Speed: 6.96875 KB/s
+Received 12872 bytes in last 2 seconds.
+Speed: 6.28516 KB/s
+Received 13057 bytes in last 2 seconds.
+Speed: 6.37549 KB/s
+Received 6815 bytes in last 2 seconds.
+Speed: 3.32764 KB/s
+Received 11549 bytes in last 2 seconds.
+Speed: 5.63916 KB/s
+Received 21242 bytes in last 2 seconds.
+Speed: 10.3721 KB/s
+Received 7081 bytes in last 2 seconds.
+Speed: 3.45752 KB/s
+Received 5033 bytes in last 2 seconds.
+Speed: 2.45752 KB/s
+Received 12926 bytes in last 2 seconds.
+Speed: 6.31152 KB/s
+Received 16000 bytes in last 2 seconds.
+Speed: 7.8125 KB/s
+Received 15995 bytes in last 2 seconds.
+Speed: 7.81006 KB/s
+Received 11846 bytes in last 2 seconds.
+Speed: 5.78418 KB/s
+Received 13736 bytes in last 2 seconds.
+Speed: 6.70703 KB/s
+Received 14672 bytes in last 2 seconds.
+Speed: 7.16406 KB/s
+Received 15950 bytes in last 2 seconds.
+Speed: 7.78809 KB/s
+Received 15496 bytes in last 2 seconds.
+Speed: 7.56641 KB/s
+Received 15901 bytes in last 2 seconds.
+Speed: 7.76416 KB/s
+Received 18218 bytes in last 2 seconds.
+Speed: 8.89551 KB/s
+Received 17206 bytes in last 2 seconds.
+Speed: 8.40137 KB/s
+Received 13574 bytes in last 2 seconds.
+Speed: 6.62793 KB/s
+Received 15847 bytes in last 2 seconds.
+Speed: 7.73779 KB/s
+Received 10991 bytes in last 2 seconds.
+Speed: 5.3667 KB/s
+Received 10033 bytes in last 2 seconds.
+Speed: 4.89893 KB/s
+Received 14092 bytes in last 2 seconds.
+Speed: 6.88086 KB/s
+Received 15658 bytes in last 2 seconds.
+Speed: 7.64551 KB/s
+Received 14353 bytes in last 2 seconds.
+Speed: 7.0083 KB/s
+Received 4399 bytes in last 2 seconds.
+Speed: 2.14795 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 457 bytes in last 2 seconds.
+Speed: 0.223145 KB/s
+Received 552 bytes in last 2 seconds.
+Speed: 0.269531 KB/s
+Received 614 bytes in last 2 seconds.
+Speed: 0.299805 KB/s
+Received 10798 bytes in last 2 seconds.
+Speed: 5.27246 KB/s
+Received 13822 bytes in last 2 seconds.
+Speed: 6.74902 KB/s
+Received 12369 bytes in last 2 seconds.
+Speed: 6.03955 KB/s
+Received 13178 bytes in last 2 seconds.
+Speed: 6.43457 KB/s
+Received 5443 bytes in last 2 seconds.
+Speed: 2.65771 KB/s
+Received 15086 bytes in last 2 seconds.
+Speed: 7.36621 KB/s
+Received 18655 bytes in last 2 seconds.
+Speed: 9.10889 KB/s
+Received 6361 bytes in last 2 seconds.
+Speed: 3.10596 KB/s
+Received 4921 bytes in last 2 seconds.
+Speed: 2.40283 KB/s
+Received 13039 bytes in last 2 seconds.
+Speed: 6.3667 KB/s
+Received 16724 bytes in last 2 seconds.
+Speed: 8.16602 KB/s
+Received 15617 bytes in last 2 seconds.
+Speed: 7.62549 KB/s
+Received 11720 bytes in last 2 seconds.
+Speed: 5.72266 KB/s
+Received 13471 bytes in last 2 seconds.
+Speed: 6.57764 KB/s
+Received 14182 bytes in last 2 seconds.
+Speed: 6.9248 KB/s
+Received 15442 bytes in last 2 seconds.
+Speed: 7.54004 KB/s
+Received 16004 bytes in last 2 seconds.
+Speed: 7.81445 KB/s
+Received 16463 bytes in last 2 seconds.
+Speed: 8.03857 KB/s
+Received 17656 bytes in last 2 seconds.
+Speed: 8.62109 KB/s
+Received 17759 bytes in last 2 seconds.
+Speed: 8.67139 KB/s
+Received 13430 bytes in last 2 seconds.
+Speed: 6.55762 KB/s
+Received 15955 bytes in last 2 seconds.
+Speed: 7.79053 KB/s
+Received 10802 bytes in last 2 seconds.
+Speed: 5.27441 KB/s
+Received 10276 bytes in last 2 seconds.
+Speed: 5.01758 KB/s
+Received 13912 bytes in last 2 seconds.
+Speed: 6.79297 KB/s
+Received 15748 bytes in last 2 seconds.
+Speed: 7.68945 KB/s
+Received 15230 bytes in last 2 seconds.
+Speed: 7.43652 KB/s
+Received 3080 bytes in last 2 seconds.
+Speed: 1.50391 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 542 bytes in last 2 seconds.
+Speed: 0.264648 KB/s
+Received 502 bytes in last 2 seconds.
+Speed: 0.245117 KB/s
+Received 1096 bytes in last 2 seconds.
+Speed: 0.535156 KB/s
+Received 12139 bytes in last 2 seconds.
+Speed: 5.92725 KB/s
+Received 13606 bytes in last 2 seconds.
+Speed: 6.64355 KB/s
+Received 12238 bytes in last 2 seconds.
+Speed: 5.97559 KB/s
+Received 12409 bytes in last 2 seconds.
+Speed: 6.05908 KB/s
+Received 5096 bytes in last 2 seconds.
+Speed: 2.48828 KB/s
+Received 18029 bytes in last 2 seconds.
+Speed: 8.80322 KB/s
+Received 17120 bytes in last 2 seconds.
+Speed: 8.35938 KB/s
+Received 6190 bytes in last 2 seconds.
+Speed: 3.02246 KB/s
+Received 4408 bytes in last 2 seconds.
+Speed: 2.15234 KB/s
+Received 15608 bytes in last 2 seconds.
+Speed: 7.62109 KB/s
+Received 17210 bytes in last 2 seconds.
+Speed: 8.40332 KB/s
+Received 14546 bytes in last 2 seconds.
+Speed: 7.10254 KB/s
+Received 11477 bytes in last 2 seconds.
+Speed: 5.604 KB/s
+Received 14380 bytes in last 2 seconds.
+Speed: 7.02148 KB/s
+Received 12967 bytes in last 2 seconds.
+Speed: 6.33154 KB/s
+Received 16261 bytes in last 2 seconds.
+Speed: 7.93994 KB/s
+Received 15262 bytes in last 2 seconds.
+Speed: 7.45215 KB/s
+Received 16405 bytes in last 2 seconds.
+Speed: 8.01025 KB/s
+Received 17616 bytes in last 2 seconds.
+Speed: 8.60156 KB/s
+Received 17102 bytes in last 2 seconds.
+Speed: 8.35059 KB/s
+Received 12077 bytes in last 2 seconds.
+Speed: 5.89697 KB/s
+Received 16301 bytes in last 2 seconds.
+Speed: 7.95947 KB/s
+Received 10078 bytes in last 2 seconds.
+Speed: 4.9209 KB/s
+Received 10384 bytes in last 2 seconds.
+Speed: 5.07031 KB/s
+Received 14591 bytes in last 2 seconds.
+Speed: 7.12451 KB/s
+Received 16157 bytes in last 2 seconds.
+Speed: 7.88916 KB/s
+Received 15545 bytes in last 2 seconds.
+Speed: 7.59033 KB/s
+Received 1411 bytes in last 2 seconds.
+Speed: 0.688965 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 529 bytes in last 2 seconds.
+Speed: 0.258301 KB/s
+Received 587 bytes in last 2 seconds.
+Speed: 0.286621 KB/s
+Received 1865 bytes in last 2 seconds.
+Speed: 0.910645 KB/s
+Received 12841 bytes in last 2 seconds.
+Speed: 6.27002 KB/s
+Received 14168 bytes in last 2 seconds.
+Speed: 6.91797 KB/s
+Received 11500 bytes in last 2 seconds.
+Speed: 5.61523 KB/s
+Received 11784 bytes in last 2 seconds.
+Speed: 5.75391 KB/s
+Received 4723 bytes in last 2 seconds.
+Speed: 2.30615 KB/s
+Received 19955 bytes in last 2 seconds.
+Speed: 9.74365 KB/s
+Received 14956 bytes in last 2 seconds.
+Speed: 7.30273 KB/s
+Received 6235 bytes in last 2 seconds.
+Speed: 3.04443 KB/s
+Received 5150 bytes in last 2 seconds.
+Speed: 2.51465 KB/s
+Received 15910 bytes in last 2 seconds.
+Speed: 7.76855 KB/s
+Received 17057 bytes in last 2 seconds.
+Speed: 8.32861 KB/s
+Received 13885 bytes in last 2 seconds.
+Speed: 6.77979 KB/s
+Received 11666 bytes in last 2 seconds.
+Speed: 5.69629 KB/s
+Received 14200 bytes in last 2 seconds.
+Speed: 6.93359 KB/s
+Received 13520 bytes in last 2 seconds.
+Speed: 6.60156 KB/s
+Received 16504 bytes in last 2 seconds.
+Speed: 8.05859 KB/s
+Received 15163 bytes in last 2 seconds.
+Speed: 7.40381 KB/s
+Received 16549 bytes in last 2 seconds.
+Speed: 8.08057 KB/s
+Received 18695 bytes in last 2 seconds.
+Speed: 9.12842 KB/s
+Received 15811 bytes in last 2 seconds.
+Speed: 7.72021 KB/s
+Received 14357 bytes in last 2 seconds.
+Speed: 7.01025 KB/s
+Received 15464 bytes in last 2 seconds.
+Speed: 7.55078 KB/s
+Received 9497 bytes in last 2 seconds.
+Speed: 4.63721 KB/s
+Received 11360 bytes in last 2 seconds.
+Speed: 5.54688 KB/s
+Received 15100 bytes in last 2 seconds.
+Speed: 7.37305 KB/s
+Received 16004 bytes in last 2 seconds.
+Speed: 7.81445 KB/s
+Received 12839 bytes in last 2 seconds.
+Speed: 6.26904 KB/s
+Received 866 bytes in last 2 seconds.
+Speed: 0.422852 KB/s
+Received 972 bytes in last 2 seconds.
+Speed: 0.474609 KB/s
+Received 2426 bytes in last 2 seconds.
+Speed: 1.18457 KB/s
+Received 27009 bytes in last 2 seconds.
+Speed: 13.188 KB/s
+Received 23562 bytes in last 2 seconds.
+Speed: 11.5049 KB/s
+Received 25322 bytes in last 2 seconds.
+Speed: 12.3643 KB/s
+Received 20493 bytes in last 2 seconds.
+Speed: 10.0063 KB/s
+Received 21834 bytes in last 2 seconds.
+Speed: 10.6611 KB/s
+Received 29944 bytes in last 2 seconds.
+Speed: 14.6211 KB/s
+Received 25866 bytes in last 2 seconds.
+Speed: 12.6299 KB/s
+Received 30024 bytes in last 2 seconds.
+Speed: 14.6602 KB/s
+Received 31712 bytes in last 2 seconds.
+Speed: 15.4844 KB/s
+Received 34506 bytes in last 2 seconds.
+Speed: 16.8486 KB/s
+Received 29403 bytes in last 2 seconds.
+Speed: 14.3569 KB/s
+Received 20489 bytes in last 2 seconds.
+Speed: 10.0044 KB/s
+Received 29840 bytes in last 2 seconds.
+Speed: 14.5703 KB/s
+Received 15768 bytes in last 2 seconds.
+Speed: 7.69922 KB/s
+Received 959 bytes in last 2 seconds.
+Speed: 0.468262 KB/s
+Received 2646 bytes in last 2 seconds.
+Speed: 1.29199 KB/s
+Received 26789 bytes in last 2 seconds.
+Speed: 13.0806 KB/s
+Received 23562 bytes in last 2 seconds.
+Speed: 11.5049 KB/s
+Received 25322 bytes in last 2 seconds.
+Speed: 12.3643 KB/s
+Received 20493 bytes in last 2 seconds.
+Speed: 10.0063 KB/s
+Received 21834 bytes in last 2 seconds.
+Speed: 10.6611 KB/s
+Received 30398 bytes in last 2 seconds.
+Speed: 14.8428 KB/s
+Received 25412 bytes in last 2 seconds.
+Speed: 12.4082 KB/s
+Received 30024 bytes in last 2 seconds.
+Speed: 14.6602 KB/s
+Received 31712 bytes in last 2 seconds.
+Speed: 15.4844 KB/s
+Received 34205 bytes in last 2 seconds.
+Speed: 16.7017 KB/s
+Received 29376 bytes in last 2 seconds.
+Speed: 14.3438 KB/s
+Received 20817 bytes in last 2 seconds.
+Speed: 10.1646 KB/s
+Received 30357 bytes in last 2 seconds.
+Speed: 14.8228 KB/s
+Received 15238 bytes in last 2 seconds.
+Speed: 7.44043 KB/s
+Received 972 bytes in last 2 seconds.
+Speed: 0.474609 KB/s
+Received 2646 bytes in last 2 seconds.
+Speed: 1.29199 KB/s
+Received 26789 bytes in last 2 seconds.
+Speed: 13.0806 KB/s
+Received 23562 bytes in last 2 seconds.
+Speed: 11.5049 KB/s
+Received 25956 bytes in last 2 seconds.
+Speed: 12.6738 KB/s
+Received 19859 bytes in last 2 seconds.
+Speed: 9.69678 KB/s
+Received 21371 bytes in last 2 seconds.
+Speed: 10.4351 KB/s
+Received 30861 bytes in last 2 seconds.
+Speed: 15.0688 KB/s
+Received 25412 bytes in last 2 seconds.
+Speed: 12.4082 KB/s
+Received 29453 bytes in last 2 seconds.
+Speed: 14.3813 KB/s
+Received 32283 bytes in last 2 seconds.
+Speed: 15.7632 KB/s
+Received 34506 bytes in last 2 seconds.
+Speed: 16.8486 KB/s
+Received 29075 bytes in last 2 seconds.
+Speed: 14.1968 KB/s
+Received 20817 bytes in last 2 seconds.
+Speed: 10.1646 KB/s
+Received 29840 bytes in last 2 seconds.
+Speed: 14.5703 KB/s
+Received 15755 bytes in last 2 seconds.
+Speed: 7.69287 KB/s
+Received 972 bytes in last 2 seconds.
+Speed: 0.474609 KB/s
+Received 2646 bytes in last 2 seconds.
+Speed: 1.29199 KB/s
+Received 27081 bytes in last 2 seconds.
+Speed: 13.2231 KB/s
+Received 23185 bytes in last 2 seconds.
+Speed: 11.3208 KB/s
+Received 25407 bytes in last 2 seconds.
+Speed: 12.4058 KB/s
+Received 20493 bytes in last 2 seconds.
+Speed: 10.0063 KB/s
+Received 21371 bytes in last 2 seconds.
+Speed: 10.4351 KB/s
+Received 30407 bytes in last 2 seconds.
+Speed: 14.8472 KB/s
+Received 25866 bytes in last 2 seconds.
+Speed: 12.6299 KB/s
+Received 30024 bytes in last 2 seconds.
+Speed: 14.6602 KB/s
+Received 32409 bytes in last 2 seconds.
+Speed: 15.8247 KB/s
+Received 33809 bytes in last 2 seconds.
+Speed: 16.5083 KB/s
+Received 29403 bytes in last 2 seconds.
+Speed: 14.3569 KB/s
+Received 20179 bytes in last 2 seconds.
+Speed: 9.85303 KB/s
+Received 30150 bytes in last 2 seconds.
+Speed: 14.7217 KB/s
+Received 15768 bytes in last 2 seconds.
+Speed: 7.69922 KB/s
+Received 959 bytes in last 2 seconds.
+Speed: 0.468262 KB/s
+Received 2426 bytes in last 2 seconds.
+Speed: 1.18457 KB/s
+Received 27009 bytes in last 2 seconds.
+Speed: 13.188 KB/s
+Received 23477 bytes in last 2 seconds.
+Speed: 11.4634 KB/s
+Received 25407 bytes in last 2 seconds.
+Speed: 12.4058 KB/s
+Received 20493 bytes in last 2 seconds.
+Speed: 10.0063 KB/s
+Received 21371 bytes in last 2 seconds.
+Speed: 10.4351 KB/s
+Received 30861 bytes in last 2 seconds.
+Speed: 15.0688 KB/s
+Received 25920 bytes in last 2 seconds.
+Speed: 12.6563 KB/s
+Received 30042 bytes in last 2 seconds.
+Speed: 14.6689 KB/s
+Received 31883 bytes in last 2 seconds.
+Speed: 15.5679 KB/s
+Received 34128 bytes in last 2 seconds.
+Speed: 16.6641 KB/s
+Received 29084 bytes in last 2 seconds.
+Speed: 14.2012 KB/s
+Received 20880 bytes in last 2 seconds.
+Speed: 10.1953 KB/s
+Received 30447 bytes in last 2 seconds.
+Speed: 14.8667 KB/s
+Received 14770 bytes in last 2 seconds.
+Speed: 7.21191 KB/s
+Received 990 bytes in last 2 seconds.
+Speed: 0.483398 KB/s
+Received 2934 bytes in last 2 seconds.
+Speed: 1.43262 KB/s
+Received 26762 bytes in last 2 seconds.
+Speed: 13.0674 KB/s
+Received 23270 bytes in last 2 seconds.
+Speed: 11.3623 KB/s
+Received 25956 bytes in last 2 seconds.
+Speed: 12.6738 KB/s
+Received 19859 bytes in last 2 seconds.
+Speed: 9.69678 KB/s
+Received 22342 bytes in last 2 seconds.
+Speed: 10.9092 KB/s
+Received 30582 bytes in last 2 seconds.
+Speed: 14.9326 KB/s
+Received 25574 bytes in last 2 seconds.
+Speed: 12.4873 KB/s
+Received 29696 bytes in last 2 seconds.
+Speed: 14.5 KB/s
+Received 32436 bytes in last 2 seconds.
+Speed: 15.8379 KB/s
+Received 33575 bytes in last 2 seconds.
+Speed: 16.394 KB/s
+Received 29502 bytes in last 2 seconds.
+Speed: 14.4053 KB/s
+Received 20700 bytes in last 2 seconds.
+Speed: 10.1074 KB/s
+Received 30209 bytes in last 2 seconds.
+Speed: 14.7505 KB/s
+Received 14783 bytes in last 2 seconds.
+Speed: 7.21826 KB/s
+Received 990 bytes in last 2 seconds.
+Speed: 0.483398 KB/s
+Received 3456 bytes in last 2 seconds.
+Speed: 1.6875 KB/s
+Received 26555 bytes in last 2 seconds.
+Speed: 12.9663 KB/s
+Received 23346 bytes in last 2 seconds.
+Speed: 11.3994 KB/s
+Received 26114 bytes in last 2 seconds.
+Speed: 12.751 KB/s
+Received 19656 bytes in last 2 seconds.
+Speed: 9.59766 KB/s
+Received 21983 bytes in last 2 seconds.
+Speed: 10.7339 KB/s
+Received 30299 bytes in last 2 seconds.
+Speed: 14.7944 KB/s
+Received 25857 bytes in last 2 seconds.
+Speed: 12.6255 KB/s
+Received 30222 bytes in last 2 seconds.
+Speed: 14.7568 KB/s
+Received 31910 bytes in last 2 seconds.
+Speed: 15.5811 KB/s
+Received 33575 bytes in last 2 seconds.
+Speed: 16.394 KB/s
+Received 29502 bytes in last 2 seconds.
+Speed: 14.4053 KB/s
+Received 20700 bytes in last 2 seconds.
+Speed: 10.1074 KB/s
+Received 30209 bytes in last 2 seconds.
+Speed: 14.7505 KB/s
+Received 14783 bytes in last 2 seconds.
+Speed: 7.21826 KB/s
+Received 990 bytes in last 2 seconds.
+Speed: 0.483398 KB/s
+Received 3456 bytes in last 2 seconds.
+Speed: 1.6875 KB/s
+Received 26555 bytes in last 2 seconds.
+Speed: 12.9663 KB/s
+Received 23081 bytes in last 2 seconds.
+Speed: 11.27 KB/s
+Received 26379 bytes in last 2 seconds.
+Speed: 12.8804 KB/s
+Received 19436 bytes in last 2 seconds.
+Speed: 9.49023 KB/s
+Received 22203 bytes in last 2 seconds.
+Speed: 10.8413 KB/s
+Received 30582 bytes in last 2 seconds.
+Speed: 14.9326 KB/s
+Received 25956 bytes in last 2 seconds.
+Speed: 12.6738 KB/s
+Received 29840 bytes in last 2 seconds.
+Speed: 14.5703 KB/s
+Received 31910 bytes in last 2 seconds.
+Speed: 15.5811 KB/s
+Received 33966 bytes in last 2 seconds.
+Speed: 16.585 KB/s
+Received 29111 bytes in last 2 seconds.
+Speed: 14.2144 KB/s
+Received 20462 bytes in last 2 seconds.
+Speed: 9.99121 KB/s
+Received 30447 bytes in last 2 seconds.
+Speed: 14.8667 KB/s
+Received 13891 bytes in last 2 seconds.
+Speed: 6.78271 KB/s
+Received 1061 bytes in last 2 seconds.
+Speed: 0.518066 KB/s
+Received 1439 bytes in last 2 seconds.
+Speed: 0.702637 KB/s
+Received 25802 bytes in last 2 seconds.
+Speed: 12.5986 KB/s
+Received 29478 bytes in last 2 seconds.
+Speed: 14.3936 KB/s
+Received 36926 bytes in last 2 seconds.
+Speed: 18.0303 KB/s
+Received 23606 bytes in last 2 seconds.
+Speed: 11.5264 KB/s
+Received 38829 bytes in last 2 seconds.
+Speed: 18.9595 KB/s
+Received 36359 bytes in last 2 seconds.
+Speed: 17.7534 KB/s
+Received 43059 bytes in last 2 seconds.
+Speed: 21.0249 KB/s
+Received 42956 bytes in last 2 seconds.
+Speed: 20.9746 KB/s
+Received 34604 bytes in last 2 seconds.
+Speed: 16.8965 KB/s
+Received 37061 bytes in last 2 seconds.
+Speed: 18.0962 KB/s
+Received 19038 bytes in last 2 seconds.
+Speed: 9.2959 KB/s
+Received 1439 bytes in last 2 seconds.
+Speed: 0.702637 KB/s
+Received 26202 bytes in last 2 seconds.
+Speed: 12.7939 KB/s
+Received 28867 bytes in last 2 seconds.
+Speed: 14.0952 KB/s
+Received 37137 bytes in last 2 seconds.
+Speed: 18.1333 KB/s
+Received 24015 bytes in last 2 seconds.
+Speed: 11.7261 KB/s
+Received 38420 bytes in last 2 seconds.
+Speed: 18.7598 KB/s
+Received 36359 bytes in last 2 seconds.
+Speed: 17.7534 KB/s
+Received 42623 bytes in last 2 seconds.
+Speed: 20.812 KB/s
+Received 43900 bytes in last 2 seconds.
+Speed: 21.4355 KB/s
+Received 34096 bytes in last 2 seconds.
+Speed: 16.6484 KB/s
+Received 37061 bytes in last 2 seconds.
+Speed: 18.0962 KB/s
+Received 19038 bytes in last 2 seconds.
+Speed: 9.2959 KB/s
+Received 1439 bytes in last 2 seconds.
+Speed: 0.702637 KB/s
+Received 25802 bytes in last 2 seconds.
+Speed: 12.5986 KB/s
+Received 29478 bytes in last 2 seconds.
+Speed: 14.3936 KB/s
+Received 36926 bytes in last 2 seconds.
+Speed: 18.0303 KB/s
+Received 23606 bytes in last 2 seconds.
+Speed: 11.5264 KB/s
+Received 38829 bytes in last 2 seconds.
+Speed: 18.9595 KB/s
+Received 36359 bytes in last 2 seconds.
+Speed: 17.7534 KB/s
+Received 42623 bytes in last 2 seconds.
+Speed: 20.812 KB/s
+Received 42920 bytes in last 2 seconds.
+Speed: 20.957 KB/s
+Received 35076 bytes in last 2 seconds.
+Speed: 17.127 KB/s
+Received 37061 bytes in last 2 seconds.
+Speed: 18.0962 KB/s
+Received 19025 bytes in last 2 seconds.
+Speed: 9.28955 KB/s
+Received 1452 bytes in last 2 seconds.
+Speed: 0.708984 KB/s
+Received 25802 bytes in last 2 seconds.
+Speed: 12.5986 KB/s
+Received 29267 bytes in last 2 seconds.
+Speed: 14.2905 KB/s
+Received 37137 bytes in last 2 seconds.
+Speed: 18.1333 KB/s
+Received 23606 bytes in last 2 seconds.
+Speed: 11.5264 KB/s
+Received 38829 bytes in last 2 seconds.
+Speed: 18.9595 KB/s
+Received 36359 bytes in last 2 seconds.
+Speed: 17.7534 KB/s
+Received 42623 bytes in last 2 seconds.
+Speed: 20.812 KB/s
+Received 42920 bytes in last 2 seconds.
+Speed: 20.957 KB/s
+Received 35076 bytes in last 2 seconds.
+Speed: 17.127 KB/s
+Received 37061 bytes in last 2 seconds.
+Speed: 18.0962 KB/s
+Received 19025 bytes in last 2 seconds.
+Speed: 9.28955 KB/s
+Received 1452 bytes in last 2 seconds.
+Speed: 0.708984 KB/s
+Received 26202 bytes in last 2 seconds.
+Speed: 12.7939 KB/s
+Received 29078 bytes in last 2 seconds.
+Speed: 14.1982 KB/s
+Received 36926 bytes in last 2 seconds.
+Speed: 18.0303 KB/s
+Received 24015 bytes in last 2 seconds.
+Speed: 11.7261 KB/s
+Received 38420 bytes in last 2 seconds.
+Speed: 18.7598 KB/s
+Received 36359 bytes in last 2 seconds.
+Speed: 17.7534 KB/s
+Received 43059 bytes in last 2 seconds.
+Speed: 21.0249 KB/s
+Received 42956 bytes in last 2 seconds.
+Speed: 20.9746 KB/s
+Received 35022 bytes in last 2 seconds.
+Speed: 17.1006 KB/s
+Received 37587 bytes in last 2 seconds.
+Speed: 18.353 KB/s
+Received 18107 bytes in last 2 seconds.
+Speed: 8.84131 KB/s
+Received 1452 bytes in last 2 seconds.
+Speed: 0.708984 KB/s
+Received 26603 bytes in last 2 seconds.
+Speed: 12.9897 KB/s
+Received 28844 bytes in last 2 seconds.
+Speed: 14.084 KB/s
+Received 37011 bytes in last 2 seconds.
+Speed: 18.0718 KB/s
+Received 24191 bytes in last 2 seconds.
+Speed: 11.812 KB/s
+Received 38316 bytes in last 2 seconds.
+Speed: 18.709 KB/s
+Received 36472 bytes in last 2 seconds.
+Speed: 17.8086 KB/s
+Received 43167 bytes in last 2 seconds.
+Speed: 21.0776 KB/s
+Received 42893 bytes in last 2 seconds.
+Speed: 20.9438 KB/s
+Received 34914 bytes in last 2 seconds.
+Speed: 17.0479 KB/s
+Received 37187 bytes in last 2 seconds.
+Speed: 18.1577 KB/s
+Received 18147 bytes in last 2 seconds.
+Speed: 8.86084 KB/s
+Received 1412 bytes in last 2 seconds.
+Speed: 0.689453 KB/s
+Received 26603 bytes in last 2 seconds.
+Speed: 12.9897 KB/s
+Received 28844 bytes in last 2 seconds.
+Speed: 14.084 KB/s
+Received 37011 bytes in last 2 seconds.
+Speed: 18.0718 KB/s
+Received 23737 bytes in last 2 seconds.
+Speed: 11.5903 KB/s
+Received 38613 bytes in last 2 seconds.
+Speed: 18.854 KB/s
+Received 36629 bytes in last 2 seconds.
+Speed: 17.8853 KB/s
+Received 43167 bytes in last 2 seconds.
+Speed: 21.0776 KB/s
+Received 42893 bytes in last 2 seconds.
+Speed: 20.9438 KB/s
+Received 34514 bytes in last 2 seconds.
+Speed: 16.8525 KB/s
+Received 37587 bytes in last 2 seconds.
+Speed: 18.353 KB/s
+Received 18147 bytes in last 2 seconds.
+Speed: 8.86084 KB/s
+Received 1399 bytes in last 2 seconds.
+Speed: 0.683105 KB/s
+Received 26616 bytes in last 2 seconds.
+Speed: 12.9961 KB/s
+Received 28844 bytes in last 2 seconds.
+Speed: 14.084 KB/s
+Received 37011 bytes in last 2 seconds.
+Speed: 18.0718 KB/s
+Received 24191 bytes in last 2 seconds.
+Speed: 11.812 KB/s
+Received 38159 bytes in last 2 seconds.
+Speed: 18.6323 KB/s
+Received 37119 bytes in last 2 seconds.
+Speed: 18.1245 KB/s
+Received 42106 bytes in last 2 seconds.
+Speed: 20.5596 KB/s
+Received 43464 bytes in last 2 seconds.
+Speed: 21.2227 KB/s
+Received 34914 bytes in last 2 seconds.
+Speed: 17.0479 KB/s
+Received 36724 bytes in last 2 seconds.
+Speed: 17.9316 KB/s
+Received 17496 bytes in last 2 seconds.
+Speed: 8.54297 KB/s
+Received 1561 bytes in last 2 seconds.
+Speed: 0.762207 KB/s
+Received 13090 bytes in last 2 seconds.
+Speed: 6.3916 KB/s
+Received 40099 bytes in last 2 seconds.
+Speed: 19.5796 KB/s
+Received 40234 bytes in last 2 seconds.
+Speed: 19.6455 KB/s
+Received 33587 bytes in last 2 seconds.
+Speed: 16.3999 KB/s
+Received 43029 bytes in last 2 seconds.
+Speed: 21.0103 KB/s
+Received 48469 bytes in last 2 seconds.
+Speed: 23.6665 KB/s
+Received 54786 bytes in last 2 seconds.
+Speed: 26.751 KB/s
+Received 41102 bytes in last 2 seconds.
+Speed: 20.0693 KB/s
+Received 44370 bytes in last 2 seconds.
+Speed: 21.665 KB/s
+Received 10430 bytes in last 2 seconds.
+Speed: 5.09277 KB/s
+Received 14786 bytes in last 2 seconds.
+Speed: 7.21973 KB/s
+Received 38853 bytes in last 2 seconds.
+Speed: 18.9712 KB/s
+Received 40531 bytes in last 2 seconds.
+Speed: 19.7905 KB/s
+Received 33709 bytes in last 2 seconds.
+Speed: 16.4595 KB/s
+Received 43564 bytes in last 2 seconds.
+Speed: 21.2715 KB/s
+Received 48280 bytes in last 2 seconds.
+Speed: 23.5742 KB/s
+Received 53923 bytes in last 2 seconds.
+Speed: 26.3296 KB/s
+Received 40711 bytes in last 2 seconds.
+Speed: 19.8784 KB/s
+Received 45206 bytes in last 2 seconds.
+Speed: 22.0732 KB/s
+Received 9607 bytes in last 2 seconds.
+Speed: 4.69092 KB/s
+Received 15492 bytes in last 2 seconds.
+Speed: 7.56445 KB/s
+Received 39077 bytes in last 2 seconds.
+Speed: 19.0806 KB/s
+Received 40949 bytes in last 2 seconds.
+Speed: 19.9946 KB/s
+Received 34344 bytes in last 2 seconds.
+Speed: 16.7695 KB/s
+Received 44171 bytes in last 2 seconds.
+Speed: 21.5679 KB/s
+Received 47835 bytes in last 2 seconds.
+Speed: 23.3569 KB/s
+Received 53684 bytes in last 2 seconds.
+Speed: 26.2129 KB/s
+Received 40027 bytes in last 2 seconds.
+Speed: 19.5444 KB/s
+Received 46709 bytes in last 2 seconds.
+Speed: 22.8071 KB/s
+Received 7068 bytes in last 2 seconds.
+Speed: 3.45117 KB/s
+Received 18660 bytes in last 2 seconds.
+Speed: 9.11133 KB/s
+Received 36657 bytes in last 2 seconds.
+Speed: 17.8989 KB/s
+Received 41079 bytes in last 2 seconds.
+Speed: 20.0581 KB/s
+Received 38114 bytes in last 2 seconds.
+Speed: 18.6104 KB/s
+Received 42826 bytes in last 2 seconds.
+Speed: 20.9111 KB/s
+Received 48307 bytes in last 2 seconds.
+Speed: 23.5874 KB/s
+Received 52568 bytes in last 2 seconds.
+Speed: 25.668 KB/s
+Received 39735 bytes in last 2 seconds.
+Speed: 19.4019 KB/s
+Received 48311 bytes in last 2 seconds.
+Speed: 23.5894 KB/s
+Received 2970 bytes in last 2 seconds.
+Speed: 1.4502 KB/s
+Received 19588 bytes in last 2 seconds.
+Speed: 9.56445 KB/s
+Received 36310 bytes in last 2 seconds.
+Speed: 17.7295 KB/s
+Received 40953 bytes in last 2 seconds.
+Speed: 19.9966 KB/s
+Received 39158 bytes in last 2 seconds.
+Speed: 19.1201 KB/s
+Received 42655 bytes in last 2 seconds.
+Speed: 20.8276 KB/s
+Received 49404 bytes in last 2 seconds.
+Speed: 24.123 KB/s
+Received 51934 bytes in last 2 seconds.
+Speed: 25.3584 KB/s
+Received 40117 bytes in last 2 seconds.
+Speed: 19.5884 KB/s
+Received 47366 bytes in last 2 seconds.
+Speed: 23.1279 KB/s
+Received 1786 bytes in last 2 seconds.
+Speed: 0.87207 KB/s
+Received 22958 bytes in last 2 seconds.
+Speed: 11.21 KB/s
+Received 33484 bytes in last 2 seconds.
+Speed: 16.3496 KB/s
+Received 41773 bytes in last 2 seconds.
+Speed: 20.397 KB/s
+Received 40301 bytes in last 2 seconds.
+Speed: 19.6782 KB/s
+Received 42358 bytes in last 2 seconds.
+Speed: 20.6826 KB/s
+Received 48712 bytes in last 2 seconds.
+Speed: 23.7852 KB/s
+Received 52977 bytes in last 2 seconds.
+Speed: 25.8677 KB/s
+Received 39559 bytes in last 2 seconds.
+Speed: 19.3159 KB/s
+Received 45395 bytes in last 2 seconds.
+Speed: 22.1655 KB/s
+Received 1714 bytes in last 2 seconds.
+Speed: 0.836914 KB/s
+Received 23895 bytes in last 2 seconds.
+Speed: 11.6675 KB/s
+Received 32813 bytes in last 2 seconds.
+Speed: 16.022 KB/s
+Received 41872 bytes in last 2 seconds.
+Speed: 20.4453 KB/s
+Received 41062 bytes in last 2 seconds.
+Speed: 20.0498 KB/s
+Received 42538 bytes in last 2 seconds.
+Speed: 20.7705 KB/s
+Received 50115 bytes in last 2 seconds.
+Speed: 24.4702 KB/s
+Received 51165 bytes in last 2 seconds.
+Speed: 24.9829 KB/s
+Received 39527 bytes in last 2 seconds.
+Speed: 19.3003 KB/s
+Received 44572 bytes in last 2 seconds.
+Speed: 21.7637 KB/s
+Received 1637 bytes in last 2 seconds.
+Speed: 0.799316 KB/s
+Received 24930 bytes in last 2 seconds.
+Speed: 12.1729 KB/s
+Received 32241 bytes in last 2 seconds.
+Speed: 15.7427 KB/s
+Received 42115 bytes in last 2 seconds.
+Speed: 20.564 KB/s
+Received 41742 bytes in last 2 seconds.
+Speed: 20.3818 KB/s
+Received 43005 bytes in last 2 seconds.
+Speed: 20.9985 KB/s
+Received 50417 bytes in last 2 seconds.
+Speed: 24.6177 KB/s
+Received 53040 bytes in last 2 seconds.
+Speed: 25.8984 KB/s
+Received 38114 bytes in last 2 seconds.
+Speed: 18.6104 KB/s
+Received 41444 bytes in last 2 seconds.
+Speed: 20.2363 KB/s
+Received 697 bytes in last 2 seconds.
+Speed: 0.340332 KB/s
+Received 1543 bytes in last 2 seconds.
+Speed: 0.753418 KB/s
+Received 28678 bytes in last 2 seconds.
+Speed: 14.0029 KB/s
+Received 29020 bytes in last 2 seconds.
+Speed: 14.1699 KB/s
+Received 42092 bytes in last 2 seconds.
+Speed: 20.5527 KB/s
+Received 44703 bytes in last 2 seconds.
+Speed: 21.8276 KB/s
+Received 41809 bytes in last 2 seconds.
+Speed: 20.4146 KB/s
+Received 51488 bytes in last 2 seconds.
+Speed: 25.1406 KB/s
+Received 51354 bytes in last 2 seconds.
+Speed: 25.0752 KB/s
+Received 37336 bytes in last 2 seconds.
+Speed: 18.2305 KB/s
+Received 41134 bytes in last 2 seconds.
+Speed: 20.085 KB/s
+Received 1543 bytes in last 2 seconds.
+Speed: 0.753418 KB/s
+Received 29033 bytes in last 2 seconds.
+Speed: 14.1763 KB/s
+Received 28665 bytes in last 2 seconds.
+Speed: 13.9966 KB/s
+Received 42070 bytes in last 2 seconds.
+Speed: 20.542 KB/s
+Received 44361 bytes in last 2 seconds.
+Speed: 21.6606 KB/s
+Received 42173 bytes in last 2 seconds.
+Speed: 20.5923 KB/s
+Received 50953 bytes in last 2 seconds.
+Speed: 24.8794 KB/s
+Received 52433 bytes in last 2 seconds.
+Speed: 25.6021 KB/s
+Received 36792 bytes in last 2 seconds.
+Speed: 17.9648 KB/s
+Received 41160 bytes in last 2 seconds.
+Speed: 20.0977 KB/s
+Received 1543 bytes in last 2 seconds.
+Speed: 0.753418 KB/s
+Received 29627 bytes in last 2 seconds.
+Speed: 14.4663 KB/s
+Received 30649 bytes in last 2 seconds.
+Speed: 14.9653 KB/s
+Received 39564 bytes in last 2 seconds.
+Speed: 19.3184 KB/s
+Received 46735 bytes in last 2 seconds.
+Speed: 22.8198 KB/s
+Received 41328 bytes in last 2 seconds.
+Speed: 20.1797 KB/s
+Received 51844 bytes in last 2 seconds.
+Speed: 25.3145 KB/s
+Received 51780 bytes in last 2 seconds.
+Speed: 25.2832 KB/s
+Received 38717 bytes in last 2 seconds.
+Speed: 18.9048 KB/s
+Received 37422 bytes in last 2 seconds.
+Speed: 18.2725 KB/s
+Received 1637 bytes in last 2 seconds.
+Speed: 0.799316 KB/s
+Received 30946 bytes in last 2 seconds.
+Speed: 15.1104 KB/s
+Received 32382 bytes in last 2 seconds.
+Speed: 15.8115 KB/s
+Received 37133 bytes in last 2 seconds.
+Speed: 18.1313 KB/s
+Received 47384 bytes in last 2 seconds.
+Speed: 23.1367 KB/s
+Received 42173 bytes in last 2 seconds.
+Speed: 20.5923 KB/s
+Received 54039 bytes in last 2 seconds.
+Speed: 26.3862 KB/s
+Received 50970 bytes in last 2 seconds.
+Speed: 24.8877 KB/s
+Received 38474 bytes in last 2 seconds.
+Speed: 18.7861 KB/s
+Received 34149 bytes in last 2 seconds.
+Speed: 16.6743 KB/s
+Received 1695 bytes in last 2 seconds.
+Speed: 0.827637 KB/s
+Received 35662 bytes in last 2 seconds.
+Speed: 17.4131 KB/s
+Received 37461 bytes in last 2 seconds.
+Speed: 18.2915 KB/s
+Received 30900 bytes in last 2 seconds.
+Speed: 15.0879 KB/s
+Received 49018 bytes in last 2 seconds.
+Speed: 23.9346 KB/s
+Received 43681 bytes in last 2 seconds.
+Speed: 21.3286 KB/s
+Received 52897 bytes in last 2 seconds.
+Speed: 25.8286 KB/s
+Received 49113 bytes in last 2 seconds.
+Speed: 23.981 KB/s
+Received 38312 bytes in last 2 seconds.
+Speed: 18.707 KB/s
+Received 30496 bytes in last 2 seconds.
+Speed: 14.8906 KB/s
+Received 1678 bytes in last 2 seconds.
+Speed: 0.819336 KB/s
+Received 36711 bytes in last 2 seconds.
+Speed: 17.9253 KB/s
+Received 37529 bytes in last 2 seconds.
+Speed: 18.3247 KB/s
+Received 29722 bytes in last 2 seconds.
+Speed: 14.5127 KB/s
+Received 48798 bytes in last 2 seconds.
+Speed: 23.8271 KB/s
+Received 43901 bytes in last 2 seconds.
+Speed: 21.436 KB/s
+Received 52897 bytes in last 2 seconds.
+Speed: 25.8286 KB/s
+Received 49612 bytes in last 2 seconds.
+Speed: 24.2246 KB/s
+Received 37813 bytes in last 2 seconds.
+Speed: 18.4634 KB/s
+Received 30509 bytes in last 2 seconds.
+Speed: 14.897 KB/s
+Received 1652 bytes in last 2 seconds.
+Speed: 0.806641 KB/s
+Received 37169 bytes in last 2 seconds.
+Speed: 18.1489 KB/s
+Received 37084 bytes in last 2 seconds.
+Speed: 18.1074 KB/s
+Received 30131 bytes in last 2 seconds.
+Speed: 14.7124 KB/s
+Received 48609 bytes in last 2 seconds.
+Speed: 23.7349 KB/s
+Received 43681 bytes in last 2 seconds.
+Speed: 21.3286 KB/s
+Received 52897 bytes in last 2 seconds.
+Speed: 25.8286 KB/s
+Received 50246 bytes in last 2 seconds.
+Speed: 24.5342 KB/s
+Received 39252 bytes in last 2 seconds.
+Speed: 19.166 KB/s
+Received 28462 bytes in last 2 seconds.
+Speed: 13.8975 KB/s
+Received 1687 bytes in last 2 seconds.
+Speed: 0.82373 KB/s
+Received 38321 bytes in last 2 seconds.
+Speed: 18.7114 KB/s
+Received 39127 bytes in last 2 seconds.
+Speed: 19.105 KB/s
+Received 28174 bytes in last 2 seconds.
+Speed: 13.7568 KB/s
+Received 48482 bytes in last 2 seconds.
+Speed: 23.6729 KB/s
+Received 46191 bytes in last 2 seconds.
+Speed: 22.5542 KB/s
+Received 52641 bytes in last 2 seconds.
+Speed: 25.7036 KB/s
+Received 48712 bytes in last 2 seconds.
+Speed: 23.7852 KB/s
+Received 38430 bytes in last 2 seconds.
+Speed: 18.7646 KB/s
+Received 26370 bytes in last 2 seconds.
+Speed: 12.876 KB/s
+Received 1948 bytes in last 2 seconds.
+Speed: 0.951172 KB/s
+Received 22386 bytes in last 2 seconds.
+Speed: 10.9307 KB/s
+Received 34042 bytes in last 2 seconds.
+Speed: 16.6221 KB/s
+Received 40941 bytes in last 2 seconds.
+Speed: 19.9907 KB/s
+Received 40179 bytes in last 2 seconds.
+Speed: 19.6187 KB/s
+Received 42259 bytes in last 2 seconds.
+Speed: 20.6343 KB/s
+Received 48685 bytes in last 2 seconds.
+Speed: 23.772 KB/s
+Received 52051 bytes in last 2 seconds.
+Speed: 25.4155 KB/s
+Received 40728 bytes in last 2 seconds.
+Speed: 19.8867 KB/s
+Received 46250 bytes in last 2 seconds.
+Speed: 22.583 KB/s
+Received 1758 bytes in last 2 seconds.
+Speed: 0.858398 KB/s
+Received 24106 bytes in last 2 seconds.
+Speed: 11.7705 KB/s
+Received 32472 bytes in last 2 seconds.
+Speed: 15.8555 KB/s
+Received 41935 bytes in last 2 seconds.
+Speed: 20.4761 KB/s
+Received 40747 bytes in last 2 seconds.
+Speed: 19.896 KB/s
+Received 42430 bytes in last 2 seconds.
+Speed: 20.7178 KB/s
+Received 49580 bytes in last 2 seconds.
+Speed: 24.209 KB/s
+Received 51628 bytes in last 2 seconds.
+Speed: 25.209 KB/s
+Received 39150 bytes in last 2 seconds.
+Speed: 19.1162 KB/s
+Received 45395 bytes in last 2 seconds.
+Speed: 22.1655 KB/s
+Received 1714 bytes in last 2 seconds.
+Speed: 0.836914 KB/s
+Received 24106 bytes in last 2 seconds.
+Speed: 11.7705 KB/s
+Received 32602 bytes in last 2 seconds.
+Speed: 15.9189 KB/s
+Received 41872 bytes in last 2 seconds.
+Speed: 20.4453 KB/s
+Received 40680 bytes in last 2 seconds.
+Speed: 19.8633 KB/s
+Received 42430 bytes in last 2 seconds.
+Speed: 20.7178 KB/s
+Received 49000 bytes in last 2 seconds.
+Speed: 23.9258 KB/s
+Received 52208 bytes in last 2 seconds.
+Speed: 25.4922 KB/s
+Received 39460 bytes in last 2 seconds.
+Speed: 19.2676 KB/s
+Received 45072 bytes in last 2 seconds.
+Speed: 22.0078 KB/s
+Received 1727 bytes in last 2 seconds.
+Speed: 0.843262 KB/s
+Received 24969 bytes in last 2 seconds.
+Speed: 12.1919 KB/s
+Received 31833 bytes in last 2 seconds.
+Speed: 15.5435 KB/s
+Received 42330 bytes in last 2 seconds.
+Speed: 20.6689 KB/s
+Received 42497 bytes in last 2 seconds.
+Speed: 20.7505 KB/s
+Received 41980 bytes in last 2 seconds.
+Speed: 20.498 KB/s
+Received 49882 bytes in last 2 seconds.
+Speed: 24.3564 KB/s
+Received 51403 bytes in last 2 seconds.
+Speed: 25.0991 KB/s
+Received 38767 bytes in last 2 seconds.
+Speed: 18.9292 KB/s
+Received 44045 bytes in last 2 seconds.
+Speed: 21.5063 KB/s
+Received 1547 bytes in last 2 seconds.
+Speed: 0.755371 KB/s
+Received 26536 bytes in last 2 seconds.
+Speed: 12.957 KB/s
+Received 30636 bytes in last 2 seconds.
+Speed: 14.959 KB/s
+Received 42362 bytes in last 2 seconds.
+Speed: 20.6846 KB/s
+Received 43487 bytes in last 2 seconds.
+Speed: 21.2339 KB/s
+Received 42564 bytes in last 2 seconds.
+Speed: 20.7832 KB/s
+Received 51744 bytes in last 2 seconds.
+Speed: 25.2656 KB/s
+Received 52433 bytes in last 2 seconds.
+Speed: 25.6021 KB/s
+Received 37471 bytes in last 2 seconds.
+Speed: 18.2964 KB/s
+Received 40481 bytes in last 2 seconds.
+Speed: 19.7661 KB/s
+Received 1543 bytes in last 2 seconds.
+Speed: 0.753418 KB/s
+Received 29874 bytes in last 2 seconds.
+Speed: 14.5869 KB/s
+Received 33600 bytes in last 2 seconds.
+Speed: 16.4063 KB/s
+Received 37133 bytes in last 2 seconds.
+Speed: 18.1313 KB/s
+Received 46948 bytes in last 2 seconds.
+Speed: 22.9238 KB/s
+Received 41993 bytes in last 2 seconds.
+Speed: 20.5044 KB/s
+Received 53293 bytes in last 2 seconds.
+Speed: 26.022 KB/s
+Received 49275 bytes in last 2 seconds.
+Speed: 24.0601 KB/s
+Received 38726 bytes in last 2 seconds.
+Speed: 18.9092 KB/s
+Received 36850 bytes in last 2 seconds.
+Speed: 17.9932 KB/s
+Received 1624 bytes in last 2 seconds.
+Speed: 0.792969 KB/s
+Received 31913 bytes in last 2 seconds.
+Speed: 15.5825 KB/s
+Received 32647 bytes in last 2 seconds.
+Speed: 15.9409 KB/s
+Received 36247 bytes in last 2 seconds.
+Speed: 17.6987 KB/s
+Received 47416 bytes in last 2 seconds.
+Speed: 23.1523 KB/s
+Received 41782 bytes in last 2 seconds.
+Speed: 20.4014 KB/s
+Received 53630 bytes in last 2 seconds.
+Speed: 26.1865 KB/s
+Received 49455 bytes in last 2 seconds.
+Speed: 24.1479 KB/s
+Received 38200 bytes in last 2 seconds.
+Speed: 18.6523 KB/s
+Received 36269 bytes in last 2 seconds.
+Speed: 17.7095 KB/s
+Received 1620 bytes in last 2 seconds.
+Speed: 0.791016 KB/s
+Received 31891 bytes in last 2 seconds.
+Speed: 15.5718 KB/s
+Received 32647 bytes in last 2 seconds.
+Speed: 15.9409 KB/s
+Received 36054 bytes in last 2 seconds.
+Speed: 17.6045 KB/s
+Received 47609 bytes in last 2 seconds.
+Speed: 23.2466 KB/s
+Received 41782 bytes in last 2 seconds.
+Speed: 20.4014 KB/s
+Received 53630 bytes in last 2 seconds.
+Speed: 26.1865 KB/s
+Received 50925 bytes in last 2 seconds.
+Speed: 24.8657 KB/s
+Received 38928 bytes in last 2 seconds.
+Speed: 19.0078 KB/s
+Received 33244 bytes in last 2 seconds.
+Speed: 16.2324 KB/s
+Received 1022 bytes in last 2 seconds.
+Speed: 0.499023 KB/s
+Received 1700 bytes in last 2 seconds.
+Speed: 0.830078 KB/s
+Received 38308 bytes in last 2 seconds.
+Speed: 18.7051 KB/s
+Received 39761 bytes in last 2 seconds.
+Speed: 19.4146 KB/s
+Received 28322 bytes in last 2 seconds.
+Speed: 13.8291 KB/s
+Received 48221 bytes in last 2 seconds.
+Speed: 23.5454 KB/s
+Received 46322 bytes in last 2 seconds.
+Speed: 22.6182 KB/s
+Received 53365 bytes in last 2 seconds.
+Speed: 26.0571 KB/s
+Received 47983 bytes in last 2 seconds.
+Speed: 23.4292 KB/s
+Received 39734 bytes in last 2 seconds.
+Speed: 19.4014 KB/s
+Received 25572 bytes in last 2 seconds.
+Speed: 12.4863 KB/s
+Received 2478 bytes in last 2 seconds.
+Speed: 1.20996 KB/s
+Received 41057 bytes in last 2 seconds.
+Speed: 20.0474 KB/s
+Received 41881 bytes in last 2 seconds.
+Speed: 20.4497 KB/s
+Received 27004 bytes in last 2 seconds.
+Speed: 13.1855 KB/s
+Received 45725 bytes in last 2 seconds.
+Speed: 22.3267 KB/s
+Received 47325 bytes in last 2 seconds.
+Speed: 23.1079 KB/s
+Received 54521 bytes in last 2 seconds.
+Speed: 26.6216 KB/s
+Received 46394 bytes in last 2 seconds.
+Speed: 22.6533 KB/s
+Received 41116 bytes in last 2 seconds.
+Speed: 20.0762 KB/s
+Received 21747 bytes in last 2 seconds.
+Speed: 10.6187 KB/s
+Received 3240 bytes in last 2 seconds.
+Speed: 1.58203 KB/s
+Received 41737 bytes in last 2 seconds.
+Speed: 20.3794 KB/s
+Received 42996 bytes in last 2 seconds.
+Speed: 20.9941 KB/s
+Received 27944 bytes in last 2 seconds.
+Speed: 13.6445 KB/s
+Received 45562 bytes in last 2 seconds.
+Speed: 22.2471 KB/s
+Received 47564 bytes in last 2 seconds.
+Speed: 23.2246 KB/s
+Received 53298 bytes in last 2 seconds.
+Speed: 26.0244 KB/s
+Received 45332 bytes in last 2 seconds.
+Speed: 22.1348 KB/s
+Received 41827 bytes in last 2 seconds.
+Speed: 20.4233 KB/s
+Received 19709 bytes in last 2 seconds.
+Speed: 9.62354 KB/s
+Received 5251 bytes in last 2 seconds.
+Speed: 2.56396 KB/s
+Received 43428 bytes in last 2 seconds.
+Speed: 21.2051 KB/s
+Received 42204 bytes in last 2 seconds.
+Speed: 20.6074 KB/s
+Received 28048 bytes in last 2 seconds.
+Speed: 13.6953 KB/s
+Received 45148 bytes in last 2 seconds.
+Speed: 22.0449 KB/s
+Received 47744 bytes in last 2 seconds.
+Speed: 23.3125 KB/s
+Received 54274 bytes in last 2 seconds.
+Speed: 26.501 KB/s
+Received 43766 bytes in last 2 seconds.
+Speed: 21.3701 KB/s
+Received 42273 bytes in last 2 seconds.
+Speed: 20.6411 KB/s
+Received 17086 bytes in last 2 seconds.
+Speed: 8.34277 KB/s
+Received 7078 bytes in last 2 seconds.
+Speed: 3.45605 KB/s
+Received 43572 bytes in last 2 seconds.
+Speed: 21.2754 KB/s
+Received 41269 bytes in last 2 seconds.
+Speed: 20.1509 KB/s
+Received 28741 bytes in last 2 seconds.
+Speed: 14.0337 KB/s
+Received 45219 bytes in last 2 seconds.
+Speed: 22.0796 KB/s
+Received 47776 bytes in last 2 seconds.
+Speed: 23.3281 KB/s
+Received 55043 bytes in last 2 seconds.
+Speed: 26.8765 KB/s
+Received 42052 bytes in last 2 seconds.
+Speed: 20.5332 KB/s
+Received 44207 bytes in last 2 seconds.
+Speed: 21.5854 KB/s
+Received 14278 bytes in last 2 seconds.
+Speed: 6.97168 KB/s
+Received 9679 bytes in last 2 seconds.
+Speed: 4.72607 KB/s
+Received 41998 bytes in last 2 seconds.
+Speed: 20.5068 KB/s
+Received 40963 bytes in last 2 seconds.
+Speed: 20.0015 KB/s
+Received 30954 bytes in last 2 seconds.
+Speed: 15.1143 KB/s
+Received 44378 bytes in last 2 seconds.
+Speed: 21.6689 KB/s
+Received 49296 bytes in last 2 seconds.
+Speed: 24.0703 KB/s
+Received 53775 bytes in last 2 seconds.
+Speed: 26.2573 KB/s
+Received 41637 bytes in last 2 seconds.
+Speed: 20.3306 KB/s
+Received 45291 bytes in last 2 seconds.
+Speed: 22.1147 KB/s
+Received 11321 bytes in last 2 seconds.
+Speed: 5.52783 KB/s
+Received 13576 bytes in last 2 seconds.
+Speed: 6.62891 KB/s
+Received 39824 bytes in last 2 seconds.
+Speed: 19.4453 KB/s
+Received 41115 bytes in last 2 seconds.
+Speed: 20.0757 KB/s
+Received 33961 bytes in last 2 seconds.
+Speed: 16.5825 KB/s
+Received 43982 bytes in last 2 seconds.
+Speed: 21.4756 KB/s
+Received 48842 bytes in last 2 seconds.
+Speed: 23.8486 KB/s
+Received 53653 bytes in last 2 seconds.
+Speed: 26.1978 KB/s
+Received 40198 bytes in last 2 seconds.
+Speed: 19.6279 KB/s
+Received 46704 bytes in last 2 seconds.
+Speed: 22.8047 KB/s
+Received 7514 bytes in last 2 seconds.
+Speed: 3.66895 KB/s
+Received 16371 bytes in last 2 seconds.
+Speed: 7.99365 KB/s
+Received 38384 bytes in last 2 seconds.
+Speed: 18.7422 KB/s
+Received 40729 bytes in last 2 seconds.
+Speed: 19.8872 KB/s
+Received 35954 bytes in last 2 seconds.
+Speed: 17.5557 KB/s
+Received 43627 bytes in last 2 seconds.
+Speed: 21.3022 KB/s
+Received 47493 bytes in last 2 seconds.
+Speed: 23.1899 KB/s
+Received 53032 bytes in last 2 seconds.
+Speed: 25.8945 KB/s
+Received 40755 bytes in last 2 seconds.
+Speed: 19.8999 KB/s
+Received 46750 bytes in last 2 seconds.
+Speed: 22.8271 KB/s
+Received 4276 bytes in last 2 seconds.
+Speed: 2.08789 KB/s
+Received 1400 bytes in last 2 seconds.
+Speed: 0.683594 KB/s
+Received 7992 bytes in last 2 seconds.
+Speed: 3.90234 KB/s
+Received 42938 bytes in last 2 seconds.
+Speed: 20.9658 KB/s
+Received 41691 bytes in last 2 seconds.
+Speed: 20.3569 KB/s
+Received 28971 bytes in last 2 seconds.
+Speed: 14.146 KB/s
+Received 45084 bytes in last 2 seconds.
+Speed: 22.0137 KB/s
+Received 47938 bytes in last 2 seconds.
+Speed: 23.4072 KB/s
+Received 54045 bytes in last 2 seconds.
+Speed: 26.3892 KB/s
+Received 42591 bytes in last 2 seconds.
+Speed: 20.7964 KB/s
+Received 44050 bytes in last 2 seconds.
+Speed: 21.5088 KB/s
+Received 13935 bytes in last 2 seconds.
+Speed: 6.8042 KB/s
+Received 11078 bytes in last 2 seconds.
+Speed: 5.40918 KB/s
+Received 41651 bytes in last 2 seconds.
+Speed: 20.3374 KB/s
+Received 40333 bytes in last 2 seconds.
+Speed: 19.6938 KB/s
+Received 32224 bytes in last 2 seconds.
+Speed: 15.7344 KB/s
+Received 43137 bytes in last 2 seconds.
+Speed: 21.063 KB/s
+Received 49269 bytes in last 2 seconds.
+Speed: 24.0571 KB/s
+Received 54665 bytes in last 2 seconds.
+Speed: 26.6919 KB/s
+Received 40702 bytes in last 2 seconds.
+Speed: 19.874 KB/s
+Received 44572 bytes in last 2 seconds.
+Speed: 21.7637 KB/s
+Received 11596 bytes in last 2 seconds.
+Speed: 5.66211 KB/s
+Received 12078 bytes in last 2 seconds.
+Speed: 5.89746 KB/s
+Received 41124 bytes in last 2 seconds.
+Speed: 20.0801 KB/s
+Received 40234 bytes in last 2 seconds.
+Speed: 19.6455 KB/s
+Received 34050 bytes in last 2 seconds.
+Speed: 16.626 KB/s
+Received 43074 bytes in last 2 seconds.
+Speed: 21.0322 KB/s
+Received 48424 bytes in last 2 seconds.
+Speed: 23.6445 KB/s
+Received 54714 bytes in last 2 seconds.
+Speed: 26.7158 KB/s
+Received 41214 bytes in last 2 seconds.
+Speed: 20.124 KB/s
+Received 45346 bytes in last 2 seconds.
+Speed: 22.1416 KB/s
+Received 9075 bytes in last 2 seconds.
+Speed: 4.43115 KB/s
+Received 15898 bytes in last 2 seconds.
+Speed: 7.7627 KB/s
+Received 38919 bytes in last 2 seconds.
+Speed: 19.0034 KB/s
+Received 41133 bytes in last 2 seconds.
+Speed: 20.0845 KB/s
+Received 36193 bytes in last 2 seconds.
+Speed: 17.6724 KB/s
+Received 43973 bytes in last 2 seconds.
+Speed: 21.4712 KB/s
+Received 48617 bytes in last 2 seconds.
+Speed: 23.7388 KB/s
+Received 51687 bytes in last 2 seconds.
+Speed: 25.2378 KB/s
+Received 40814 bytes in last 2 seconds.
+Speed: 19.9287 KB/s
+Received 47344 bytes in last 2 seconds.
+Speed: 23.1172 KB/s
+Received 4693 bytes in last 2 seconds.
+Speed: 2.2915 KB/s
+Received 18634 bytes in last 2 seconds.
+Speed: 9.09863 KB/s
+Received 37501 bytes in last 2 seconds.
+Speed: 18.311 KB/s
+Received 40760 bytes in last 2 seconds.
+Speed: 19.9023 KB/s
+Received 39158 bytes in last 2 seconds.
+Speed: 19.1201 KB/s
+Received 43064 bytes in last 2 seconds.
+Speed: 21.0273 KB/s
+Received 48613 bytes in last 2 seconds.
+Speed: 23.7368 KB/s
+Received 51754 bytes in last 2 seconds.
+Speed: 25.2705 KB/s
+Received 40971 bytes in last 2 seconds.
+Speed: 20.0054 KB/s
+Received 47074 bytes in last 2 seconds.
+Speed: 22.9854 KB/s
+Received 1764 bytes in last 2 seconds.
+Speed: 0.861328 KB/s
+Received 22652 bytes in last 2 seconds.
+Speed: 11.0605 KB/s
+Received 33539 bytes in last 2 seconds.
+Speed: 16.3765 KB/s
+Received 41152 bytes in last 2 seconds.
+Speed: 20.0938 KB/s
+Received 40660 bytes in last 2 seconds.
+Speed: 19.8535 KB/s
+Received 42313 bytes in last 2 seconds.
+Speed: 20.6606 KB/s
+Received 48150 bytes in last 2 seconds.
+Speed: 23.5107 KB/s
+Received 52051 bytes in last 2 seconds.
+Speed: 25.4155 KB/s
+Received 40283 bytes in last 2 seconds.
+Speed: 19.6694 KB/s
+Received 46615 bytes in last 2 seconds.
+Speed: 22.7612 KB/s
+Received 1786 bytes in last 2 seconds.
+Speed: 0.87207 KB/s
+Received 22936 bytes in last 2 seconds.
+Speed: 11.1992 KB/s
+Received 33484 bytes in last 2 seconds.
+Speed: 16.3496 KB/s
+Received 41773 bytes in last 2 seconds.
+Speed: 20.397 KB/s
+Received 39285 bytes in last 2 seconds.
+Speed: 19.1821 KB/s
+Received 43374 bytes in last 2 seconds.
+Speed: 21.1787 KB/s
+Received 48712 bytes in last 2 seconds.
+Speed: 23.7852 KB/s
+Received 52523 bytes in last 2 seconds.
+Speed: 25.646 KB/s
+Received 39114 bytes in last 2 seconds.
+Speed: 19.0986 KB/s
+Received 46201 bytes in last 2 seconds.
+Speed: 22.5591 KB/s
+Received 1781 bytes in last 2 seconds.
+Speed: 0.869629 KB/s
+Received 23346 bytes in last 2 seconds.
+Speed: 11.3994 KB/s
+Received 33097 bytes in last 2 seconds.
+Speed: 16.1606 KB/s
+Received 41755 bytes in last 2 seconds.
+Speed: 20.3882 KB/s
+Received 40270 bytes in last 2 seconds.
+Speed: 19.6631 KB/s
+Received 42749 bytes in last 2 seconds.
+Speed: 20.8735 KB/s
+Received 48973 bytes in last 2 seconds.
+Speed: 23.9126 KB/s
+Received 51871 bytes in last 2 seconds.
+Speed: 25.3276 KB/s
+Received 39496 bytes in last 2 seconds.
+Speed: 19.2852 KB/s
+Received 45556 bytes in last 2 seconds.
+Speed: 22.2441 KB/s
+Received 1153 bytes in last 2 seconds.
+Speed: 0.562988 KB/s
+Received 2478 bytes in last 2 seconds.
+Speed: 1.20996 KB/s
+Received 41057 bytes in last 2 seconds.
+Speed: 20.0474 KB/s
+Received 43212 bytes in last 2 seconds.
+Speed: 21.0996 KB/s
+Received 26896 bytes in last 2 seconds.
+Speed: 13.1328 KB/s
+Received 46318 bytes in last 2 seconds.
+Speed: 22.6162 KB/s
+Received 47204 bytes in last 2 seconds.
+Speed: 23.0488 KB/s
+Received 53860 bytes in last 2 seconds.
+Speed: 26.2988 KB/s
+Received 45616 bytes in last 2 seconds.
+Speed: 22.2734 KB/s
+Received 41350 bytes in last 2 seconds.
+Speed: 20.1904 KB/s
+Received 21257 bytes in last 2 seconds.
+Speed: 10.3794 KB/s
+Received 3559 bytes in last 2 seconds.
+Speed: 1.73779 KB/s
+Received 41980 bytes in last 2 seconds.
+Speed: 20.498 KB/s
+Received 42879 bytes in last 2 seconds.
+Speed: 20.937 KB/s
+Received 27499 bytes in last 2 seconds.
+Speed: 13.4272 KB/s
+Received 45980 bytes in last 2 seconds.
+Speed: 22.4512 KB/s
+Received 47146 bytes in last 2 seconds.
+Speed: 23.0205 KB/s
+Received 53680 bytes in last 2 seconds.
+Speed: 26.2109 KB/s
+Received 44950 bytes in last 2 seconds.
+Speed: 21.9482 KB/s
+Received 41827 bytes in last 2 seconds.
+Speed: 20.4233 KB/s
+Received 19683 bytes in last 2 seconds.
+Speed: 9.61084 KB/s
+Received 5277 bytes in last 2 seconds.
+Speed: 2.57666 KB/s
+Received 43428 bytes in last 2 seconds.
+Speed: 21.2051 KB/s
+Received 42204 bytes in last 2 seconds.
+Speed: 20.6074 KB/s
+Received 29307 bytes in last 2 seconds.
+Speed: 14.3101 KB/s
+Received 44788 bytes in last 2 seconds.
+Speed: 21.8691 KB/s
+Received 48742 bytes in last 2 seconds.
+Speed: 23.7998 KB/s
+Received 54481 bytes in last 2 seconds.
+Speed: 26.6021 KB/s
+Received 42228 bytes in last 2 seconds.
+Speed: 20.6191 KB/s
+Received 43060 bytes in last 2 seconds.
+Speed: 21.0254 KB/s
+Received 15785 bytes in last 2 seconds.
+Speed: 7.70752 KB/s
+Received 9705 bytes in last 2 seconds.
+Speed: 4.73877 KB/s
+Received 42218 bytes in last 2 seconds.
+Speed: 20.6143 KB/s
+Received 40855 bytes in last 2 seconds.
+Speed: 19.9487 KB/s
+Received 30842 bytes in last 2 seconds.
+Speed: 15.0596 KB/s
+Received 43344 bytes in last 2 seconds.
+Speed: 21.1641 KB/s
+Received 49350 bytes in last 2 seconds.
+Speed: 24.0967 KB/s
+Received 54755 bytes in last 2 seconds.
+Speed: 26.7358 KB/s
+Received 41053 bytes in last 2 seconds.
+Speed: 20.0454 KB/s
+Received 43938 bytes in last 2 seconds.
+Speed: 21.4541 KB/s
+Received 13162 bytes in last 2 seconds.
+Speed: 6.42676 KB/s
+Received 10597 bytes in last 2 seconds.
+Speed: 5.17432 KB/s
+Received 41849 bytes in last 2 seconds.
+Speed: 20.4341 KB/s
+Received 40549 bytes in last 2 seconds.
+Speed: 19.7993 KB/s
+Received 32291 bytes in last 2 seconds.
+Speed: 15.7671 KB/s
+Received 44391 bytes in last 2 seconds.
+Speed: 21.6753 KB/s
+Received 48015 bytes in last 2 seconds.
+Speed: 23.4448 KB/s
+Received 54665 bytes in last 2 seconds.
+Speed: 26.6919 KB/s
+Received 41102 bytes in last 2 seconds.
+Speed: 20.0693 KB/s
+Received 44900 bytes in last 2 seconds.
+Speed: 21.9238 KB/s
+Received 10868 bytes in last 2 seconds.
+Speed: 5.30664 KB/s
+Received 13103 bytes in last 2 seconds.
+Speed: 6.39795 KB/s
+Received 40184 bytes in last 2 seconds.
+Speed: 19.6211 KB/s
+Received 40935 bytes in last 2 seconds.
+Speed: 19.9878 KB/s
+Received 34617 bytes in last 2 seconds.
+Speed: 16.9028 KB/s
+Received 43645 bytes in last 2 seconds.
+Speed: 21.311 KB/s
+Received 48298 bytes in last 2 seconds.
+Speed: 23.583 KB/s
+Received 53743 bytes in last 2 seconds.
+Speed: 26.2417 KB/s
+Received 40387 bytes in last 2 seconds.
+Speed: 19.7202 KB/s
+Received 45346 bytes in last 2 seconds.
+Speed: 22.1416 KB/s
+Received 9013 bytes in last 2 seconds.
+Speed: 4.40088 KB/s
+Received 15960 bytes in last 2 seconds.
+Speed: 7.79297 KB/s
+Received 38560 bytes in last 2 seconds.
+Speed: 18.8281 KB/s
+Received 41088 bytes in last 2 seconds.
+Speed: 20.0625 KB/s
+Received 35284 bytes in last 2 seconds.
+Speed: 17.2285 KB/s
+Received 44297 bytes in last 2 seconds.
+Speed: 21.6294 KB/s
+Received 47974 bytes in last 2 seconds.
+Speed: 23.4248 KB/s
+Received 52708 bytes in last 2 seconds.
+Speed: 25.7363 KB/s
+Received 40598 bytes in last 2 seconds.
+Speed: 19.8232 KB/s
+Received 46359 bytes in last 2 seconds.
+Speed: 22.6362 KB/s
+Received 6479 bytes in last 2 seconds.
+Speed: 3.16357 KB/s
+Received 18134 bytes in last 2 seconds.
+Speed: 8.85449 KB/s
+Received 37183 bytes in last 2 seconds.
+Speed: 18.1558 KB/s
+Received 40877 bytes in last 2 seconds.
+Speed: 19.9595 KB/s
+Received 37763 bytes in last 2 seconds.
+Speed: 18.439 KB/s
+Received 43761 bytes in last 2 seconds.
+Speed: 21.3677 KB/s
+Received 48887 bytes in last 2 seconds.
+Speed: 23.8706 KB/s
+Received 52658 bytes in last 2 seconds.
+Speed: 25.7119 KB/s
+Received 40926 bytes in last 2 seconds.
+Speed: 19.9834 KB/s
+Received 47156 bytes in last 2 seconds.
+Speed: 23.0254 KB/s
+Received 2044 bytes in last 2 seconds.
+Speed: 0.998047 KB/s
+Received 56443 bytes in last 2 seconds.
+Speed: 27.5601 KB/s
+Received 82025 bytes in last 2 seconds.
+Speed: 40.0513 KB/s
+Received 91070 bytes in last 2 seconds.
+Speed: 44.4678 KB/s
+Received 91637 bytes in last 2 seconds.
+Speed: 44.7446 KB/s
+Received 48021 bytes in last 2 seconds.
+Speed: 23.4478 KB/s
+Received 56789 bytes in last 2 seconds.
+Speed: 27.729 KB/s
+Received 85398 bytes in last 2 seconds.
+Speed: 41.6982 KB/s
+Received 90765 bytes in last 2 seconds.
+Speed: 44.3188 KB/s
+Received 91325 bytes in last 2 seconds.
+Speed: 44.5923 KB/s
+Received 45011 bytes in last 2 seconds.
+Speed: 21.978 KB/s
+Received 57724 bytes in last 2 seconds.
+Speed: 28.1855 KB/s
+Received 88440 bytes in last 2 seconds.
+Speed: 43.1836 KB/s
+Received 91652 bytes in last 2 seconds.
+Speed: 44.752 KB/s
+Received 91855 bytes in last 2 seconds.
+Speed: 44.8511 KB/s
+Received 39684 bytes in last 2 seconds.
+Speed: 19.377 KB/s
+Received 64573 bytes in last 2 seconds.
+Speed: 31.5298 KB/s
+Received 84027 bytes in last 2 seconds.
+Speed: 41.0288 KB/s
+Received 94095 bytes in last 2 seconds.
+Speed: 45.9448 KB/s
+Received 89889 bytes in last 2 seconds.
+Speed: 43.8911 KB/s
+Received 36687 bytes in last 2 seconds.
+Speed: 17.9136 KB/s
+Received 65808 bytes in last 2 seconds.
+Speed: 32.1328 KB/s
+Received 83649 bytes in last 2 seconds.
+Speed: 40.8442 KB/s
+Received 96990 bytes in last 2 seconds.
+Speed: 47.3584 KB/s
+Received 88383 bytes in last 2 seconds.
+Speed: 43.1558 KB/s
+Received 34401 bytes in last 2 seconds.
+Speed: 16.7974 KB/s
+Received 71783 bytes in last 2 seconds.
+Speed: 35.0503 KB/s
+Received 80674 bytes in last 2 seconds.
+Speed: 39.3916 KB/s
+Received 95903 bytes in last 2 seconds.
+Speed: 46.8276 KB/s
+Received 90132 bytes in last 2 seconds.
+Speed: 44.0098 KB/s
+Received 30774 bytes in last 2 seconds.
+Speed: 15.0264 KB/s
+Received 79485 bytes in last 2 seconds.
+Speed: 38.811 KB/s
+Received 74619 bytes in last 2 seconds.
+Speed: 36.4351 KB/s
+Received 99538 bytes in last 2 seconds.
+Speed: 48.6025 KB/s
+Received 89003 bytes in last 2 seconds.
+Speed: 43.4585 KB/s
+Received 26967 bytes in last 2 seconds.
+Speed: 13.1675 KB/s
+Received 84021 bytes in last 2 seconds.
+Speed: 41.0259 KB/s
+Received 73929 bytes in last 2 seconds.
+Speed: 36.0981 KB/s
+Received 99378 bytes in last 2 seconds.
+Speed: 48.5244 KB/s
+Received 87708 bytes in last 2 seconds.
+Speed: 42.8262 KB/s
+Received 20957 bytes in last 2 seconds.
+Speed: 10.2329 KB/s
+Received 1799 bytes in last 2 seconds.
+Speed: 0.878418 KB/s
+Received 54926 bytes in last 2 seconds.
+Speed: 26.8193 KB/s
+Received 77142 bytes in last 2 seconds.
+Speed: 37.667 KB/s
+Received 90477 bytes in last 2 seconds.
+Speed: 44.1782 KB/s
+Received 93212 bytes in last 2 seconds.
+Speed: 45.5137 KB/s
+Received 53387 bytes in last 2 seconds.
+Speed: 26.0679 KB/s
+Received 54939 bytes in last 2 seconds.
+Speed: 26.8257 KB/s
+Received 76499 bytes in last 2 seconds.
+Speed: 37.353 KB/s
+Received 91601 bytes in last 2 seconds.
+Speed: 44.7271 KB/s
+Received 92731 bytes in last 2 seconds.
+Speed: 45.2788 KB/s
+Received 53400 bytes in last 2 seconds.
+Speed: 26.0742 KB/s
+Received 54594 bytes in last 2 seconds.
+Speed: 26.6572 KB/s
+Received 75572 bytes in last 2 seconds.
+Speed: 36.9004 KB/s
+Received 91925 bytes in last 2 seconds.
+Speed: 44.8853 KB/s
+Received 93666 bytes in last 2 seconds.
+Speed: 45.7354 KB/s
+Received 53387 bytes in last 2 seconds.
+Speed: 26.0679 KB/s
+Received 55204 bytes in last 2 seconds.
+Speed: 26.9551 KB/s
+Received 75564 bytes in last 2 seconds.
+Speed: 36.8965 KB/s
+Received 91790 bytes in last 2 seconds.
+Speed: 44.8193 KB/s
+Received 93450 bytes in last 2 seconds.
+Speed: 45.6299 KB/s
+Received 53149 bytes in last 2 seconds.
+Speed: 25.9517 KB/s
+Received 54939 bytes in last 2 seconds.
+Speed: 26.8257 KB/s
+Received 75829 bytes in last 2 seconds.
+Speed: 37.0259 KB/s
+Received 91790 bytes in last 2 seconds.
+Speed: 44.8193 KB/s
+Received 93450 bytes in last 2 seconds.
+Speed: 45.6299 KB/s
+Received 53162 bytes in last 2 seconds.
+Speed: 25.958 KB/s
+Received 54594 bytes in last 2 seconds.
+Speed: 26.6572 KB/s
+Received 76161 bytes in last 2 seconds.
+Speed: 37.188 KB/s
+Received 92815 bytes in last 2 seconds.
+Speed: 45.3198 KB/s
+Received 91823 bytes in last 2 seconds.
+Speed: 44.8354 KB/s
+Received 53777 bytes in last 2 seconds.
+Speed: 26.2583 KB/s
+Received 54729 bytes in last 2 seconds.
+Speed: 26.7231 KB/s
+Received 77326 bytes in last 2 seconds.
+Speed: 37.7568 KB/s
+Received 90477 bytes in last 2 seconds.
+Speed: 44.1782 KB/s
+Received 93787 bytes in last 2 seconds.
+Speed: 45.7944 KB/s
+Received 52812 bytes in last 2 seconds.
+Speed: 25.7871 KB/s
+Received 54939 bytes in last 2 seconds.
+Speed: 26.8257 KB/s
+Received 75240 bytes in last 2 seconds.
+Speed: 36.7383 KB/s
+Received 92860 bytes in last 2 seconds.
+Speed: 45.3418 KB/s
+Received 92969 bytes in last 2 seconds.
+Speed: 45.395 KB/s
+Received 51363 bytes in last 2 seconds.
+Speed: 25.0796 KB/s
+Received 684 bytes in last 2 seconds.
+Speed: 0.333984 KB/s
+Received 30234 bytes in last 2 seconds.
+Speed: 14.7627 KB/s
+Received 71090 bytes in last 2 seconds.
+Speed: 34.7119 KB/s
+Received 86534 bytes in last 2 seconds.
+Speed: 42.2529 KB/s
+Received 103386 bytes in last 2 seconds.
+Speed: 50.4814 KB/s
+Received 77926 bytes in last 2 seconds.
+Speed: 38.0498 KB/s
+Received 30576 bytes in last 2 seconds.
+Speed: 14.9297 KB/s
+Received 70735 bytes in last 2 seconds.
+Speed: 34.5386 KB/s
+Received 86534 bytes in last 2 seconds.
+Speed: 42.2529 KB/s
+Received 102842 bytes in last 2 seconds.
+Speed: 50.2158 KB/s
+Received 78470 bytes in last 2 seconds.
+Speed: 38.3154 KB/s
+Received 30576 bytes in last 2 seconds.
+Speed: 14.9297 KB/s
+Received 70757 bytes in last 2 seconds.
+Speed: 34.5493 KB/s
+Received 86184 bytes in last 2 seconds.
+Speed: 42.082 KB/s
+Received 104132 bytes in last 2 seconds.
+Speed: 50.8457 KB/s
+Received 77534 bytes in last 2 seconds.
+Speed: 37.8584 KB/s
+Received 30842 bytes in last 2 seconds.
+Speed: 15.0596 KB/s
+Received 70608 bytes in last 2 seconds.
+Speed: 34.4766 KB/s
+Received 87996 bytes in last 2 seconds.
+Speed: 42.9668 KB/s
+Received 103242 bytes in last 2 seconds.
+Speed: 50.4111 KB/s
+Received 76508 bytes in last 2 seconds.
+Speed: 37.3574 KB/s
+Received 32596 bytes in last 2 seconds.
+Speed: 15.916 KB/s
+Received 69874 bytes in last 2 seconds.
+Speed: 34.1182 KB/s
+Received 89198 bytes in last 2 seconds.
+Speed: 43.5537 KB/s
+Received 104173 bytes in last 2 seconds.
+Speed: 50.8657 KB/s
+Received 73420 bytes in last 2 seconds.
+Speed: 35.8496 KB/s
+Received 35940 bytes in last 2 seconds.
+Speed: 17.5488 KB/s
+Received 67274 bytes in last 2 seconds.
+Speed: 32.8486 KB/s
+Received 92949 bytes in last 2 seconds.
+Speed: 45.3853 KB/s
+Received 105436 bytes in last 2 seconds.
+Speed: 51.4824 KB/s
+Received 67662 bytes in last 2 seconds.
+Speed: 33.0381 KB/s
+Received 39184 bytes in last 2 seconds.
+Speed: 19.1328 KB/s
+Received 66878 bytes in last 2 seconds.
+Speed: 32.6553 KB/s
+Received 91701 bytes in last 2 seconds.
+Speed: 44.7759 KB/s
+Received 103098 bytes in last 2 seconds.
+Speed: 50.3408 KB/s
+Received 68335 bytes in last 2 seconds.
+Speed: 33.3667 KB/s
+Received 39693 bytes in last 2 seconds.
+Speed: 19.3813 KB/s
+Received 68937 bytes in last 2 seconds.
+Speed: 33.6606 KB/s
+Received 94017 bytes in last 2 seconds.
+Speed: 45.9067 KB/s
+Received 102390 bytes in last 2 seconds.
+Speed: 49.9951 KB/s
+Received 63111 bytes in last 2 seconds.
+Speed: 30.8159 KB/s
+Received 90570 bytes in last 2 seconds.
+Speed: 44.2236 KB/s
+Received 217974 bytes in last 2 seconds.
+Speed: 106.433 KB/s
+Received 151538 bytes in last 2 seconds.
+Speed: 73.9932 KB/s
+Received 217062 bytes in last 2 seconds.
+Speed: 105.987 KB/s
+Received 150832 bytes in last 2 seconds.
+Speed: 73.6484 KB/s
+Received 218882 bytes in last 2 seconds.
+Speed: 106.876 KB/s
+Received 150783 bytes in last 2 seconds.
+Speed: 73.6245 KB/s
+Received 219956 bytes in last 2 seconds.
+Speed: 107.4 KB/s
+Received 153222 bytes in last 2 seconds.
+Speed: 74.8154 KB/s
+Received 221429 bytes in last 2 seconds.
+Speed: 108.12 KB/s
+Received 151543 bytes in last 2 seconds.
+Speed: 73.9956 KB/s
+Received 223995 bytes in last 2 seconds.
+Speed: 109.373 KB/s
+Received 145364 bytes in last 2 seconds.
+Speed: 70.9785 KB/s
+Received 223222 bytes in last 2 seconds.
+Speed: 108.995 KB/s
+Received 147044 bytes in last 2 seconds.
+Speed: 71.7988 KB/s
+Received 220005 bytes in last 2 seconds.
+Speed: 107.424 KB/s
+Received 49835 bytes in last 2 seconds.
+Speed: 24.3335 KB/s
+Received 78322 bytes in last 2 seconds.
+Speed: 38.2432 KB/s
+Received 225289 bytes in last 2 seconds.
+Speed: 110.004 KB/s
+Received 65492 bytes in last 2 seconds.
+Speed: 31.9785 KB/s
+Received 104372 bytes in last 2 seconds.
+Speed: 50.9629 KB/s
+Received 232512 bytes in last 2 seconds.
+Speed: 113.531 KB/s
+Received 32219 bytes in last 2 seconds.
+Speed: 15.7319 KB/s
+Received 207747 bytes in last 2 seconds.
+Speed: 101.439 KB/s
+Received 161356 bytes in last 2 seconds.
+Speed: 78.7871 KB/s
+Received 120807 bytes in last 2 seconds.
+Speed: 58.9878 KB/s
+Received 248296 bytes in last 2 seconds.
+Speed: 121.238 KB/s
+Received 162305 bytes in last 2 seconds.
+Speed: 79.2505 KB/s
+Received 206798 bytes in last 2 seconds.
+Speed: 100.976 KB/s
+Received 97876 bytes in last 2 seconds.
+Speed: 47.791 KB/s
+Received 271227 bytes in last 2 seconds.
+Speed: 132.435 KB/s
+Received 775 bytes in last 2 seconds.
+Speed: 0.378418 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 484 bytes in last 2 seconds.
+Speed: 0.236328 KB/s
+Received 551 bytes in last 2 seconds.
+Speed: 0.269043 KB/s
+Received 799 bytes in last 2 seconds.
+Speed: 0.390137 KB/s
+Received 11599 bytes in last 2 seconds.
+Speed: 5.66357 KB/s
+Received 13651 bytes in last 2 seconds.
+Speed: 6.66553 KB/s
+Received 12400 bytes in last 2 seconds.
+Speed: 6.05469 KB/s
+Received 12634 bytes in last 2 seconds.
+Speed: 6.16895 KB/s
+Received 5191 bytes in last 2 seconds.
+Speed: 2.53467 KB/s
+Received 15856 bytes in last 2 seconds.
+Speed: 7.74219 KB/s
+Received 18160 bytes in last 2 seconds.
+Speed: 8.86719 KB/s
+Received 6190 bytes in last 2 seconds.
+Speed: 3.02246 KB/s
+Received 5038 bytes in last 2 seconds.
+Speed: 2.45996 KB/s
+Received 13390 bytes in last 2 seconds.
+Speed: 6.53809 KB/s
+Received 16063 bytes in last 2 seconds.
+Speed: 7.84326 KB/s
+Received 15154 bytes in last 2 seconds.
+Speed: 7.39941 KB/s
+Received 11428 bytes in last 2 seconds.
+Speed: 5.58008 KB/s
+Received 13237 bytes in last 2 seconds.
+Speed: 6.46338 KB/s
+Received 14708 bytes in last 2 seconds.
+Speed: 7.18164 KB/s
+Received 15253 bytes in last 2 seconds.
+Speed: 7.44775 KB/s
+Received 15703 bytes in last 2 seconds.
+Speed: 7.66748 KB/s
+Received 15051 bytes in last 2 seconds.
+Speed: 7.34912 KB/s
+Received 18461 bytes in last 2 seconds.
+Speed: 9.01416 KB/s
+Received 17278 bytes in last 2 seconds.
+Speed: 8.43652 KB/s
+Received 12994 bytes in last 2 seconds.
+Speed: 6.34473 KB/s
+Received 16661 bytes in last 2 seconds.
+Speed: 8.13525 KB/s
+Received 10974 bytes in last 2 seconds.
+Speed: 5.3584 KB/s
+Received 9196 bytes in last 2 seconds.
+Speed: 4.49023 KB/s
+Received 14393 bytes in last 2 seconds.
+Speed: 7.02783 KB/s
+Received 15874 bytes in last 2 seconds.
+Speed: 7.75098 KB/s
+Received 13840 bytes in last 2 seconds.
+Speed: 6.75781 KB/s
+Received 5674 bytes in last 2 seconds.
+Speed: 2.77051 KB/s
+Received 396 bytes in last 2 seconds.
+Speed: 0.193359 KB/s
+Received 574 bytes in last 2 seconds.
+Speed: 0.280273 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 574 bytes in last 2 seconds.
+Speed: 0.280273 KB/s
+Received 578 bytes in last 2 seconds.
+Speed: 0.282227 KB/s
+Received 4732 bytes in last 2 seconds.
+Speed: 2.31055 KB/s
+Received 14186 bytes in last 2 seconds.
+Speed: 6.92676 KB/s
+Received 12423 bytes in last 2 seconds.
+Speed: 6.06592 KB/s
+Received 12328 bytes in last 2 seconds.
+Speed: 6.01953 KB/s
+Received 10172 bytes in last 2 seconds.
+Speed: 4.9668 KB/s
+Received 5002 bytes in last 2 seconds.
+Speed: 2.44238 KB/s
+Received 23650 bytes in last 2 seconds.
+Speed: 11.5479 KB/s
+Received 10060 bytes in last 2 seconds.
+Speed: 4.91211 KB/s
+Received 6644 bytes in last 2 seconds.
+Speed: 3.24414 KB/s
+Received 6928 bytes in last 2 seconds.
+Speed: 3.38281 KB/s
+Received 16356 bytes in last 2 seconds.
+Speed: 7.98633 KB/s
+Received 16297 bytes in last 2 seconds.
+Speed: 7.95752 KB/s
+Received 13727 bytes in last 2 seconds.
+Speed: 6.70264 KB/s
+Received 11554 bytes in last 2 seconds.
+Speed: 5.6416 KB/s
+Received 14344 bytes in last 2 seconds.
+Speed: 7.00391 KB/s
+Received 13498 bytes in last 2 seconds.
+Speed: 6.59082 KB/s
+Received 16778 bytes in last 2 seconds.
+Speed: 8.19238 KB/s
+Received 14682 bytes in last 2 seconds.
+Speed: 7.16895 KB/s
+Received 17737 bytes in last 2 seconds.
+Speed: 8.66064 KB/s
+Received 17494 bytes in last 2 seconds.
+Speed: 8.54199 KB/s
+Received 14929 bytes in last 2 seconds.
+Speed: 7.28955 KB/s
+Received 15311 bytes in last 2 seconds.
+Speed: 7.47607 KB/s
+Received 13885 bytes in last 2 seconds.
+Speed: 6.77979 KB/s
+Received 9268 bytes in last 2 seconds.
+Speed: 4.52539 KB/s
+Received 11194 bytes in last 2 seconds.
+Speed: 5.46582 KB/s
+Received 15986 bytes in last 2 seconds.
+Speed: 7.80566 KB/s
+Received 14983 bytes in last 2 seconds.
+Speed: 7.31592 KB/s
+Received 12800 bytes in last 2 seconds.
+Speed: 6.25 KB/s
+Received 601 bytes in last 2 seconds.
+Speed: 0.293457 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 574 bytes in last 2 seconds.
+Speed: 0.280273 KB/s
+Received 565 bytes in last 2 seconds.
+Speed: 0.275879 KB/s
+Received 3643 bytes in last 2 seconds.
+Speed: 1.77881 KB/s
+Received 13327 bytes in last 2 seconds.
+Speed: 6.50732 KB/s
+Received 13066 bytes in last 2 seconds.
+Speed: 6.37988 KB/s
+Received 11712 bytes in last 2 seconds.
+Speed: 5.71875 KB/s
+Received 11207 bytes in last 2 seconds.
+Speed: 5.47217 KB/s
+Received 4318 bytes in last 2 seconds.
+Speed: 2.1084 KB/s
+Received 22408 bytes in last 2 seconds.
+Speed: 10.9414 KB/s
+Received 12512 bytes in last 2 seconds.
+Speed: 6.10938 KB/s
+Received 6689 bytes in last 2 seconds.
+Speed: 3.26611 KB/s
+Received 6563 bytes in last 2 seconds.
+Speed: 3.20459 KB/s
+Received 16621 bytes in last 2 seconds.
+Speed: 8.11572 KB/s
+Received 16751 bytes in last 2 seconds.
+Speed: 8.1792 KB/s
+Received 13435 bytes in last 2 seconds.
+Speed: 6.56006 KB/s
+Received 11509 bytes in last 2 seconds.
+Speed: 5.61963 KB/s
+Received 14681 bytes in last 2 seconds.
+Speed: 7.16846 KB/s
+Received 13498 bytes in last 2 seconds.
+Speed: 6.59082 KB/s
+Received 16387 bytes in last 2 seconds.
+Speed: 8.00146 KB/s
+Received 15073 bytes in last 2 seconds.
+Speed: 7.35986 KB/s
+Received 18479 bytes in last 2 seconds.
+Speed: 9.02295 KB/s
+Received 16752 bytes in last 2 seconds.
+Speed: 8.17969 KB/s
+Received 14929 bytes in last 2 seconds.
+Speed: 7.28955 KB/s
+Received 14830 bytes in last 2 seconds.
+Speed: 7.24121 KB/s
+Received 14101 bytes in last 2 seconds.
+Speed: 6.88525 KB/s
+Received 9533 bytes in last 2 seconds.
+Speed: 4.65479 KB/s
+Received 11194 bytes in last 2 seconds.
+Speed: 5.46582 KB/s
+Received 15361 bytes in last 2 seconds.
+Speed: 7.50049 KB/s
+Received 15226 bytes in last 2 seconds.
+Speed: 7.43457 KB/s
+Received 13151 bytes in last 2 seconds.
+Speed: 6.42139 KB/s
+Received 619 bytes in last 2 seconds.
+Speed: 0.302246 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 561 bytes in last 2 seconds.
+Speed: 0.273926 KB/s
+Received 556 bytes in last 2 seconds.
+Speed: 0.271484 KB/s
+Received 2860 bytes in last 2 seconds.
+Speed: 1.39648 KB/s
+Received 13318 bytes in last 2 seconds.
+Speed: 6.50293 KB/s
+Received 13484 bytes in last 2 seconds.
+Speed: 6.58398 KB/s
+Received 12121 bytes in last 2 seconds.
+Speed: 5.91846 KB/s
+Received 10978 bytes in last 2 seconds.
+Speed: 5.36035 KB/s
+Received 4547 bytes in last 2 seconds.
+Speed: 2.22021 KB/s
+Received 21567 bytes in last 2 seconds.
+Speed: 10.5308 KB/s
+Received 13120 bytes in last 2 seconds.
+Speed: 6.40625 KB/s
+Received 6316 bytes in last 2 seconds.
+Speed: 3.08398 KB/s
+Received 5434 bytes in last 2 seconds.
+Speed: 2.65332 KB/s
+Received 16261 bytes in last 2 seconds.
+Speed: 7.93994 KB/s
+Received 17012 bytes in last 2 seconds.
+Speed: 8.30664 KB/s
+Received 13795 bytes in last 2 seconds.
+Speed: 6.73584 KB/s
+Received 10803 bytes in last 2 seconds.
+Speed: 5.2749 KB/s
+Received 14708 bytes in last 2 seconds.
+Speed: 7.18164 KB/s
+Received 13012 bytes in last 2 seconds.
+Speed: 6.35352 KB/s
+Received 17030 bytes in last 2 seconds.
+Speed: 8.31543 KB/s
+Received 14637 bytes in last 2 seconds.
+Speed: 7.14697 KB/s
+Received 16549 bytes in last 2 seconds.
+Speed: 8.08057 KB/s
+Received 18097 bytes in last 2 seconds.
+Speed: 8.83643 KB/s
+Received 16108 bytes in last 2 seconds.
+Speed: 7.86523 KB/s
+Received 14096 bytes in last 2 seconds.
+Speed: 6.88281 KB/s
+Received 15280 bytes in last 2 seconds.
+Speed: 7.46094 KB/s
+Received 9322 bytes in last 2 seconds.
+Speed: 4.55176 KB/s
+Received 11495 bytes in last 2 seconds.
+Speed: 5.61279 KB/s
+Received 14209 bytes in last 2 seconds.
+Speed: 6.93799 KB/s
+Received 16148 bytes in last 2 seconds.
+Speed: 7.88477 KB/s
+Received 14448 bytes in last 2 seconds.
+Speed: 7.05469 KB/s
+Received 790 bytes in last 2 seconds.
+Speed: 0.385742 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 529 bytes in last 2 seconds.
+Speed: 0.258301 KB/s
+Received 574 bytes in last 2 seconds.
+Speed: 0.280273 KB/s
+Received 2072 bytes in last 2 seconds.
+Speed: 1.01172 KB/s
+Received 13138 bytes in last 2 seconds.
+Speed: 6.41504 KB/s
+Received 13651 bytes in last 2 seconds.
+Speed: 6.66553 KB/s
+Received 11127 bytes in last 2 seconds.
+Speed: 5.43311 KB/s
+Received 11807 bytes in last 2 seconds.
+Speed: 5.76514 KB/s
+Received 4849 bytes in last 2 seconds.
+Speed: 2.36768 KB/s
+Received 18542 bytes in last 2 seconds.
+Speed: 9.05371 KB/s
+Received 16423 bytes in last 2 seconds.
+Speed: 8.01904 KB/s
+Received 5853 bytes in last 2 seconds.
+Speed: 2.85791 KB/s
+Received 4498 bytes in last 2 seconds.
+Speed: 2.19629 KB/s
+Received 14803 bytes in last 2 seconds.
+Speed: 7.22803 KB/s
+Received 17147 bytes in last 2 seconds.
+Speed: 8.37256 KB/s
+Received 14326 bytes in last 2 seconds.
+Speed: 6.99512 KB/s
+Received 11657 bytes in last 2 seconds.
+Speed: 5.69189 KB/s
+Received 13858 bytes in last 2 seconds.
+Speed: 6.7666 KB/s
+Received 14006 bytes in last 2 seconds.
+Speed: 6.83887 KB/s
+Received 16454 bytes in last 2 seconds.
+Speed: 8.03418 KB/s
+Received 14700 bytes in last 2 seconds.
+Speed: 7.17773 KB/s
+Received 16387 bytes in last 2 seconds.
+Speed: 8.00146 KB/s
+Received 17935 bytes in last 2 seconds.
+Speed: 8.75732 KB/s
+Received 16837 bytes in last 2 seconds.
+Speed: 8.22119 KB/s
+Received 13048 bytes in last 2 seconds.
+Speed: 6.37109 KB/s
+Received 15802 bytes in last 2 seconds.
+Speed: 7.71582 KB/s
+Received 10393 bytes in last 2 seconds.
+Speed: 5.07471 KB/s
+Received 10568 bytes in last 2 seconds.
+Speed: 5.16016 KB/s
+Received 13620 bytes in last 2 seconds.
+Speed: 6.65039 KB/s
+Received 16211 bytes in last 2 seconds.
+Speed: 7.91553 KB/s
+Received 15383 bytes in last 2 seconds.
+Speed: 7.51123 KB/s
+Received 2464 bytes in last 2 seconds.
+Speed: 1.20313 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 542 bytes in last 2 seconds.
+Speed: 0.264648 KB/s
+Received 489 bytes in last 2 seconds.
+Speed: 0.23877 KB/s
+Received 1343 bytes in last 2 seconds.
+Speed: 0.655762 KB/s
+Received 12755 bytes in last 2 seconds.
+Speed: 6.22803 KB/s
+Received 14060 bytes in last 2 seconds.
+Speed: 6.86523 KB/s
+Received 11352 bytes in last 2 seconds.
+Speed: 5.54297 KB/s
+Received 12409 bytes in last 2 seconds.
+Speed: 6.05908 KB/s
+Received 4849 bytes in last 2 seconds.
+Speed: 2.36768 KB/s
+Received 17845 bytes in last 2 seconds.
+Speed: 8.71338 KB/s
+Received 17120 bytes in last 2 seconds.
+Speed: 8.35938 KB/s
+Received 6190 bytes in last 2 seconds.
+Speed: 3.02246 KB/s
+Received 4408 bytes in last 2 seconds.
+Speed: 2.15234 KB/s
+Received 15046 bytes in last 2 seconds.
+Speed: 7.34668 KB/s
+Received 16657 bytes in last 2 seconds.
+Speed: 8.1333 KB/s
+Received 14326 bytes in last 2 seconds.
+Speed: 6.99512 KB/s
+Received 11657 bytes in last 2 seconds.
+Speed: 5.69189 KB/s
+Received 13858 bytes in last 2 seconds.
+Speed: 6.7666 KB/s
+Received 14006 bytes in last 2 seconds.
+Speed: 6.83887 KB/s
+Received 15955 bytes in last 2 seconds.
+Speed: 7.79053 KB/s
+Received 15662 bytes in last 2 seconds.
+Speed: 7.64746 KB/s
+Received 15924 bytes in last 2 seconds.
+Speed: 7.77539 KB/s
+Received 17166 bytes in last 2 seconds.
+Speed: 8.38184 KB/s
+Received 17606 bytes in last 2 seconds.
+Speed: 8.59668 KB/s
+Received 12486 bytes in last 2 seconds.
+Speed: 6.09668 KB/s
+Received 15955 bytes in last 2 seconds.
+Speed: 7.79053 KB/s
+Received 10236 bytes in last 2 seconds.
+Speed: 4.99805 KB/s
+Received 9916 bytes in last 2 seconds.
+Speed: 4.8418 KB/s
+Received 13921 bytes in last 2 seconds.
+Speed: 6.79736 KB/s
+Received 16184 bytes in last 2 seconds.
+Speed: 7.90234 KB/s
+Received 14353 bytes in last 2 seconds.
+Speed: 7.0083 KB/s
+Received 4399 bytes in last 2 seconds.
+Speed: 2.14795 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 408 bytes in last 2 seconds.
+Speed: 0.199219 KB/s
+Received 601 bytes in last 2 seconds.
+Speed: 0.293457 KB/s
+Received 614 bytes in last 2 seconds.
+Speed: 0.299805 KB/s
+Received 10425 bytes in last 2 seconds.
+Speed: 5.09033 KB/s
+Received 14195 bytes in last 2 seconds.
+Speed: 6.93115 KB/s
+Received 12962 bytes in last 2 seconds.
+Speed: 6.3291 KB/s
+Received 12706 bytes in last 2 seconds.
+Speed: 6.2041 KB/s
+Received 5322 bytes in last 2 seconds.
+Speed: 2.59863 KB/s
+Received 14227 bytes in last 2 seconds.
+Speed: 6.94678 KB/s
+Received 18660 bytes in last 2 seconds.
+Speed: 9.11133 KB/s
+Received 7067 bytes in last 2 seconds.
+Speed: 3.45068 KB/s
+Received 4840 bytes in last 2 seconds.
+Speed: 2.36328 KB/s
+Received 12225 bytes in last 2 seconds.
+Speed: 5.96924 KB/s
+Received 16018 bytes in last 2 seconds.
+Speed: 7.82129 KB/s
+Received 15721 bytes in last 2 seconds.
+Speed: 7.67627 KB/s
+Received 10933 bytes in last 2 seconds.
+Speed: 5.33838 KB/s
+Received 13026 bytes in last 2 seconds.
+Speed: 6.36035 KB/s
+Received 14524 bytes in last 2 seconds.
+Speed: 7.0918 KB/s
+Received 14232 bytes in last 2 seconds.
+Speed: 6.94922 KB/s
+Received 15613 bytes in last 2 seconds.
+Speed: 7.62354 KB/s
+Received 14916 bytes in last 2 seconds.
+Speed: 7.2832 KB/s
+Received 17953 bytes in last 2 seconds.
+Speed: 8.76611 KB/s
+Received 17107 bytes in last 2 seconds.
+Speed: 8.35303 KB/s
+Received 13017 bytes in last 2 seconds.
+Speed: 6.35596 KB/s
+Received 16436 bytes in last 2 seconds.
+Speed: 8.02539 KB/s
+Received 13034 bytes in last 2 seconds.
+Speed: 6.36426 KB/s
+Received 9569 bytes in last 2 seconds.
+Speed: 4.67236 KB/s
+Received 12787 bytes in last 2 seconds.
+Speed: 6.24365 KB/s
+Received 15645 bytes in last 2 seconds.
+Speed: 7.63916 KB/s
+Received 14339 bytes in last 2 seconds.
+Speed: 7.00146 KB/s
+Received 9488 bytes in last 2 seconds.
+Speed: 4.63281 KB/s
+Received 403 bytes in last 2 seconds.
+Speed: 0.196777 KB/s
+Received 443 bytes in last 2 seconds.
+Speed: 0.216309 KB/s
+Received 592 bytes in last 2 seconds.
+Speed: 0.289063 KB/s
+Received 565 bytes in last 2 seconds.
+Speed: 0.275879 KB/s
+Received 7648 bytes in last 2 seconds.
+Speed: 3.73438 KB/s
+Received 14645 bytes in last 2 seconds.
+Speed: 7.15088 KB/s
+Received 12517 bytes in last 2 seconds.
+Speed: 6.11182 KB/s
+Received 13358 bytes in last 2 seconds.
+Speed: 6.52246 KB/s
+Received 7144 bytes in last 2 seconds.
+Speed: 3.48828 KB/s
+Received 10361 bytes in last 2 seconds.
+Speed: 5.05908 KB/s
+Received 21328 bytes in last 2 seconds.
+Speed: 10.4141 KB/s
+Received 7810 bytes in last 2 seconds.
+Speed: 3.81348 KB/s
+Received 4701 bytes in last 2 seconds.
+Speed: 2.29541 KB/s
+Received 9426 bytes in last 2 seconds.
+Speed: 4.60254 KB/s
+Received 16972 bytes in last 2 seconds.
+Speed: 8.28711 KB/s
+Received 16135 bytes in last 2 seconds.
+Speed: 7.87842 KB/s
+Received 11824 bytes in last 2 seconds.
+Speed: 5.77344 KB/s
+Received 12355 bytes in last 2 seconds.
+Speed: 6.03271 KB/s
+Received 14875 bytes in last 2 seconds.
+Speed: 7.26318 KB/s
+Received 14384 bytes in last 2 seconds.
+Speed: 7.02344 KB/s
+Received 15582 bytes in last 2 seconds.
+Speed: 7.6084 KB/s
+Received 15244 bytes in last 2 seconds.
+Speed: 7.44336 KB/s
+Received 17090 bytes in last 2 seconds.
+Speed: 8.34473 KB/s
+Received 17044 bytes in last 2 seconds.
+Speed: 8.32227 KB/s
+Received 14429 bytes in last 2 seconds.
+Speed: 7.04541 KB/s
+Received 15514 bytes in last 2 seconds.
+Speed: 7.5752 KB/s
+Received 13354 bytes in last 2 seconds.
+Speed: 6.52051 KB/s
+Received 9556 bytes in last 2 seconds.
+Speed: 4.66602 KB/s
+Received 11756 bytes in last 2 seconds.
+Speed: 5.74023 KB/s
+Received 16045 bytes in last 2 seconds.
+Speed: 7.83447 KB/s
+Received 14569 bytes in last 2 seconds.
+Speed: 7.11377 KB/s
+Received 11226 bytes in last 2 seconds.
+Speed: 5.48145 KB/s
+Received 587 bytes in last 2 seconds.
+Speed: 0.286621 KB/s
+Received 430 bytes in last 2 seconds.
+Speed: 0.209961 KB/s
+Received 561 bytes in last 2 seconds.
+Speed: 0.273926 KB/s
+Received 578 bytes in last 2 seconds.
+Speed: 0.282227 KB/s
+Received 5105 bytes in last 2 seconds.
+Speed: 2.49268 KB/s
+Received 14411 bytes in last 2 seconds.
+Speed: 7.03662 KB/s
+Received 12868 bytes in last 2 seconds.
+Speed: 6.2832 KB/s
+Received 12472 bytes in last 2 seconds.
+Speed: 6.08984 KB/s
+Received 9133 bytes in last 2 seconds.
+Speed: 4.45947 KB/s
+Received 7157 bytes in last 2 seconds.
+Speed: 3.49463 KB/s
+Received 22871 bytes in last 2 seconds.
+Speed: 11.1675 KB/s
+Received 9201 bytes in last 2 seconds.
+Speed: 4.49268 KB/s
+Received 6109 bytes in last 2 seconds.
+Speed: 2.98291 KB/s
+Received 7234 bytes in last 2 seconds.
+Speed: 3.53223 KB/s
+Received 17651 bytes in last 2 seconds.
+Speed: 8.61865 KB/s
+Received 16373 bytes in last 2 seconds.
+Speed: 7.99463 KB/s
+Received 12724 bytes in last 2 seconds.
+Speed: 6.21289 KB/s
+Received 11743 bytes in last 2 seconds.
+Speed: 5.73389 KB/s
+Received 15266 bytes in last 2 seconds.
+Speed: 7.4541 KB/s
+Received 13678 bytes in last 2 seconds.
+Speed: 6.67871 KB/s
+Received 16571 bytes in last 2 seconds.
+Speed: 8.09131 KB/s
+Received 15851 bytes in last 2 seconds.
+Speed: 7.73975 KB/s
+Received 17499 bytes in last 2 seconds.
+Speed: 8.54443 KB/s
+Received 17498 bytes in last 2 seconds.
+Speed: 8.54395 KB/s
+Received 13831 bytes in last 2 seconds.
+Speed: 6.75342 KB/s
+Received 15613 bytes in last 2 seconds.
+Speed: 7.62354 KB/s
+Received 13372 bytes in last 2 seconds.
+Speed: 6.5293 KB/s
+Received 9677 bytes in last 2 seconds.
+Speed: 4.7251 KB/s
+Received 11253 bytes in last 2 seconds.
+Speed: 5.49463 KB/s
+Received 16045 bytes in last 2 seconds.
+Speed: 7.83447 KB/s
+Received 14569 bytes in last 2 seconds.
+Speed: 7.11377 KB/s
+Received 10830 bytes in last 2 seconds.
+Speed: 5.28809 KB/s
+Received 184722 bytes in last 2 seconds.
+Speed: 90.1963 KB/s
+Received 184381 bytes in last 2 seconds.
+Speed: 90.0298 KB/s
+Received 82801 bytes in last 2 seconds.
+Speed: 40.4302 KB/s
+Received 286302 bytes in last 2 seconds.
+Speed: 139.796 KB/s
+Received 147196 bytes in last 2 seconds.
+Speed: 71.873 KB/s
+Received 369395 bytes in last 2 seconds.
+Speed: 180.369 KB/s
+Received 354277 bytes in last 2 seconds.
+Speed: 172.987 KB/s
+Received 367606 bytes in last 2 seconds.
+Speed: 179.495 KB/s
+Received 373923 bytes in last 2 seconds.
+Speed: 182.58 KB/s
+Received 363438 bytes in last 2 seconds.
+Speed: 177.46 KB/s
+Received 361591 bytes in last 2 seconds.
+Speed: 176.558 KB/s
+Received 373437 bytes in last 2 seconds.
+Speed: 182.342 KB/s
+Received 242393 bytes in last 2 seconds.
+Speed: 118.356 KB/s
+Received 35462 bytes in last 2 seconds.
+Speed: 17.3154 KB/s
+Received 364968 bytes in last 2 seconds.
+Speed: 178.207 KB/s
+Received 366186 bytes in last 2 seconds.
+Speed: 178.802 KB/s
+Received 367413 bytes in last 2 seconds.
+Speed: 179.401 KB/s
+Received 367989 bytes in last 2 seconds.
+Speed: 179.682 KB/s
+Received 368101 bytes in last 2 seconds.
+Speed: 179.737 KB/s
+Received 366293 bytes in last 2 seconds.
+Speed: 178.854 KB/s
+Received 369755 bytes in last 2 seconds.
+Speed: 180.544 KB/s
+Received 347089 bytes in last 2 seconds.
+Speed: 169.477 KB/s
+Received 957 bytes in last 2 seconds.
+Speed: 0.467285 KB/s
+Received 38415 bytes in last 2 seconds.
+Speed: 18.7573 KB/s
+Received 66851 bytes in last 2 seconds.
+Speed: 32.6421 KB/s
+Received 90806 bytes in last 2 seconds.
+Speed: 44.3389 KB/s
+Received 103377 bytes in last 2 seconds.
+Speed: 50.4771 KB/s
+Received 68697 bytes in last 2 seconds.
+Speed: 33.5435 KB/s
+Received 15523 bytes in last 2 seconds.
+Speed: 7.57959 KB/s
+Received 80000 bytes in last 2 seconds.
+Speed: 39.0625 KB/s
+Received 77520 bytes in last 2 seconds.
+Speed: 37.8516 KB/s
+Received 103030 bytes in last 2 seconds.
+Speed: 50.3076 KB/s
+Received 84254 bytes in last 2 seconds.
+Speed: 41.1396 KB/s
+Received 8776 bytes in last 2 seconds.
+Speed: 4.28516 KB/s
+Received 24334 bytes in last 2 seconds.
+Speed: 11.8818 KB/s
+Received 74983 bytes in last 2 seconds.
+Speed: 36.6128 KB/s
+Received 82002 bytes in last 2 seconds.
+Speed: 40.04 KB/s
+Received 99756 bytes in last 2 seconds.
+Speed: 48.709 KB/s
+Received 88028 bytes in last 2 seconds.
+Speed: 42.9824 KB/s
+Received 957 bytes in last 2 seconds.
+Speed: 0.467285 KB/s
+Received 38006 bytes in last 2 seconds.
+Speed: 18.5576 KB/s
+Received 66923 bytes in last 2 seconds.
+Speed: 32.6772 KB/s
+Received 92847 bytes in last 2 seconds.
+Speed: 45.3354 KB/s
+Received 102190 bytes in last 2 seconds.
+Speed: 49.8975 KB/s
+Received 68180 bytes in last 2 seconds.
+Speed: 33.291 KB/s
+Received 11118 bytes in last 2 seconds.
+Speed: 5.42871 KB/s
+Received 82728 bytes in last 2 seconds.
+Speed: 40.3945 KB/s
+Received 73394 bytes in last 2 seconds.
+Speed: 35.8369 KB/s
+Received 102819 bytes in last 2 seconds.
+Speed: 50.2046 KB/s
+Received 85207 bytes in last 2 seconds.
+Speed: 41.605 KB/s
+Received 13837 bytes in last 2 seconds.
+Speed: 6.75635 KB/s
+Received 1387 bytes in last 2 seconds.
+Speed: 0.677246 KB/s
+Received 50624 bytes in last 2 seconds.
+Speed: 24.7188 KB/s
+Received 70010 bytes in last 2 seconds.
+Speed: 34.1846 KB/s
+Received 91705 bytes in last 2 seconds.
+Speed: 44.7778 KB/s
+Received 97671 bytes in last 2 seconds.
+Speed: 47.6909 KB/s
+Received 59160 bytes in last 2 seconds.
+Speed: 28.8867 KB/s
+Received 50310 bytes in last 2 seconds.
+Speed: 24.5654 KB/s
+Received 70311 bytes in last 2 seconds.
+Speed: 34.3315 KB/s
+Received 92604 bytes in last 2 seconds.
+Speed: 45.2168 KB/s
+Received 96772 bytes in last 2 seconds.
+Speed: 47.252 KB/s
+Received 59173 bytes in last 2 seconds.
+Speed: 28.8931 KB/s
+Received 50297 bytes in last 2 seconds.
+Speed: 24.5591 KB/s
+Received 70311 bytes in last 2 seconds.
+Speed: 34.3315 KB/s
+Received 92604 bytes in last 2 seconds.
+Speed: 45.2168 KB/s
+Received 97100 bytes in last 2 seconds.
+Speed: 47.4121 KB/s
+Received 58806 bytes in last 2 seconds.
+Speed: 28.7139 KB/s
+Received 50637 bytes in last 2 seconds.
+Speed: 24.7251 KB/s
+Received 70473 bytes in last 2 seconds.
+Speed: 34.4106 KB/s
+Received 91696 bytes in last 2 seconds.
+Speed: 44.7734 KB/s
+Received 97729 bytes in last 2 seconds.
+Speed: 47.7192 KB/s
+Received 58635 bytes in last 2 seconds.
+Speed: 28.6304 KB/s
+Received 50624 bytes in last 2 seconds.
+Speed: 24.7188 KB/s
+Received 69475 bytes in last 2 seconds.
+Speed: 33.9233 KB/s
+Received 92694 bytes in last 2 seconds.
+Speed: 45.2607 KB/s
+Received 97545 bytes in last 2 seconds.
+Speed: 47.6294 KB/s
+Received 58806 bytes in last 2 seconds.
+Speed: 28.7139 KB/s
+Received 50637 bytes in last 2 seconds.
+Speed: 24.7251 KB/s
+Received 69475 bytes in last 2 seconds.
+Speed: 33.9233 KB/s
+Received 92694 bytes in last 2 seconds.
+Speed: 45.2607 KB/s
+Received 97217 bytes in last 2 seconds.
+Speed: 47.4692 KB/s
+Received 59147 bytes in last 2 seconds.
+Speed: 28.8804 KB/s
+Received 50323 bytes in last 2 seconds.
+Speed: 24.5718 KB/s
+Received 69776 bytes in last 2 seconds.
+Speed: 34.0703 KB/s
+Received 92694 bytes in last 2 seconds.
+Speed: 45.2607 KB/s
+Received 96979 bytes in last 2 seconds.
+Speed: 47.353 KB/s
+Received 59372 bytes in last 2 seconds.
+Speed: 28.9902 KB/s
+Received 50336 bytes in last 2 seconds.
+Speed: 24.5781 KB/s
+Received 70311 bytes in last 2 seconds.
+Speed: 34.3315 KB/s
+Received 92604 bytes in last 2 seconds.
+Speed: 45.2168 KB/s
+Received 96534 bytes in last 2 seconds.
+Speed: 47.1357 KB/s
+Received 57998 bytes in last 2 seconds.
+Speed: 28.3193 KB/s
