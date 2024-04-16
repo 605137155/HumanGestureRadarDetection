@@ -2,6 +2,9 @@
 
 人体姿态识别软件项目
 
+![3DGestureGet](https://github.com/605137155/QT_HumanGestureRadarDetection/assets/72680169/87d060f6-faf9-42cb-8be5-4f2cb98ff47a)
+
+
 负责内容：
 
   1、将雷达采集的数据从串口接收并展示的QT开发
